@@ -1,0 +1,75 @@
+{
+  "FormKey": "000009:LessLoot - AmericaRising2.esp",
+  "EditorID": "AR2_LLI_Loot_Ammo_Basic",
+  "FormVersion": 128,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "067381:Fallout4.esm",
+        "Count": 2
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "067384:Fallout4.esm",
+        "Count": 2
+      }
+    },
+    {
+      "Data": {
+        "Level": 5,
+        "Reference": "06738A:Fallout4.esm",
+        "Count": 2
+      }
+    },
+    {
+      "Data": {
+        "Level": 10,
+        "Reference": "067382:Fallout4.esm",
+        "Count": 2
+      }
+    },
+    {
+      "Data": {
+        "Level": 20,
+        "Reference": "067383:Fallout4.esm",
+        "Count": 2
+      }
+    },
+    {
+      "Data": {
+        "Level": 20,
+        "Reference": "06738A:Fallout4.esm",
+        "Count": 2
+      }
+    },
+    {
+      "Data": {
+        "Level": 30,
+        "Reference": "0DB29E:Fallout4.esm",
+        "Count": 2
+      }
+    },
+    {
+      "Data": {
+        "Level": 35,
+        "Reference": "067385:Fallout4.esm",
+        "Count": 2
+      }
+    },
+    {
+      "Data": {
+        "Level": 35,
+        "Reference": "067387:Fallout4.esm",
+        "Count": 2
+      }
+    }
+  ]
+}

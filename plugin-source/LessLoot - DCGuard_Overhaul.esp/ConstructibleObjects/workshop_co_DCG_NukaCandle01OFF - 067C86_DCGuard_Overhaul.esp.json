@@ -1,0 +1,46 @@
+{
+  "FormKey": "067C86:DCGuard_Overhaul.esp",
+  "EditorID": "workshop_co_DCG_NukaCandle01OFF",
+  "PickUpSound": "0196B0:Fallout4.esm",
+  "PutDownSound": "0196BA:Fallout4.esm",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "04835D:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "0AEC5F:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Empty Nuka Cola bottle turned candle (no flame)"
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetQuestCompleted",
+        "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
+        "ParameterOneNumber": 35929627
+      }
+    }
+  ],
+  "WorkbenchKeyword": "05B5E3:Fallout4.esm",
+  "Categories": [
+    "2EFCAA:DCGuard_Overhaul.esp"
+  ],
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

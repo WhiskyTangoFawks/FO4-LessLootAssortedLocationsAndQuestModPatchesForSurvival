@@ -1,0 +1,13 @@
+{
+  "FormKey": "034895:AmericaRising2.esm",
+  "EditorID": "AR_EnclaveOilRigProductionName_AmmoFusionCellMsg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Fusion Cell x10"
+  },
+  "DisplayTime": 2
+}

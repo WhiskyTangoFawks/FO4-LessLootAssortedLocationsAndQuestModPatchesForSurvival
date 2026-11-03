@@ -1,0 +1,999 @@
+{
+  "FormKey": "00DA11:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "POIJoel05",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "HasWater"
+  ],
+  "PreVisFilesTimestamp": 11824,
+  "InPreVisFileOf": "00DDAF:Fallout4.esm",
+  "PreCombinedFilesTimestamp": 11824,
+  "Grid": {
+    "Point": "1, 17"
+  },
+  "MaxHeightData": {
+    "Offset": 768.0,
+    "HeightMap": [
+      [8,7,7,7,7,7,7,7,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,7,8],
+      [7,7,7,6,6,6,6,7,7,13,9,5,5,6,6,6,6,6,6,6,6,6,5,5,5,6,6,6,6,7,7,8],
+      [7,6,6,6,6,6,6,5,5,14,5,5,6,6,6,6,6,6,6,6,6,6,5,5,5,5,6,6,6,7,7,8],
+      [7,6,6,6,6,6,6,5,5,5,5,5,6,6,6,6,6,6,6,6,6,6,5,5,5,5,6,6,6,7,7,8],
+      [7,7,6,6,5,5,5,5,5,5,5,6,6,6,7,7,7,7,7,6,5,5,5,5,5,6,6,6,7,7,7,8],
+      [7,7,6,6,5,5,5,5,5,6,6,6,6,7,7,7,7,7,7,6,5,5,5,5,5,6,6,6,7,7,8,8],
+      [6,6,6,5,5,5,5,5,5,6,6,6,7,7,7,7,7,7,7,6,5,5,5,5,6,6,6,6,7,8,8,8],
+      [6,6,5,5,5,5,5,5,5,6,6,7,7,7,7,7,7,7,7,6,5,5,5,5,6,6,6,7,7,8,8,8],
+      [5,5,5,4,4,4,4,4,4,5,7,7,7,7,7,7,7,7,7,6,5,5,5,5,6,6,7,7,7,8,8,8],
+      [4,4,4,4,4,4,3,4,4,5,7,7,7,7,7,7,7,7,7,6,5,5,5,5,6,7,7,7,7,8,8,8],
+      [4,4,4,3,9,6,3,3,3,4,5,7,7,7,7,7,7,7,6,5,5,4,5,5,6,7,7,7,7,8,8,8],
+      [4,4,3,3,10,6,7,8,7,3,4,7,7,7,7,7,7,7,6,5,4,4,5,5,6,7,7,7,7,8,8,8],
+      [4,4,3,3,3,3,7,6,7,3,4,6,7,7,7,7,7,7,6,4,4,4,4,6,6,6,7,7,7,7,8,8],
+      [4,4,3,3,3,3,3,3,3,3,3,4,6,7,7,7,7,7,6,4,4,4,4,6,6,6,7,7,7,7,7,8],
+      [4,4,3,3,3,3,3,3,3,3,3,4,4,7,7,7,7,7,4,4,3,4,5,6,6,6,6,7,7,7,7,7],
+      [3,3,3,3,3,3,3,3,3,3,3,3,4,7,7,7,7,5,4,3,3,4,5,6,6,6,6,7,7,7,7,7],
+      [3,3,3,2,2,2,2,2,2,2,3,3,7,7,7,7,6,4,3,3,3,3,4,5,5,6,6,6,7,7,7,7],
+      [3,2,2,2,2,2,2,2,2,2,3,3,7,7,7,5,4,3,3,3,3,3,4,4,5,6,6,6,7,7,7,7],
+      [2,2,2,1,5,2,2,2,2,2,2,2,7,7,6,5,3,3,3,3,3,3,4,4,5,6,6,7,7,7,7,7],
+      [2,2,2,9,10,8,1,1,2,2,2,2,2,3,4,3,3,3,3,2,3,3,3,4,5,5,6,7,7,7,7,7],
+      [2,2,2,1,9,7,1,1,1,2,2,2,2,2,3,3,3,2,2,2,3,3,3,4,4,5,5,6,7,7,7,7],
+      [2,2,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,3,3,4,4,4,5,5,6,6,6,6],
+      [1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,3,3,3,4,4,5,5,5,5,5,6],
+      [1,1,1,1,1,0,1,1,1,1,6,4,2,10,2,2,2,2,2,2,2,3,3,8,5,4,5,5,5,5,5,5],
+      [1,1,1,1,1,0,1,1,1,1,5,4,8,2,2,2,2,2,2,2,2,3,3,5,7,4,4,4,4,4,4,4],
+      [1,1,1,1,0,0,1,1,1,1,6,3,9,1,1,1,2,2,2,2,3,3,3,3,4,4,4,4,4,4,4,4],
+      [1,1,0,0,0,0,0,0,1,1,1,4,5,1,1,1,1,2,2,2,2,2,3,3,3,3,4,4,3,3,3,3],
+      [1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,3,3,3,3],
+      [0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,3,3,3],
+      [0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,3,3,3,3,3,2,2,2],
+      [0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2],
+      [0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2]
+    ]
+  },
+  "WaterHeight": 750.0,
+  "Regions": [
+    "049BE0:Fallout4.esm",
+    "0E4755:Fallout4.esm",
+    "109E91:Fallout4.esm"
+  ],
+  "Water": "0C8633:Fallout4.esm",
+  "PhysicsReferences": [
+    "1FB8E9:Fallout4.esm",
+    "1FB8F1:Fallout4.esm",
+    "2473D1:Fallout4.esm",
+    "0000D6:PLI_Dark_Hollow_Pond.esp",
+    "0000D7:PLI_Dark_Hollow_Pond.esp",
+    "0000DB:PLI_Dark_Hollow_Pond.esp",
+    "0000DD:PLI_Dark_Hollow_Pond.esp",
+    "0000E6:PLI_Dark_Hollow_Pond.esp",
+    "0000E7:PLI_Dark_Hollow_Pond.esp",
+    "0000E8:PLI_Dark_Hollow_Pond.esp",
+    "0000E9:PLI_Dark_Hollow_Pond.esp",
+    "0001A6:PLI_Dark_Hollow_Pond.esp",
+    "0001F5:PLI_Dark_Hollow_Pond.esp",
+    "0001F6:PLI_Dark_Hollow_Pond.esp"
+  ],
+  "CombinedMeshes": [
+    28861806,
+    158464202,
+    176306026,
+    316928405,
+    324769019,
+    425316049,
+    462555487,
+    524771173,
+    563641934,
+    662107564,
+    851700405,
+    883756055,
+    942779081,
+    973764369,
+    1001525887,
+    1015007986,
+    1043282813,
+    1499057873,
+    1598512997,
+    1637383758,
+    1735849388,
+    1925442229,
+    2016520905,
+    2075267711,
+    2305947850,
+    2472252667,
+    2672254821,
+    2809591212,
+    2998115747,
+    2999184053,
+    3031239703,
+    3090262729,
+    3149009535,
+    3190766461,
+    3379689674,
+    3745996645,
+    3883333036,
+    4072925877,
+    4164004553,
+    4264508285
+  ],
+  "CombinedMeshReferences": [
+    {
+      "Reference": "0DF3A3:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "0DF3AE:Fallout4.esm",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "0DF3AF:Fallout4.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "0DF3B1:Fallout4.esm",
+      "CombinedMesh": 158464202
+    },
+    {
+      "Reference": "0DF3B2:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "0DF3B3:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "0DF3B4:Fallout4.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "0DF3B5:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "0DF3B6:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0DF3B7:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0DF3B8:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0DF3B9:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0DF3BA:Fallout4.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "0DF3BB:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0DF3BC:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0DF3BD:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1195DF:Fallout4.esm",
+      "CombinedMesh": 3190766461
+    },
+    {
+      "Reference": "1195E0:Fallout4.esm",
+      "CombinedMesh": 2305947850
+    },
+    {
+      "Reference": "1195E1:Fallout4.esm",
+      "CombinedMesh": 2305947850
+    },
+    {
+      "Reference": "1195E2:Fallout4.esm",
+      "CombinedMesh": 2305947850
+    },
+    {
+      "Reference": "1195E3:Fallout4.esm",
+      "CombinedMesh": 3190766461
+    },
+    {
+      "Reference": "1195E4:Fallout4.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "1195E5:Fallout4.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "1195E6:Fallout4.esm",
+      "CombinedMesh": 3379689674
+    },
+    {
+      "Reference": "1195E7:Fallout4.esm",
+      "CombinedMesh": 4072925877
+    },
+    {
+      "Reference": "1195E8:Fallout4.esm",
+      "CombinedMesh": 4072925877
+    },
+    {
+      "Reference": "1195E9:Fallout4.esm",
+      "CombinedMesh": 4072925877
+    },
+    {
+      "Reference": "1195EA:Fallout4.esm",
+      "CombinedMesh": 3190766461
+    },
+    {
+      "Reference": "1195EB:Fallout4.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "1195EC:Fallout4.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "1195ED:Fallout4.esm",
+      "CombinedMesh": 2672254821
+    },
+    {
+      "Reference": "1195EE:Fallout4.esm",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "1195EF:Fallout4.esm",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "15731B:Fallout4.esm",
+      "CombinedMesh": 2998115747
+    },
+    {
+      "Reference": "15731C:Fallout4.esm",
+      "CombinedMesh": 2998115747
+    },
+    {
+      "Reference": "15731D:Fallout4.esm",
+      "CombinedMesh": 2472252667
+    },
+    {
+      "Reference": "15731E:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "15731F:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "157320:Fallout4.esm",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "157321:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "157322:Fallout4.esm",
+      "CombinedMesh": 158464202
+    },
+    {
+      "Reference": "157323:Fallout4.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "157324:Fallout4.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "157325:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "157326:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "157327:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "157328:Fallout4.esm",
+      "CombinedMesh": 1015007986
+    },
+    {
+      "Reference": "157329:Fallout4.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "15732A:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1FB8EA:Fallout4.esm",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "1FB8EB:Fallout4.esm",
+      "CombinedMesh": 4264508285
+    },
+    {
+      "Reference": "1FB8EC:Fallout4.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "1FB8ED:Fallout4.esm",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "1FB8EE:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1FB8F0:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1FB901:Fallout4.esm",
+      "CombinedMesh": 2999184053
+    },
+    {
+      "Reference": "20BCC5:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "20BCC6:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "20BCC7:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "20BCC8:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "20D6E8:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "20D6E9:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "20D6EA:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "20D6EC:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "20D6EF:Fallout4.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "20D6FA:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "246DCB:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "2473C4:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "2473C5:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "2473C6:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "2473C7:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "2473C8:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "2473C9:Fallout4.esm",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "2473CA:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "2473CB:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "2473CC:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "2473CD:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "2473CE:Fallout4.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "2473CF:Fallout4.esm",
+      "CombinedMesh": 158464202
+    },
+    {
+      "Reference": "2473D0:Fallout4.esm",
+      "CombinedMesh": 158464202
+    },
+    {
+      "Reference": "2473D2:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "2473D3:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "0000D5:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0000D9:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0000DA:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "0000DC:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1925442229
+    },
+    {
+      "Reference": "0000DE:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 2672254821
+    },
+    {
+      "Reference": "0000DF:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "0000E0:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "0000E1:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "0000E2:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "0000E3:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "0000E4:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "0000E5:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "0000EA:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3031239703
+    },
+    {
+      "Reference": "0000EB:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3031239703
+    },
+    {
+      "Reference": "0000EC:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "0000ED:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "0000EE:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "0000EF:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0000F0:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3190766461
+    },
+    {
+      "Reference": "0000F1:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0000F2:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0000F3:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0000F5:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "0000F6:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0000F7:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "0000F9:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "0000FB:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0000FC:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0000FD:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0000FE:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "00010F:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "000110:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "000111:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "000112:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "000113:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "000114:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "00011A:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "00011B:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 2672254821
+    },
+    {
+      "Reference": "00011C:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "000120:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1598512997
+    },
+    {
+      "Reference": "000121:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "000122:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "000123:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "000124:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1598512997
+    },
+    {
+      "Reference": "000125:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1598512997
+    },
+    {
+      "Reference": "000126:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "00015E:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3745996645
+    },
+    {
+      "Reference": "000160:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1598512997
+    },
+    {
+      "Reference": "000161:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 4164004553
+    },
+    {
+      "Reference": "000162:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "000163:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "000164:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "000165:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "000166:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3090262729
+    },
+    {
+      "Reference": "000167:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3745996645
+    },
+    {
+      "Reference": "000168:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 2672254821
+    },
+    {
+      "Reference": "000169:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3745996645
+    },
+    {
+      "Reference": "00016D:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "000193:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0001A5:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0001A7:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 3149009535
+    },
+    {
+      "Reference": "0001A8:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 2075267711
+    },
+    {
+      "Reference": "0001A9:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0001AC:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 4072925877
+    },
+    {
+      "Reference": "0001AD:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1925442229
+    },
+    {
+      "Reference": "0001BA:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "0001BB:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "0001BC:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "0001BE:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1637383758
+    },
+    {
+      "Reference": "0001C9:PLI_Dark_Hollow_Pond.esp",
+      "CombinedMesh": 1925442229
+    }
+  ],
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000103:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "6323.385, 71569.59, 1175.9662",
+      "Rotation": "0.055988416, 6.2817993, 0.0009843657"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000105:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "6318.5317, 71576.695, 1175.594",
+      "Rotation": "0.053213343, 6.2796617, 6.168515"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000107:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0DEDE1:Fallout4.esm",
+      "Position": "6315.431, 71570.35, 1175.9463",
+      "Rotation": "0.053709015, 0.0004834562, 0.006457718"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000109:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "00000F:Fallout4.esm",
+      "Position": "6300.4565, 71518.74, 1178.6157",
+      "Rotation": "0.05067389, 0.004457571, 3.4906584E-06"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00010B:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "00000F:Fallout4.esm",
+      "Position": "6296.7446, 71522.72, 1178.4075",
+      "Rotation": "0.04832293, 0.002432989, 2.4830868"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000139:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330F2:Fallout4.esm",
+      "Position": "6268.408, 71356.68, 1202.1619",
+      "Rotation": "6.28303, 0.0003769911, 0.014001031"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00013B:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330FF:Fallout4.esm",
+      "Position": "6265.476, 71358.98, 1137.4395",
+      "Rotation": "6.282995, 0.00014137167, 2.2865279"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00013D:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330FF:Fallout4.esm",
+      "Position": "6251.022, 71359.555, 1137.4395",
+      "Rotation": "6.2829795, 0.00011170107, 2.1609848"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00013E:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "02FBE4:Fallout4.esm",
+      "Position": "6272.773, 71367.79, 1202.1235",
+      "Rotation": "0.0014800392, 6.280936, 5.6831937"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000140:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "11EA93:Fallout4.esm",
+      "Position": "6285.5605, 71362.68, 1202.1714",
+      "Rotation": "0.0060353484, 0.022270402, 1.9320341"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000142:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "11EA93:Fallout4.esm",
+      "Position": "6294.4136, 71359.83, 1202.1311",
+      "Rotation": "0.0013369222, 6.2813163, 3.4606354"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000144:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0F932C:Fallout4.esm",
+      "Position": "6299.841, 71362.836, 1202.1338",
+      "Rotation": "6.282585, 0.0037437312, 4.1859803"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000145:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0366C2:Fallout4.esm",
+      "Position": "6290.5815, 71367.66, 1202.1409",
+      "Rotation": "0, 0, 5.166377"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000147:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330B4:Fallout4.esm",
+      "Position": "6267.989, 71365.23, 1171.933",
+      "Rotation": "4.712813, 0.15420857, 4.713246"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00014B:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "06B165:Fallout4.esm",
+      "Position": "6304.1406, 71519.68, 1124.3408",
+      "Rotation": "6.283028, 6.1961, 5.235988E-06"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000155:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F908:Fallout4.esm",
+      "Position": "6272.9727, 71370.25, 1170.2206",
+      "Rotation": "0, 0, 2.683189"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000157:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "192697:Fallout4.esm",
+      "Position": "6294.838, 71350.11, 1170.1066",
+      "Rotation": "0.00047647487, 6.281536, 0.03812672"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00019F:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "046952:Fallout4.esm",
+      "Position": "7723.021, 72101.13, 950.1045",
+      "Rotation": "1.7132955, 5.0765643, 4.608107"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0001A4:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0913CA:Fallout4.esm",
+      "Position": "7640.7964, 71848.1, 945.42303",
+      "Rotation": "6.1537986, 6.1820974, 0.012112585"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0001AE:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "046952:Fallout4.esm",
+      "Position": "5431.4526, 71532.945, 1649.1024",
+      "Rotation": "1.6231946, 1.5420787, 1.6530764"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0001B0:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "1C4012:Fallout4.esm",
+      "Position": "5438.7515, 71486.53, 1647.9427",
+      "Rotation": "4.7125235, 0.14081141, 5.3186464"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0001B2:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "1C4012:Fallout4.esm",
+      "Position": "5412.8423, 71524.55, 1648.2301",
+      "Rotation": "1.5700982, 1.4334162, 5.0281157"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0001B5:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0366BB:Fallout4.esm",
+      "Position": "5453.308, 71537.24, 1645.6692",
+      "Rotation": "6.2811937, 6.2805324, 2.2832205"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0001B6:PLI_Dark_Hollow_Pond.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "04A152:Fallout4.esm",
+      "Position": "5438.925, 71502.43, 1645.7993",
+      "Rotation": "6.2830386, 0.00070860365, 0.09443627"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "FormKey": "000003:LessLoot - AmericaRising2.esp",
+  "EditorID": "Container_Loot_Medkit_AR2",
+  "MaxCount": 2,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "023736:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.7
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0366C0:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.6
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "052409:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.8
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0C4469:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "249F66:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.85
+      }
+    }
+  ],
+  "EpicLootChance": "03F1E4:Fallout4.esm"
+}

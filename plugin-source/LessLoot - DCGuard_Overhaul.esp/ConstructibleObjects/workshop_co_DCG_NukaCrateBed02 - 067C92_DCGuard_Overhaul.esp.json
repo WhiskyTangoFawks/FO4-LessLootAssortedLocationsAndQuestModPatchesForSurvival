@@ -1,0 +1,46 @@
+{
+  "FormKey": "067C92:DCGuard_Overhaul.esp",
+  "EditorID": "workshop_co_DCG_NukaCrateBed02",
+  "PickUpSound": "0196B0:Fallout4.esm",
+  "PutDownSound": "0196BA:Fallout4.esm",
+  "Components": [
+    {
+      "Component": "01FAC2:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Bed made from empty Nuka Cola crates and display shelf"
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetQuestCompleted",
+        "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
+        "ParameterOneNumber": 35929627
+      }
+    }
+  ],
+  "WorkbenchKeyword": "05B5E3:Fallout4.esm",
+  "Categories": [
+    "1C86CA:DCGuard_Overhaul.esp"
+  ],
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

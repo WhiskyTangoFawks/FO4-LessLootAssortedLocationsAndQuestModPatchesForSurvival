@@ -1,0 +1,37 @@
+{
+  "FormKey": "00B01A:InsideJobs.esp",
+  "EditorID": "tb_Loot_PorkBeans",
+  "ObjectBounds": {
+    "First": "-37, -24, 0",
+    "Second": "37, 23, 19"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Suitcase"
+  },
+  "Model": {
+    "File": "SetDressing\\Suitcase\\Suitcase01.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "0330F0:Fallout4.esm",
+        "Count": 4
+      }
+    },
+    {
+      "Item": {
+        "Item": "19DE9D:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Flags": [
+    "AllowSoundsWhenAnimation"
+  ],
+  "Keywords": [
+    "184462:Fallout4.esm"
+  ],
+  "TakeAllSound": "093F12:Fallout4.esm"
+}

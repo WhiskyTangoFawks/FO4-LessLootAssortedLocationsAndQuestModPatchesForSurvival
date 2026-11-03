@@ -1,0 +1,822 @@
+{
+  "FormKey": "03486E:AmericaRising2.esm",
+  "EditorID": "AR_EnclaveOilRigProductionSystem",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "AR:AR_EnclaveOilRigProductionScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "Ammunition",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0C1897:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 1
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iOutputOverride",
+                    "Data": 10
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034895:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "01DBB7:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 2
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iOutputOverride",
+                    "Data": 5
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034894:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "075FE4:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 5
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iOutputOverride",
+                    "Data": 1
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034893:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0CAC78:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 3
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iOutputOverride",
+                    "Data": 35
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034897:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0CABA3:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 7
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iOutputOverride",
+                    "Data": 1
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034896:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0E6B2E:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 10
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034898:AmericaRising2.esm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "Armors",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "01A6D6:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 4
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034880:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "01A6D4:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 4
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034881:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "01A6D5:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 4
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "03487F:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "01A6D2:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 4
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034882:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0014B6:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 2
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0014B5:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 2
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "017317:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 3
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0312CE:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 4
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "034883:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 7
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034886:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "034884:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 9
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034887:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "034885:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 12
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034888:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "017315:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 6
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "01A679:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 25
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "034899:AmericaRising2.esm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "AR_EnclaveMisc07",
+            "Object": "034877:AmericaRising2.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "AR_EnclaveMisc08",
+            "Object": "03489D:AmericaRising2.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "AR_EnclaveOilRigProductionNoneMsg",
+            "Object": "034876:AmericaRising2.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "AR_EnclaveOilRigProductionToken",
+            "Object": "03486B:AmericaRising2.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "AR_EnclaveProductionItemCostGlobal",
+            "Object": "034875:AmericaRising2.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "AR_EnclaveProductionProgressGlobal",
+            "Object": "034872:AmericaRising2.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "AR_EnclaveProductionQueueGlobal",
+            "Object": "034873:AmericaRising2.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "AR_EnclaveProductionTokensAvailableGlobal",
+            "Object": "03486F:AmericaRising2.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "Clothing",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "033A82:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 1
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "01B216:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 1
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0014BC:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 4
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0014BB:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 3
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0014BA:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 2
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "001798:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 10
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "001799:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 10
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0014BE:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 5
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0014BD:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 4
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0014C1:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 3
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "01A291:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 3
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "0014C2:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptObjectListProperty",
+            "Name": "CostGlobals",
+            "Objects": [
+              {
+                "Name": "",
+                "Object": "034889:AmericaRising2.esm"
+              },
+              {
+                "Name": "",
+                "Object": "03488A:AmericaRising2.esm"
+              },
+              {
+                "Name": "",
+                "Object": "03488B:AmericaRising2.esm"
+              },
+              {
+                "Name": "",
+                "Object": "03488C:AmericaRising2.esm"
+              },
+              {
+                "Name": "",
+                "Object": "03488D:AmericaRising2.esm"
+              },
+              {
+                "Name": "",
+                "Object": "03488E:AmericaRising2.esm"
+              },
+              {
+                "Name": "",
+                "Object": "03488F:AmericaRising2.esm"
+              },
+              {
+                "Name": "",
+                "Object": "034890:AmericaRising2.esm"
+              },
+              {
+                "Name": "",
+                "Object": "034891:AmericaRising2.esm"
+              },
+              {
+                "Name": "",
+                "Object": "034892:AmericaRising2.esm"
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "ProductionTerminal",
+            "Object": "03486E:AmericaRising2.esm",
+            "Alias": 1
+          },
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "WEAPONS",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "01A3E2:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 3
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "03487B:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "01A3E3:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 5
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "03487A:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "01A631:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 4
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "03487D:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "01A636:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 6
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "03487C:AmericaRising2.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "akItem",
+                    "Object": "02C5BA:AmericaRising2.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "iCost",
+                    "Data": 10
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "mNameOverride",
+                    "Object": "03487E:AmericaRising2.esm"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Versioning": [
+      "Break0"
+    ],
+    "Script": {
+      "Name": ""
+    }
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "(SM) Handles Manufacturing system"
+  },
+  "Data": {
+    "Flags": [
+      "RunOnce"
+    ],
+    "Priority": 5
+  },
+  "Filter": "America Rising\\Enclave\\Systems\\",
+  "UnusedConditions": [],
+  "Stages": [
+    {
+      "Index": 1000,
+      "Unknown": 111,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Factory Production System initialized."
+        }
+      ]
+    },
+    {
+      "Index": 2000,
+      "Flags": [
+        "RunOnStop"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Factory Production System stopped."
+        }
+      ]
+    }
+  ],
+  "Aliases": [
+    {
+      "MutagenObjectType": "QuestLocationAlias",
+      "Name": "AREnclaveOilRigInterior04",
+      "Flags": [
+        "AllowReserved",
+        "AllowCleared"
+      ],
+      "SpecificLocation": "016DDF:AmericaRising2.esm"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 1,
+      "Name": "ProductionTerminal",
+      "Flags": [
+        "AllowDead",
+        "AllowDisabled",
+        "AllowDestroyed"
+      ],
+      "Location": {
+        "AliasID": 0,
+        "RefType": "02343A:AmericaRising2.esm"
+      },
+      "VoiceTypes": "Null"
+    }
+  ]
+}

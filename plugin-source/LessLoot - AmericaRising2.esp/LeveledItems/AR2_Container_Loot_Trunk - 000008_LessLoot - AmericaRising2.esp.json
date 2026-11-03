@@ -1,0 +1,83 @@
+{
+  "FormKey": "000008:LessLoot - AmericaRising2.esp",
+  "EditorID": "AR2_Container_Loot_Trunk",
+  "MaxCount": 5,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0BF42A:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.99
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0BF42C:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.9
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0BF42D:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.99
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0D6E6A:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.4
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0D6E6E:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.8
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000009:LessLoot - AmericaRising2.esp",
+        "Count": 1,
+        "ChanceNone": 0.5
+      }
+    },
+    {
+      "Data": {
+        "Level": 10,
+        "Reference": "0BF429:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.9
+      }
+    },
+    {
+      "Data": {
+        "Level": 15,
+        "Reference": "0CFC90:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.95
+      }
+    },
+    {
+      "Data": {
+        "Level": 25,
+        "Reference": "0CFC8F:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.99
+      }
+    }
+  ],
+  "EpicLootChance": "03F1E4:Fallout4.esm"
+}

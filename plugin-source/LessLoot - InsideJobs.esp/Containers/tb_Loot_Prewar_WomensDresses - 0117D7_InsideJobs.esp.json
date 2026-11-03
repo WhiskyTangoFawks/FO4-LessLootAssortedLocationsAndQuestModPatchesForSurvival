@@ -1,0 +1,56 @@
+{
+  "FormKey": "0117D7:InsideJobs.esp",
+  "EditorID": "tb_Loot_Prewar_WomensDresses",
+  "ObjectBounds": {
+    "First": "-37, -24, 0",
+    "Second": "37, 23, 19"
+  },
+  "PreviewTransform": "01AD1E:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Suitcase"
+  },
+  "Model": {
+    "File": "SetDressing\\Suitcase\\Suitcase01.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "059B3F:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1B5F1B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "2075C0:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "2075C1:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "00E7D9:InsideJobs.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "Flags": [
+    "AllowSoundsWhenAnimation"
+  ],
+  "Keywords": [
+    "184462:Fallout4.esm"
+  ],
+  "TakeAllSound": "093F12:Fallout4.esm"
+}

@@ -1,0 +1,50 @@
+{
+  "FormKey": "2BCA32:DCGuard_Overhaul.esp",
+  "EditorID": "workshop_co_DCG_NukaLampRush",
+  "PickUpSound": "0196B0:Fallout4.esm",
+  "PutDownSound": "0196BA:Fallout4.esm",
+  "Components": [
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "030EF8:DLCNukaWorld.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Nuka Mix Lantern"
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetQuestCompleted",
+        "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
+        "ParameterOneNumber": 35929627
+      }
+    }
+  ],
+  "WorkbenchKeyword": "05B5E3:Fallout4.esm",
+  "Categories": [
+    "2BCA2A:DCGuard_Overhaul.esp"
+  ],
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

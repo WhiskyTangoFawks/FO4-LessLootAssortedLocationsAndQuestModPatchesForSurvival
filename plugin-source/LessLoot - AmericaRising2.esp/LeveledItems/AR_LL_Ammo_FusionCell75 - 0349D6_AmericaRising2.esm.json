@@ -1,0 +1,26 @@
+{
+  "FormKey": "0349D6:AmericaRising2.esm",
+  "EditorID": "AR_LL_Ammo_FusionCell75",
+  "ChanceNone": 0.9,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0C1897:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0C1897:Fallout4.esm",
+        "Count": 2
+      }
+    }
+  ]
+}

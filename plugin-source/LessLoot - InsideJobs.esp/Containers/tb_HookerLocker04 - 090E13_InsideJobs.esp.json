@@ -1,0 +1,43 @@
+{
+  "FormKey": "090E13:InsideJobs.esp",
+  "MajorRecordFlagsRaw": 134217728,
+  "EditorID": "tb_HookerLocker04",
+  "Fallout4MajorRecordFlags": [
+    "0x8000000"
+  ],
+  "ObjectBounds": {
+    "First": "-17, -20, 0",
+    "Second": "17, 16, 148"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Sugar's Locker"
+  },
+  "Model": {
+    "File": "SetDressing\\Containers\\Locker01.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "068CF3:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0787DA:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0FD9AA:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "MajorFlags": [
+    "NavMeshGenerationBoundingBox"
+  ]
+}

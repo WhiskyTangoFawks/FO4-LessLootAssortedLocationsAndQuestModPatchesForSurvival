@@ -1,0 +1,44 @@
+{
+  "FormKey": "001594:AmericaRising2.esm",
+  "EditorID": "AR_MQ101Vault111Locker01",
+  "ObjectBounds": {
+    "First": "-26, -25, 0",
+    "Second": "25, 22, 146"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Locker"
+  },
+  "Model": {
+    "File": "SetDressing\\Vault\\Vault_Locker_01.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "0349D4:AmericaRising2.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0349D5:AmericaRising2.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0349D6:AmericaRising2.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Flags": [
+    "AllowSoundsWhenAnimation"
+  ],
+  "Keywords": [
+    "184462:Fallout4.esm"
+  ],
+  "OpenSound": "02FE30:Fallout4.esm",
+  "CloseSound": "02FE2F:Fallout4.esm"
+}

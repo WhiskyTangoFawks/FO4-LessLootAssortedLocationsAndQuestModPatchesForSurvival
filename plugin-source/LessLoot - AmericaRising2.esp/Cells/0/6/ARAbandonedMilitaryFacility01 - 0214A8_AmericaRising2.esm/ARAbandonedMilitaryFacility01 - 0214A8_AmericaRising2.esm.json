@@ -1,0 +1,514 @@
+{
+  "FormKey": "0214A8:AmericaRising2.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "ARAbandonedMilitaryFacility01",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Ruined Military Metro"
+  },
+  "Flags": [
+    "IsInteriorCell"
+  ],
+  "Lighting": {
+    "AmbientColor": "#00000000",
+    "DirectionalColor": "#00000000",
+    "FogNearColor": "#00000000",
+    "DirectionalFade": 1.0,
+    "FogPower": 1.0,
+    "AmbientColors": {
+      "DirectionalXPlus": "#00FFFFFF",
+      "DirectionalXMinus": "#00FFFFFF",
+      "DirectionalYPlus": "#00FFFFFF",
+      "DirectionalYMinus": "#00FFFFFF",
+      "DirectionalZPlus": "#00FFFFFF",
+      "DirectionalZMinus": "#00FFFFFF",
+      "Specular": "#00000000"
+    },
+    "FogFarColor": "#00000000",
+    "FogMax": 1.0,
+    "Inherits": [
+      "AmbientColor",
+      "DirectionalColor",
+      "FogColor",
+      "FogNear",
+      "FogFar",
+      "ClipDistance",
+      "FogPower",
+      "FogMax",
+      "LightFadeDistances"
+    ],
+    "NearHeightRange": 10000.0,
+    "ForColorHighNear": "#00000000",
+    "ForColorHighFar": "#00000000",
+    "HighDensityScale": 1.0,
+    "FogNearScale": 1.0,
+    "FogFarScale": 1.0,
+    "FogHighNearScale": 1.0,
+    "FogHighFarScale": 1.0,
+    "FarHeightRange": 10000.0
+  },
+  "LightingTemplate": "066CE0:Fallout4.esm",
+  "WaterHeight": 0.0,
+  "EncounterZone": "02349D:AmericaRising2.esm",
+  "Music": "1D4A6E:Fallout4.esm",
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0216AF:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "1AB5ED:Fallout4.esm",
+      "Position": "4979.841, 11682.787, -495.92096",
+      "Rotation": "1.0022248E-06, 1.7707151E-06, 5.354001"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0216D7:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "1AB5ED:Fallout4.esm",
+      "Position": "5481.3945, 11067.206, -567.6781",
+      "Rotation": "1.5710384, 0.23109315, 2.7497504"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0216E9:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "059B33:Fallout4.esm",
+      "Position": "5527.6445, 8998.405, -464.26242",
+      "Rotation": "-1.3710755, -0.5774416, 3.1419797"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02171F:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "1AB5ED:Fallout4.esm",
+      "Position": "6849.1895, 12176.215, -495.61465",
+      "Rotation": "-8.204397E-07, -1.8619256E-06, 2.112407"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021820:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "059B33:Fallout4.esm",
+      "Position": "8381.096, 11693.254, -492.74094",
+      "Rotation": "-1.5707965, 0.78539824, 2.3836394E-07"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021825:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "023742:Fallout4.esm",
+      "Position": "8062.5366, 11254.449, -414.03436",
+      "Rotation": "-0.011102891, 0.072422646, 2.9825757"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021826:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "023742:Fallout4.esm",
+      "Position": "8080.349, 11253.706, -414.0337",
+      "Rotation": "-0.06508507, -0.033681493, 1.1006547"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02182A:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330F0:Fallout4.esm",
+      "Position": "8069.431, 11240.566, -436.94818",
+      "Rotation": "0.003302885, -0.002232585, 4.724503"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02182B:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330F0:Fallout4.esm",
+      "Position": "8050.94, 11255.086, -436.94824",
+      "Rotation": "-0.00030202582, 0.0039737546, 2.9499385"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02182D:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "03377B:Fallout4.esm",
+      "Position": "8049.5483, 11250.216, -391.02753",
+      "Rotation": "0.0013913717, -0.0013933382, 3.1708748"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02182E:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "03377B:Fallout4.esm",
+      "Position": "8062.947, 11255.297, -391.02753",
+      "Rotation": "0.000556217, 0.0018895768, 1.1000102"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021830:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "Position": "8112.766, 11246.716, -436.89752",
+      "Rotation": "0.0006487408, -0.0006483944, 3.3499732"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021831:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "Position": "8125.348, 11255.015, -436.89752",
+      "Rotation": "9.734439E-05, 0.00091060996, 1.1000128"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0218D1:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "3865.7585, 4501.015, -293.42764",
+      "Rotation": "1.6006211, 0.6460136, 3.2644508"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0218D2:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "3860.2078, 4490.722, -304.8505",
+      "Rotation": "1.513119, -0.13109171, 3.2388582"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0218D3:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "3883.3884, 4521.2017, -294.33487",
+      "Rotation": "2.256897, -0.90026826, 2.5486674"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0218E3:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "4344.1294, 5038.6655, -309.97208",
+      "Rotation": "-2.1260753, 1.0897576, 5.833717"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0218E4:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "4363.8325, 5048.848, -297.26944",
+      "Rotation": "2.0979915, -0.7347157, 2.957194"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0218E5:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "4349.811, 5050.639, -312.5956",
+      "Rotation": "-1.5735856, -1.2316037, 0.0016543219"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0218E6:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "4361.6216, 5019.935, -302.22305",
+      "Rotation": "-1.5716795, -0.17685445, 0.00021210533"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0218E7:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "4368.2124, 5024.0044, -312.58975",
+      "Rotation": "-1.5712831, -0.084327094, 0.00020242794"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021B87:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "1AB5ED:Fallout4.esm",
+      "Position": "11313.162, 12073.383, -1480.5806",
+      "Rotation": "1.5710567, -0.4397036, 2.7495842"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021BAB:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "10979.457, 11735.194, -1443.5773",
+      "Rotation": "1.5708948, -0.39582342, 6.2819796"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021BE4:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "12047.73, 11674.533, -1488",
+      "Rotation": "0.00053308846, 1.3319655E-05, 6.282947"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021BEB:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "12071.547, 11667.857, -1406.8049",
+      "Rotation": "1.9982774, -0.088668294, 3.3354914"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021C05:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0670B1:Fallout4.esm",
+      "Position": "11480.673, 10970.755, -1488",
+      "Rotation": "0, -0, 5.4000206"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021D8B:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "1AB5ED:Fallout4.esm",
+      "Position": "12165.023, 11891.313, -1480.5806",
+      "Rotation": "1.5710946, 0.6602956, 2.749878"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021DB2:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "059B33:Fallout4.esm",
+      "Position": "13624.435, 11133.43, -1484.2861",
+      "Rotation": "-1.5710756, -0.5774416, 3.1419797"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021DEA:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "11804.992, 11041.209, -1496.9012",
+      "Rotation": "-2.1891112, -0.8003699, 0.93591243"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021DEB:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "11800.4375, 11053.275, -1511.6019",
+      "Rotation": "-1.3966094, 0.02959364, 0.15848209"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021DEC:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "11775.704, 11034.863, -1495.2168",
+      "Rotation": "-1.1044978, 1.0786424, 0.33225197"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021DED:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "11779.991, 11028.163, -1503.9861",
+      "Rotation": "-1.025985, 1.1649737, 0.4033078"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021DEE:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "11787.833, 11055.538, -1508.1223",
+      "Rotation": "2.2270875, 0.7024396, 3.1438694"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021DFC:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "098148:Fallout4.esm",
+      "Position": "13612.116, 12149.49, -1443.7745",
+      "Rotation": "-1.5709803, 1.0542282, 3.1402647"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021E2C:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "059B33:Fallout4.esm",
+      "Position": "10736.067, 12311.012, -746.6471",
+      "Rotation": "1.571031, -0.08096593, 0.00021556838"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021E74:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0670B1:Fallout4.esm",
+      "Position": "10748.66, 11017.503, -752",
+      "Rotation": "0, -0, 3.5000193"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021E84:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "059B33:Fallout4.esm",
+      "Position": "10731.562, 10935.76, -748.2862",
+      "Rotation": "-1.5710756, -0.5774416, 3.1419797"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021F2A:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "059A9A:Fallout4.esm",
+      "Position": "1061.588, 5190.021, 1.9074954",
+      "Rotation": "0, -0, 5.783186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021F62:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "1AB5ED:Fallout4.esm",
+      "Position": "6583.627, 11731.014, -495.82034",
+      "Rotation": "-1.9152974E-06, 6.8667515E-07, 3.6124063"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0322EE:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "059B33:Fallout4.esm",
+      "Position": "13850.875, 10764.978, -1403.2383",
+      "Rotation": "-1.5719614, -0.23099776, -0.00041802187"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0322EF:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "059B33:Fallout4.esm",
+      "Position": "13845.04, 10734.566, -1392.9716",
+      "Rotation": "1.5693933, -0.33593434, 0.0016853958"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

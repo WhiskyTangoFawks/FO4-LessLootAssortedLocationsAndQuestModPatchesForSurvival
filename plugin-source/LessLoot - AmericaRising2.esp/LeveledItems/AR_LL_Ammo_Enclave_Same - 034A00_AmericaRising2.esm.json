@@ -1,0 +1,90 @@
+{
+  "FormKey": "034A00:AmericaRising2.esm",
+  "EditorID": "AR_LL_Ammo_Enclave_Same",
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0C1898:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 7,
+        "Reference": "0C1898:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 10,
+        "Reference": "14F6E1:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 10,
+        "Reference": "18ABE1:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 10,
+        "Reference": "034A01:AmericaRising2.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 17,
+        "Reference": "067388:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 21,
+        "Reference": "067388:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 24,
+        "Reference": "067386:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 28,
+        "Reference": "18ABE0:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 30,
+        "Reference": "18ABE0:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    }
+  ]
+}

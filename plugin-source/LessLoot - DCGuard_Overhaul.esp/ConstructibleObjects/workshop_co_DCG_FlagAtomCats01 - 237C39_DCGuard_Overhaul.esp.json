@@ -1,0 +1,38 @@
+{
+  "FormKey": "237C39:DCGuard_Overhaul.esp",
+  "EditorID": "workshop_co_DCG_FlagAtomCats01",
+  "PickUpSound": "02B016:Fallout4.esm",
+  "PutDownSound": "02B017:Fallout4.esm",
+  "Components": [
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 5
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetQuestCompleted",
+        "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
+        "ParameterOneNumber": 35929627
+      }
+    }
+  ],
+  "WorkbenchKeyword": "08280B:Fallout4.esm",
+  "Categories": [
+    "2EFCAA:DCGuard_Overhaul.esp"
+  ],
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

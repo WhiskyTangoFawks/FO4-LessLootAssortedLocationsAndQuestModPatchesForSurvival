@@ -1,0 +1,52 @@
+{
+  "FormKey": "00D912:DCGuard_Overhaul.esp",
+  "EditorID": "workshop_co_DCG_StainedGlassLamp",
+  "Components": [
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAA4:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAAD:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "05A0D3:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Various Stained Glass Lamps"
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetQuestCompleted",
+        "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
+        "ParameterOneNumber": 35929627
+      }
+    }
+  ],
+  "WorkbenchKeyword": "08280B:Fallout4.esm",
+  "Categories": [
+    "00D911:DCGuard_Overhaul.esp"
+  ],
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

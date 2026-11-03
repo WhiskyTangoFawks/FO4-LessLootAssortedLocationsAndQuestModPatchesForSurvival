@@ -1,0 +1,98 @@
+{
+  "FormKey": "0288F5:AmericaRising2.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "ARMQ207MahkraFishpacking01",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mahkra Fishpacking"
+  },
+  "Flags": [
+    "IsInteriorCell"
+  ],
+  "Lighting": {
+    "AmbientColor": "#00181B1D",
+    "DirectionalColor": "#00000000",
+    "FogNearColor": "#003D3D38",
+    "FogFar": 8000.0,
+    "FogPower": 1.2,
+    "AmbientColors": {
+      "DirectionalXPlus": "#000A0B0C",
+      "DirectionalXMinus": "#00121416",
+      "DirectionalYPlus": "#000A0B0C",
+      "DirectionalYMinus": "#00121416",
+      "DirectionalZPlus": "#00090A0B",
+      "DirectionalZMinus": "#00131517",
+      "Specular": "#00000000"
+    },
+    "FogFarColor": "#00262E2F",
+    "FogMax": 0.9,
+    "LightFadeBegin": 2.868E-42,
+    "Inherits": [
+      "DirectionalColor",
+      "DirectionalRotation",
+      "DirectionalFade",
+      "ClipDistance",
+      "FogMax",
+      "LightFadeDistances"
+    ],
+    "NearHeightRange": 10000.0,
+    "ForColorHighNear": "#003D3D38",
+    "ForColorHighFar": "#00262E2F",
+    "HighDensityScale": 1.0,
+    "FogNearScale": 1.0,
+    "FogFarScale": 1.0,
+    "FogHighNearScale": 1.0,
+    "FogHighFarScale": 1.0,
+    "FarHeightRange": 10000.0
+  },
+  "LightingTemplate": "0DD38D:Fallout4.esm",
+  "WaterHeight": 0.0,
+  "Location": "02A148:AmericaRising2.esm",
+  "AcousticSpace": "0DAECB:Fallout4.esm",
+  "EncounterZone": "02A149:AmericaRising2.esm",
+  "Music": "02D4C2:Fallout4.esm",
+  "ImageSpace": "171619:Fallout4.esm",
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02969D:AmericaRising2.esm",
+      "Base": "000002:LessLoot - AmericaRising2.esp",
+      "Position": "4519.9756, -1552.9375, -1153.8024",
+      "Rotation": "0, -0, 3.1415925"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02969E:AmericaRising2.esm",
+      "Base": "000002:LessLoot - AmericaRising2.esp",
+      "Position": "1968, 1186.9141, -1148.6602",
+      "Rotation": "0, -0, 1.5707964"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0296A1:AmericaRising2.esm",
+      "Base": "000002:LessLoot - AmericaRising2.esp",
+      "Position": "5807.8677, 2536.9636, -1648.1932",
+      "Rotation": "0, -0, 3.1415935"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0296A2:AmericaRising2.esm",
+      "Base": "000002:LessLoot - AmericaRising2.esp",
+      "Position": "5507.987, -492, -1664.0347"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02A0D2:AmericaRising2.esm",
+      "Base": "000001:LessLoot - AmericaRising2.esp",
+      "Position": "4330.7676, 1493.8634, -1533.0406",
+      "Rotation": "0, -0, 2.2"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

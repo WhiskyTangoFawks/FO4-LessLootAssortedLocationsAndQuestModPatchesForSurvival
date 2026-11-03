@@ -1,0 +1,533 @@
+{
+  "FormKey": "024502:AmericaRising2.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "ARUSArmyDepotBarracks",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "HasWater"
+  ],
+  "Grid": {
+    "Point": "0, 5"
+  },
+  "MaxHeightData": {
+    "Offset": 384.0,
+    "HeightMap": [
+      [0,0,1,1,1,1,1,1,1,1,1,1,3,3,3,3,1,1,3,3,3,3,1,2,3,3,3,3,1,1,1,1],
+      [0,0,1,1,1,1,1,1,1,1,1,1,3,3,3,3,1,1,3,3,3,3,1,2,3,3,3,3,1,1,3,3],
+      [0,0,1,1,1,1,1,1,1,1,1,1,3,3,3,3,2,1,3,3,3,3,1,2,3,3,3,3,1,1,3,3],
+      [0,0,1,1,1,1,1,1,6,6,6,1,3,3,3,3,1,1,3,3,3,3,1,2,3,3,3,3,1,1,3,3],
+      [0,0,1,1,1,1,1,1,1,1,1,1,3,3,3,3,2,1,3,3,3,3,1,2,3,3,3,3,1,2,3,3],
+      [0,0,1,6,6,1,1,1,1,1,1,1,3,3,3,3,1,1,3,3,3,3,1,2,3,3,3,3,1,3,3,3],
+      [0,0,1,1,1,1,1,1,1,1,1,1,3,3,3,3,3,1,3,3,3,3,1,2,3,3,3,3,1,1,3,3],
+      [0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,1,1,1,1,1,1,1,1,1,1,1,1,3,3],
+      [0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+      [0,0,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+      [0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+      [0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+      [0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+      [0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+      [0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,6,1,1,1,1,1,1,1],
+      [0,1,1,1,1,1,3,3,3,1,6,6,1,1,1,1,1,1,1,1,1,1,1,6,7,1,1,1,1,1,1,1],
+      [0,1,1,1,1,1,3,3,3,6,6,6,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1],
+      [0,1,1,1,1,1,3,3,3,1,6,1,3,3,3,3,1,1,3,3,3,3,2,2,3,3,3,3,2,1,3,3],
+      [0,0,1,1,1,1,3,3,3,1,1,1,3,3,3,3,1,1,3,3,3,3,2,2,3,3,3,3,2,1,3,3],
+      [0,0,1,1,1,1,3,3,3,1,1,1,3,3,3,3,2,1,3,3,3,3,2,1,3,3,3,3,2,1,3,3],
+      [0,0,1,1,1,1,1,1,1,1,1,1,3,3,3,3,1,1,3,3,3,3,2,1,3,3,3,3,2,1,3,3],
+      [0,0,1,1,1,1,3,3,2,1,1,1,3,3,3,3,2,1,3,3,3,3,2,1,3,3,3,3,2,1,3,3],
+      [0,1,1,1,1,1,3,3,2,1,1,1,3,3,3,3,1,1,3,3,3,3,2,1,3,3,3,3,2,1,3,3],
+      [0,1,2,6,5,1,3,3,2,1,1,1,3,3,3,3,2,1,3,3,3,3,2,1,3,3,3,3,2,1,3,3],
+      [1,6,1,1,1,1,3,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+      [4,6,1,1,1,1,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],
+      [6,4,5,1,1,1,1,1,1,2,2,1,1,6,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+      [6,1,1,1,1,1,1,1,1,2,2,1,1,5,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+      [1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,6,6,6,6,6,6,6,6,6,1,1],
+      [1,1,1,1,1,1,1,1,1,2,6,5,1,1,1,1,1,1,1,1,6,6,6,6,6,6,6,6,6,6,1,1],
+      [1,1,1,1,1,1,1,1,1,6,6,6,1,1,1,1,1,1,1,1,6,6,6,6,6,6,6,6,6,6,1,2],
+      [1,1,1,1,1,1,1,1,1,2,6,1,1,1,1,1,1,1,1,1,6,6,6,6,6,6,6,6,6,6,2,2]
+    ]
+  },
+  "WaterHeight": 3.4028235E+38,
+  "Location": "024D8E:AmericaRising2.esm",
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "026571:AmericaRising2.esm",
+      "Base": "000001:LessLoot - AmericaRising2.esp",
+      "Position": "492.98056, 22092.04, 514.8088",
+      "Rotation": "0, -0, 1.3470006"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "026572:AmericaRising2.esm",
+      "Base": "000001:LessLoot - AmericaRising2.esp",
+      "Position": "306.17578, 22469.102, 495.1875",
+      "Rotation": "0, -0, -3.063185"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0279A1:AmericaRising2.esm",
+      "Base": "000001:LessLoot - AmericaRising2.esp",
+      "Position": "2256.3384, 21284.006, 507.924",
+      "Rotation": "0, -0, 3.1670003"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EDDA:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2488.001, 24440.002, 496",
+      "Rotation": "0, -0, 3.141593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EDDB:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2680.001, 24440.002, 496",
+      "Rotation": "0, -0, 3.141593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EDDC:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2872.001, 24440.002, 496",
+      "Rotation": "0, -0, 3.141593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EDF4:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2488, 23960, 488"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EDF5:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2488.001, 23680.002, 488",
+      "Rotation": "0, -0, 3.141593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EDFB:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2680.001, 23680.002, 488",
+      "Rotation": "0, -0, 3.141593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EDFF:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2680, 23960, 488"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE03:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2872.001, 23680.002, 488",
+      "Rotation": "0, -0, 3.141593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE05:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2872, 23960, 488"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE14:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2490.1604, 23199.998, 473.02075"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE15:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2490.1614, 22920, 473.02075",
+      "Rotation": "0, -0, 3.141593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE1B:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2682.1614, 22920, 473.02075",
+      "Rotation": "0, -0, 3.141593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE1F:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2682.1604, 23199.998, 473.02075"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE23:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2874.1614, 22920, 473.02075",
+      "Rotation": "0, -0, 3.141593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE25:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2874.1604, 23199.998, 473.02075"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE34:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2496.002, 22415.998, 472.71692"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE35:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2496.003, 22136, 472.71692",
+      "Rotation": "0, -0, 3.141593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE3B:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2688.003, 22136, 472.71692",
+      "Rotation": "0, -0, 3.141593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE3F:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2688.002, 22415.998, 472.71692"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE43:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2880.003, 22136, 472.71692",
+      "Rotation": "0, -0, 3.141593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE45:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "2880.002, 22415.998, 472.71692"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE54:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "616.0028, 22904, 473.28983",
+      "Rotation": "0, -0, 3.1415935"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE55:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "616.0022, 23183.998, 473.28983",
+      "Rotation": "0, -0, 8.940698E-07"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE5B:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "424.0028, 23183.998, 473.28983",
+      "Rotation": "0, -0, 8.940698E-07"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE5F:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "424.0033, 22904, 473.28983",
+      "Rotation": "0, -0, 3.1415935"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE63:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "232.00195, 23183.998, 473.28983",
+      "Rotation": "0, -0, 8.940698E-07"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE65:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "232.00269, 22904, 473.28983",
+      "Rotation": "0, -0, 3.1415935"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE74:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "611.39355, 23664, 488.9255",
+      "Rotation": "0, -0, 3.1415935"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE75:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "611.39294, 23943.998, 488.9255",
+      "Rotation": "0, -0, 8.940698E-07"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE7B:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "419.39355, 23943.998, 488.9255",
+      "Rotation": "0, -0, 8.940698E-07"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE7F:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "419.39404, 23664, 488.9255",
+      "Rotation": "0, -0, 3.1415935"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE83:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "227.39268, 23943.998, 488.9255",
+      "Rotation": "0, -0, 8.940698E-07"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02EE85:AmericaRising2.esm",
+      "Base": "000007:LessLoot - AmericaRising2.esp",
+      "EnableParent": {
+        "Reference": "02EFF5:AmericaRising2.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "227.39342, 23664, 488.9255",
+      "Rotation": "0, -0, 3.1415935"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

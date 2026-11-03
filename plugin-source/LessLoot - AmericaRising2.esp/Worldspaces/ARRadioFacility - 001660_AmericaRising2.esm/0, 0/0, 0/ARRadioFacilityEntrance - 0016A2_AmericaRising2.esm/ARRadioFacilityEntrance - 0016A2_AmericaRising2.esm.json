@@ -1,0 +1,47 @@
+{
+  "FormKey": "0016A2:AmericaRising2.esm",
+  "EditorID": "ARRadioFacilityEntrance",
+  "Flags": [
+    "HasWater"
+  ],
+  "Grid": {
+    "Point": "2, 1"
+  },
+  "WaterHeight": 3.4028235E+38,
+  "Regions": [
+    "01F5A0:AmericaRising2.esm",
+    "001795:AmericaRising2.esm"
+  ],
+  "Location": "0043C3:AmericaRising2.esm",
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedNpc",
+      "FormKey": "003717:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0F8617:Fallout4.esm",
+      "LevelModifier": "Easy",
+      "Position": "10048, 7496, 288",
+      "Rotation": "-0, 0, 3.1415935",
+      "MajorFlags": [
+        "InitiallyDisabled"
+      ]
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01F33A:AmericaRising2.esm",
+      "Base": "000006:LessLoot - AmericaRising2.esp",
+      "Position": "8766.708, 5947.89, 196.08914",
+      "Rotation": "0, -0, 5.5831857"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01F36F:AmericaRising2.esm",
+      "Base": "000002:LessLoot - AmericaRising2.esp",
+      "Position": "11008, 6888, 520",
+      "Rotation": "0, -0, 3.141593"
+    }
+  ]
+}

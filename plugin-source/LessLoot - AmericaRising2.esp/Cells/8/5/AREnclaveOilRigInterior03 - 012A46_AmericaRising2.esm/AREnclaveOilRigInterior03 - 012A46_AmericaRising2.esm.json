@@ -1,0 +1,3434 @@
+{
+  "FormKey": "012A46:AmericaRising2.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "AREnclaveOilRigInterior03",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Oil Rig - Dept. of Compliance"
+  },
+  "Flags": [
+    "IsInteriorCell"
+  ],
+  "PreVisFilesTimestamp": 12170,
+  "PreCombinedFilesTimestamp": 12170,
+  "Lighting": {
+    "AmbientColor": "#00000000",
+    "DirectionalColor": "#00000000",
+    "FogNearColor": "#00000000",
+    "FogNear": 1024.0,
+    "DirectionalRotationZ": 270,
+    "FogPower": 0.7,
+    "AmbientColors": {
+      "DirectionalXPlus": "#000B0E0F",
+      "DirectionalXMinus": "#00171C1E",
+      "DirectionalYPlus": "#000B0E0F",
+      "DirectionalYMinus": "#00171C1E",
+      "DirectionalZPlus": "#000B0E0F",
+      "DirectionalZMinus": "#00171C1E",
+      "Specular": "#00000000"
+    },
+    "FogFarColor": "#00000000",
+    "FogMax": 1.0,
+    "Inherits": [
+      "AmbientColor",
+      "DirectionalColor",
+      "FogColor",
+      "FogNear",
+      "FogFar",
+      "ClipDistance",
+      "FogPower",
+      "FogMax",
+      "LightFadeDistances"
+    ],
+    "NearHeightRange": 10000.0,
+    "ForColorHighNear": "#00000000",
+    "ForColorHighFar": "#00000000",
+    "HighDensityScale": 1.0,
+    "FogNearScale": 1.0,
+    "FogFarScale": 1.0,
+    "FogHighNearScale": 1.0,
+    "FogHighFarScale": 1.0,
+    "FarHeightRange": 10000.0
+  },
+  "LightingTemplate": "0552AC:Fallout4.esm",
+  "WaterHeight": 0.0,
+  "Location": "016D9D:AmericaRising2.esm",
+  "AcousticSpace": "0F0503:Fallout4.esm",
+  "EncounterZone": "01A27A:AmericaRising2.esm",
+  "ImageSpace": "17161E:Fallout4.esm",
+  "PhysicsReferences": [
+    "024417:AmericaRising2.esm"
+  ],
+  "CombinedMeshes": [
+    363030,
+    12846281,
+    22045025,
+    26341310,
+    37822985,
+    57254954,
+    61352693,
+    66586154,
+    70444525,
+    83061554,
+    90640026,
+    94797893,
+    101392550,
+    113946233,
+    148113359,
+    154996531,
+    155214439,
+    177254352,
+    180388623,
+    184863352,
+    192522028,
+    203613931,
+    207588287,
+    230064963,
+    236659616,
+    241585908,
+    267529052,
+    277662665,
+    286830177,
+    289964734,
+    299442366,
+    320957226,
+    333506037,
+    343550701,
+    347841586,
+    355451290,
+    367939397,
+    373551014,
+    377643385,
+    408765968,
+    431247084,
+    432612280,
+    437906959,
+    462261159,
+    468772595,
+    481011508,
+    490717852,
+    518983467,
+    528181891,
+    545483776,
+    555157928,
+    567707511,
+    582658379,
+    611683620,
+    615777275,
+    622880339,
+    635562124,
+    674204813,
+    676520409,
+    700875889,
+    706103750,
+    709256473,
+    711664786,
+    729951342,
+    748945661,
+    758146389,
+    760023041,
+    786475234,
+    789159966,
+    796183882,
+    805973471,
+    828360360,
+    832456823,
+    835609768,
+    842262676,
+    876429860,
+    888982779,
+    896051539,
+    900278156,
+    928082968,
+    932242119,
+    950455634,
+    953917446,
+    955703693,
+    961529262,
+    983500825,
+    987915597,
+    990604721,
+    1009598754,
+    1035543690,
+    1036274142,
+    1047128381,
+    1065411009,
+    1073581205,
+    2204738602,
+    2208836341,
+    2324738000,
+    2327872271,
+    2355071935,
+    2384143264,
+    2578730732,
+    2730142027,
+    2821688461,
+    2859148434,
+    2907506689,
+    2936643614,
+    2979940471,
+    3097939282,
+    3103187341,
+    3135399245,
+    3183757790,
+    3212894657
+  ],
+  "CombinedMeshReferences": [
+    {
+      "Reference": "012CA4:AmericaRising2.esm",
+      "CombinedMesh": 230064963
+    },
+    {
+      "Reference": "012CCF:AmericaRising2.esm",
+      "CombinedMesh": 148113359
+    },
+    {
+      "Reference": "012F45:AmericaRising2.esm",
+      "CombinedMesh": 113946233
+    },
+    {
+      "Reference": "012F6B:AmericaRising2.esm",
+      "CombinedMesh": 154996531
+    },
+    {
+      "Reference": "012F00:AmericaRising2.esm",
+      "CombinedMesh": 760023041
+    },
+    {
+      "Reference": "028306:AmericaRising2.esm",
+      "CombinedMesh": 431247084
+    },
+    {
+      "Reference": "012F37:AmericaRising2.esm",
+      "CombinedMesh": 760023041
+    },
+    {
+      "Reference": "012CBD:AmericaRising2.esm",
+      "CombinedMesh": 611683620
+    },
+    {
+      "Reference": "012CD6:AmericaRising2.esm",
+      "CombinedMesh": 177254352
+    },
+    {
+      "Reference": "012CF8:AmericaRising2.esm",
+      "CombinedMesh": 230064963
+    },
+    {
+      "Reference": "012B7F:AmericaRising2.esm",
+      "CombinedMesh": 83061554
+    },
+    {
+      "Reference": "012F19:AmericaRising2.esm",
+      "CombinedMesh": 789159966
+    },
+    {
+      "Reference": "012F59:AmericaRising2.esm",
+      "CombinedMesh": 928082968
+    },
+    {
+      "Reference": "028303:AmericaRising2.esm",
+      "CombinedMesh": 2578730732
+    },
+    {
+      "Reference": "012CD3:AmericaRising2.esm",
+      "CombinedMesh": 177254352
+    },
+    {
+      "Reference": "012CB8:AmericaRising2.esm",
+      "CombinedMesh": 615777275
+    },
+    {
+      "Reference": "012CFD:AmericaRising2.esm",
+      "CombinedMesh": 355451290
+    },
+    {
+      "Reference": "012C96:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "014264:AmericaRising2.esm",
+      "CombinedMesh": 207588287
+    },
+    {
+      "Reference": "012B7A:AmericaRising2.esm",
+      "CombinedMesh": 83061554
+    },
+    {
+      "Reference": "012CCA:AmericaRising2.esm",
+      "CombinedMesh": 555157928
+    },
+    {
+      "Reference": "012CA1:AmericaRising2.esm",
+      "CombinedMesh": 90640026
+    },
+    {
+      "Reference": "012F05:AmericaRising2.esm",
+      "CombinedMesh": 711664786
+    },
+    {
+      "Reference": "012F6E:AmericaRising2.esm",
+      "CombinedMesh": 154996531
+    },
+    {
+      "Reference": "012CE4:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "012CD9:AmericaRising2.esm",
+      "CombinedMesh": 832456823
+    },
+    {
+      "Reference": "012CB2:AmericaRising2.esm",
+      "CombinedMesh": 490717852
+    },
+    {
+      "Reference": "012F53:AmericaRising2.esm",
+      "CombinedMesh": 207588287
+    },
+    {
+      "Reference": "012CF7:AmericaRising2.esm",
+      "CombinedMesh": 888982779
+    },
+    {
+      "Reference": "012C9C:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "012F21:AmericaRising2.esm",
+      "CombinedMesh": 1065411009
+    },
+    {
+      "Reference": "012F4A:AmericaRising2.esm",
+      "CombinedMesh": 207588287
+    },
+    {
+      "Reference": "012CC0:AmericaRising2.esm",
+      "CombinedMesh": 408765968
+    },
+    {
+      "Reference": "012CAB:AmericaRising2.esm",
+      "CombinedMesh": 876429860
+    },
+    {
+      "Reference": "012CEE:AmericaRising2.esm",
+      "CombinedMesh": 267529052
+    },
+    {
+      "Reference": "012F0F:AmericaRising2.esm",
+      "CombinedMesh": 789159966
+    },
+    {
+      "Reference": "012F64:AmericaRising2.esm",
+      "CombinedMesh": 842262676
+    },
+    {
+      "Reference": "012F4F:AmericaRising2.esm",
+      "CombinedMesh": 928082968
+    },
+    {
+      "Reference": "012CAE:AmericaRising2.esm",
+      "CombinedMesh": 888982779
+    },
+    {
+      "Reference": "012CC5:AmericaRising2.esm",
+      "CombinedMesh": 437906959
+    },
+    {
+      "Reference": "012CEB:AmericaRising2.esm",
+      "CombinedMesh": 888982779
+    },
+    {
+      "Reference": "012F61:AmericaRising2.esm",
+      "CombinedMesh": 431247084
+    },
+    {
+      "Reference": "012CB7:AmericaRising2.esm",
+      "CombinedMesh": 528181891
+    },
+    {
+      "Reference": "012F56:AmericaRising2.esm",
+      "CombinedMesh": 207588287
+    },
+    {
+      "Reference": "012F3D:AmericaRising2.esm",
+      "CombinedMesh": 1036274142
+    },
+    {
+      "Reference": "012B75:AmericaRising2.esm",
+      "CombinedMesh": 1035543690
+    },
+    {
+      "Reference": "012C99:AmericaRising2.esm",
+      "CombinedMesh": 90640026
+    },
+    {
+      "Reference": "012CF2:AmericaRising2.esm",
+      "CombinedMesh": 267529052
+    },
+    {
+      "Reference": "012F02:AmericaRising2.esm",
+      "CombinedMesh": 113946233
+    },
+    {
+      "Reference": "012CE3:AmericaRising2.esm",
+      "CombinedMesh": 622880339
+    },
+    {
+      "Reference": "012CCD:AmericaRising2.esm",
+      "CombinedMesh": 408765968
+    },
+    {
+      "Reference": "012CA6:AmericaRising2.esm",
+      "CombinedMesh": 888982779
+    },
+    {
+      "Reference": "012F47:AmericaRising2.esm",
+      "CombinedMesh": 928082968
+    },
+    {
+      "Reference": "012CFA:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "012B7D:AmericaRising2.esm",
+      "CombinedMesh": 343550701
+    },
+    {
+      "Reference": "012F35:AmericaRising2.esm",
+      "CombinedMesh": 377643385
+    },
+    {
+      "Reference": "028304:AmericaRising2.esm",
+      "CombinedMesh": 2730142027
+    },
+    {
+      "Reference": "012CD4:AmericaRising2.esm",
+      "CombinedMesh": 828360360
+    },
+    {
+      "Reference": "012CBF:AmericaRising2.esm",
+      "CombinedMesh": 490717852
+    },
+    {
+      "Reference": "012CFF:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "012B78:AmericaRising2.esm",
+      "CombinedMesh": 635562124
+    },
+    {
+      "Reference": "014266:AmericaRising2.esm",
+      "CombinedMesh": 2355071935
+    },
+    {
+      "Reference": "028301:AmericaRising2.esm",
+      "CombinedMesh": 3135399245
+    },
+    {
+      "Reference": "012F5B:AmericaRising2.esm",
+      "CombinedMesh": 236659616
+    },
+    {
+      "Reference": "012CBA:AmericaRising2.esm",
+      "CombinedMesh": 528181891
+    },
+    {
+      "Reference": "012CD1:AmericaRising2.esm",
+      "CombinedMesh": 832456823
+    },
+    {
+      "Reference": "012F6C:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "012F07:AmericaRising2.esm",
+      "CombinedMesh": 711664786
+    },
+    {
+      "Reference": "012CE6:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "012CA3:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "012CC8:AmericaRising2.esm",
+      "CombinedMesh": 437906959
+    },
+    {
+      "Reference": "012F29:AmericaRising2.esm",
+      "CombinedMesh": 674204813
+    },
+    {
+      "Reference": "012B72:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "012C9E:AmericaRising2.esm",
+      "CombinedMesh": 1047128381
+    },
+    {
+      "Reference": "012CF5:AmericaRising2.esm",
+      "CombinedMesh": 888982779
+    },
+    {
+      "Reference": "012CB0:AmericaRising2.esm",
+      "CombinedMesh": 230064963
+    },
+    {
+      "Reference": "012CDB:AmericaRising2.esm",
+      "CombinedMesh": 148113359
+    },
+    {
+      "Reference": "012F51:AmericaRising2.esm",
+      "CombinedMesh": 236659616
+    },
+    {
+      "Reference": "012CEC:AmericaRising2.esm",
+      "CombinedMesh": 888982779
+    },
+    {
+      "Reference": "012F66:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "012F0D:AmericaRising2.esm",
+      "CombinedMesh": 789159966
+    },
+    {
+      "Reference": "012F48:AmericaRising2.esm",
+      "CombinedMesh": 207588287
+    },
+    {
+      "Reference": "028312:AmericaRising2.esm",
+      "CombinedMesh": 431247084
+    },
+    {
+      "Reference": "012CA9:AmericaRising2.esm",
+      "CombinedMesh": 267529052
+    },
+    {
+      "Reference": "012CC2:AmericaRising2.esm",
+      "CombinedMesh": 555157928
+    },
+    {
+      "Reference": "012CE9:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "012F63:AmericaRising2.esm",
+      "CombinedMesh": 154996531
+    },
+    {
+      "Reference": "012F4D:AmericaRising2.esm",
+      "CombinedMesh": 207588287
+    },
+    {
+      "Reference": "012CC7:AmericaRising2.esm",
+      "CombinedMesh": 567707511
+    },
+    {
+      "Reference": "012CAC:AmericaRising2.esm",
+      "CombinedMesh": 267529052
+    },
+    {
+      "Reference": "014269:AmericaRising2.esm",
+      "CombinedMesh": 236659616
+    },
+    {
+      "Reference": "012B77:AmericaRising2.esm",
+      "CombinedMesh": 635562124
+    },
+    {
+      "Reference": "012CF0:AmericaRising2.esm",
+      "CombinedMesh": 267529052
+    },
+    {
+      "Reference": "012C9B:AmericaRising2.esm",
+      "CombinedMesh": 1047128381
+    },
+    {
+      "Reference": "012CDE:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "012CB5:AmericaRising2.esm",
+      "CombinedMesh": 611683620
+    },
+    {
+      "Reference": "012F3F:AmericaRising2.esm",
+      "CombinedMesh": 1036274142
+    },
+    {
+      "Reference": "012F54:AmericaRising2.esm",
+      "CombinedMesh": 236659616
+    },
+    {
+      "Reference": "013118:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "012B83:AmericaRising2.esm",
+      "CombinedMesh": 758146389
+    },
+    {
+      "Reference": "0338B8:AmericaRising2.esm",
+      "CombinedMesh": 363030
+    },
+    {
+      "Reference": "0338D3:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "012BAD:AmericaRising2.esm",
+      "CombinedMesh": 26341310
+    },
+    {
+      "Reference": "0338E4:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012B9A:AmericaRising2.esm",
+      "CombinedMesh": 983500825
+    },
+    {
+      "Reference": "012BB4:AmericaRising2.esm",
+      "CombinedMesh": 1035543690
+    },
+    {
+      "Reference": "0338CA:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "0338E1:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012B9F:AmericaRising2.esm",
+      "CombinedMesh": 706103750
+    },
+    {
+      "Reference": "012BB1:AmericaRising2.esm",
+      "CombinedMesh": 676520409
+    },
+    {
+      "Reference": "01312A:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "0338CF:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012B86:AmericaRising2.esm",
+      "CombinedMesh": 622880339
+    },
+    {
+      "Reference": "0338D6:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "0338BD:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "012BA8:AmericaRising2.esm",
+      "CombinedMesh": 83061554
+    },
+    {
+      "Reference": "012B95:AmericaRising2.esm",
+      "CombinedMesh": 22045025
+    },
+    {
+      "Reference": "0338C5:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "0338AE:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012B8C:AmericaRising2.esm",
+      "CombinedMesh": 796183882
+    },
+    {
+      "Reference": "013117:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "012BA2:AmericaRising2.esm",
+      "CombinedMesh": 1073581205
+    },
+    {
+      "Reference": "0338DC:AmericaRising2.esm",
+      "CombinedMesh": 842262676
+    },
+    {
+      "Reference": "0338B7:AmericaRising2.esm",
+      "CombinedMesh": 363030
+    },
+    {
+      "Reference": "012B89:AmericaRising2.esm",
+      "CombinedMesh": 70444525
+    },
+    {
+      "Reference": "012BA7:AmericaRising2.esm",
+      "CombinedMesh": 26341310
+    },
+    {
+      "Reference": "0338B2:AmericaRising2.esm",
+      "CombinedMesh": 748945661
+    },
+    {
+      "Reference": "0338D9:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "01428E:AmericaRising2.esm",
+      "CombinedMesh": 928082968
+    },
+    {
+      "Reference": "012B90:AmericaRising2.esm",
+      "CombinedMesh": 796183882
+    },
+    {
+      "Reference": "0338AB:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "0338C0:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "0338D1:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "0338BA:AmericaRising2.esm",
+      "CombinedMesh": 990604721
+    },
+    {
+      "Reference": "012BAF:AmericaRising2.esm",
+      "CombinedMesh": 286830177
+    },
+    {
+      "Reference": "012B81:AmericaRising2.esm",
+      "CombinedMesh": 758146389
+    },
+    {
+      "Reference": "01311A:AmericaRising2.esm",
+      "CombinedMesh": 748945661
+    },
+    {
+      "Reference": "012BB6:AmericaRising2.esm",
+      "CombinedMesh": 676520409
+    },
+    {
+      "Reference": "01312D:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "0338C8:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "0338E6:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012B98:AmericaRising2.esm",
+      "CombinedMesh": 299442366
+    },
+    {
+      "Reference": "013128:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "012BB3:AmericaRising2.esm",
+      "CombinedMesh": 953917446
+    },
+    {
+      "Reference": "0338CD:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "0338E3:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012B9D:AmericaRising2.esm",
+      "CombinedMesh": 706103750
+    },
+    {
+      "Reference": "0338BF:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "0338D4:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "012BAA:AmericaRising2.esm",
+      "CombinedMesh": 286830177
+    },
+    {
+      "Reference": "01311F:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "012B84:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "0338AC:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "0338C7:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012B97:AmericaRising2.esm",
+      "CombinedMesh": 299442366
+    },
+    {
+      "Reference": "012BA0:AmericaRising2.esm",
+      "CombinedMesh": 983500825
+    },
+    {
+      "Reference": "0338B5:AmericaRising2.esm",
+      "CombinedMesh": 12846281
+    },
+    {
+      "Reference": "0338DE:AmericaRising2.esm",
+      "CombinedMesh": 61352693
+    },
+    {
+      "Reference": "013115:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "012B8E:AmericaRising2.esm",
+      "CombinedMesh": 1073581205
+    },
+    {
+      "Reference": "012BA5:AmericaRising2.esm",
+      "CombinedMesh": 676520409
+    },
+    {
+      "Reference": "0338DB:AmericaRising2.esm",
+      "CombinedMesh": 842262676
+    },
+    {
+      "Reference": "0338B0:AmericaRising2.esm",
+      "CombinedMesh": 37822985
+    },
+    {
+      "Reference": "012B8B:AmericaRising2.esm",
+      "CombinedMesh": 518983467
+    },
+    {
+      "Reference": "0338C2:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012B92:AmericaRising2.esm",
+      "CombinedMesh": 796183882
+    },
+    {
+      "Reference": "01428C:AmericaRising2.esm",
+      "CombinedMesh": 207588287
+    },
+    {
+      "Reference": "012E40:AmericaRising2.esm",
+      "CombinedMesh": 842262676
+    },
+    {
+      "Reference": "012E2B:AmericaRising2.esm",
+      "CombinedMesh": 192522028
+    },
+    {
+      "Reference": "012DA1:AmericaRising2.esm",
+      "CombinedMesh": 990604721
+    },
+    {
+      "Reference": "012DCA:AmericaRising2.esm",
+      "CombinedMesh": 676520409
+    },
+    {
+      "Reference": "012D8F:AmericaRising2.esm",
+      "CombinedMesh": 180388623
+    },
+    {
+      "Reference": "012DE4:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "02B0EE:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "012DD3:AmericaRising2.esm",
+      "CombinedMesh": 286830177
+    },
+    {
+      "Reference": "012E32:AmericaRising2.esm",
+      "CombinedMesh": 192522028
+    },
+    {
+      "Reference": "012D96:AmericaRising2.esm",
+      "CombinedMesh": 66586154
+    },
+    {
+      "Reference": "0144E3:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012DFD:AmericaRising2.esm",
+      "CombinedMesh": 828360360
+    },
+    {
+      "Reference": "012DD6:AmericaRising2.esm",
+      "CombinedMesh": 832456823
+    },
+    {
+      "Reference": "012DBD:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012E37:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "012DF8:AmericaRising2.esm",
+      "CombinedMesh": 676520409
+    },
+    {
+      "Reference": "012D93:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "0144E6:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012DA4:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012DE1:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012D8A:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012E00:AmericaRising2.esm",
+      "CombinedMesh": 12846281
+    },
+    {
+      "Reference": "013FDD:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "012E3D:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "012DDC:AmericaRising2.esm",
+      "CombinedMesh": 177254352
+    },
+    {
+      "Reference": "012DB7:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012DF2:AmericaRising2.esm",
+      "CombinedMesh": 299442366
+    },
+    {
+      "Reference": "012E13:AmericaRising2.esm",
+      "CombinedMesh": 955703693
+    },
+    {
+      "Reference": "012DC5:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012DAE:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012E24:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "012E4F:AmericaRising2.esm",
+      "CombinedMesh": 57254954
+    },
+    {
+      "Reference": "012DEB:AmericaRising2.esm",
+      "CombinedMesh": 545483776
+    },
+    {
+      "Reference": "012D80:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012DAB:AmericaRising2.esm",
+      "CombinedMesh": 700875889
+    },
+    {
+      "Reference": "0144DE:AmericaRising2.esm",
+      "CombinedMesh": 700875889
+    },
+    {
+      "Reference": "012DC0:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012E0F:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "012DEE:AmericaRising2.esm",
+      "CombinedMesh": 462261159
+    },
+    {
+      "Reference": "012E38:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "012DB2:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012DD9:AmericaRising2.esm",
+      "CombinedMesh": 832456823
+    },
+    {
+      "Reference": "012DF7:AmericaRising2.esm",
+      "CombinedMesh": 299442366
+    },
+    {
+      "Reference": "012DE6:AmericaRising2.esm",
+      "CombinedMesh": 462261159
+    },
+    {
+      "Reference": "012D8D:AmericaRising2.esm",
+      "CombinedMesh": 180388623
+    },
+    {
+      "Reference": "012E29:AmericaRising2.esm",
+      "CombinedMesh": 431247084
+    },
+    {
+      "Reference": "012DC8:AmericaRising2.esm",
+      "CombinedMesh": 545483776
+    },
+    {
+      "Reference": "012DFF:AmericaRising2.esm",
+      "CombinedMesh": 12846281
+    },
+    {
+      "Reference": "0144E1:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012D94:AmericaRising2.esm",
+      "CombinedMesh": 955703693
+    },
+    {
+      "Reference": "012DD1:AmericaRising2.esm",
+      "CombinedMesh": 432612280
+    },
+    {
+      "Reference": "012DBA:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012E30:AmericaRising2.esm",
+      "CombinedMesh": 154996531
+    },
+    {
+      "Reference": "0144E4:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012DFA:AmericaRising2.esm",
+      "CombinedMesh": 832456823
+    },
+    {
+      "Reference": "012DBF:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012DD4:AmericaRising2.esm",
+      "CombinedMesh": 676520409
+    },
+    {
+      "Reference": "0144A1:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012DE3:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012E2C:AmericaRising2.esm",
+      "CombinedMesh": 154996531
+    },
+    {
+      "Reference": "012DA6:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012DCD:AmericaRising2.esm",
+      "CombinedMesh": 432612280
+    },
+    {
+      "Reference": "012DF0:AmericaRising2.esm",
+      "CombinedMesh": 462261159
+    },
+    {
+      "Reference": "012E11:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012E3F:AmericaRising2.esm",
+      "CombinedMesh": 61352693
+    },
+    {
+      "Reference": "012DB5:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012DDE:AmericaRising2.esm",
+      "CombinedMesh": 545483776
+    },
+    {
+      "Reference": "012DE9:AmericaRising2.esm",
+      "CombinedMesh": 545483776
+    },
+    {
+      "Reference": "012DAC:AmericaRising2.esm",
+      "CombinedMesh": 700875889
+    },
+    {
+      "Reference": "012DC7:AmericaRising2.esm",
+      "CombinedMesh": 545483776
+    },
+    {
+      "Reference": "012E0D:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012DEC:AmericaRising2.esm",
+      "CombinedMesh": 286830177
+    },
+    {
+      "Reference": "012DC2:AmericaRising2.esm",
+      "CombinedMesh": 155214439
+    },
+    {
+      "Reference": "012DA9:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012E23:AmericaRising2.esm",
+      "CombinedMesh": 154996531
+    },
+    {
+      "Reference": "012DF5:AmericaRising2.esm",
+      "CombinedMesh": 706103750
+    },
+    {
+      "Reference": "012E14:AmericaRising2.esm",
+      "CombinedMesh": 66586154
+    },
+    {
+      "Reference": "012E3A:AmericaRising2.esm",
+      "CombinedMesh": 61352693
+    },
+    {
+      "Reference": "012DDB:AmericaRising2.esm",
+      "CombinedMesh": 177254352
+    },
+    {
+      "Reference": "012D6A:AmericaRising2.esm",
+      "CombinedMesh": 709256473
+    },
+    {
+      "Reference": "033A72:AmericaRising2.esm",
+      "CombinedMesh": 3212894657
+    },
+    {
+      "Reference": "012ECE:AmericaRising2.esm",
+      "CombinedMesh": 57254954
+    },
+    {
+      "Reference": "012AC3:AmericaRising2.esm",
+      "CombinedMesh": 676520409
+    },
+    {
+      "Reference": "0282FF:AmericaRising2.esm",
+      "CombinedMesh": 2208836341
+    },
+    {
+      "Reference": "012D2F:AmericaRising2.esm",
+      "CombinedMesh": 961529262
+    },
+    {
+      "Reference": "012EF9:AmericaRising2.esm",
+      "CombinedMesh": 286830177
+    },
+    {
+      "Reference": "033A6B:AmericaRising2.esm",
+      "CombinedMesh": 2821688461
+    },
+    {
+      "Reference": "012D18:AmericaRising2.esm",
+      "CombinedMesh": 990604721
+    },
+    {
+      "Reference": "012D36:AmericaRising2.esm",
+      "CombinedMesh": 177254352
+    },
+    {
+      "Reference": "012ADA:AmericaRising2.esm",
+      "CombinedMesh": 758146389
+    },
+    {
+      "Reference": "012ED7:AmericaRising2.esm",
+      "CombinedMesh": 987915597
+    },
+    {
+      "Reference": "012AB1:AmericaRising2.esm",
+      "CombinedMesh": 876429860
+    },
+    {
+      "Reference": "012A9A:AmericaRising2.esm",
+      "CombinedMesh": 299442366
+    },
+    {
+      "Reference": "012EFC:AmericaRising2.esm",
+      "CombinedMesh": 373551014
+    },
+    {
+      "Reference": "012AF1:AmericaRising2.esm",
+      "CombinedMesh": 896051539
+    },
+    {
+      "Reference": "012D76:AmericaRising2.esm",
+      "CombinedMesh": 835609768
+    },
+    {
+      "Reference": "012D1D:AmericaRising2.esm",
+      "CombinedMesh": 611683620
+    },
+    {
+      "Reference": "012D33:AmericaRising2.esm",
+      "CombinedMesh": 832456823
+    },
+    {
+      "Reference": "012AB4:AmericaRising2.esm",
+      "CombinedMesh": 876429860
+    },
+    {
+      "Reference": "012ED2:AmericaRising2.esm",
+      "CombinedMesh": 61352693
+    },
+    {
+      "Reference": "012D04:AmericaRising2.esm",
+      "CombinedMesh": 518983467
+    },
+    {
+      "Reference": "012A83:AmericaRising2.esm",
+      "CombinedMesh": 203613931
+    },
+    {
+      "Reference": "012AE8:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "0282FA:AmericaRising2.esm",
+      "CombinedMesh": 61352693
+    },
+    {
+      "Reference": "012ECB:AmericaRising2.esm",
+      "CombinedMesh": 61352693
+    },
+    {
+      "Reference": "012AC6:AmericaRising2.esm",
+      "CombinedMesh": 987915597
+    },
+    {
+      "Reference": "012D2A:AmericaRising2.esm",
+      "CombinedMesh": 706103750
+    },
+    {
+      "Reference": "012D7C:AmericaRising2.esm",
+      "CombinedMesh": 289964734
+    },
+    {
+      "Reference": "012D17:AmericaRising2.esm",
+      "CombinedMesh": 990604721
+    },
+    {
+      "Reference": "033A64:AmericaRising2.esm",
+      "CombinedMesh": 2907506689
+    },
+    {
+      "Reference": "0282E9:AmericaRising2.esm",
+      "CombinedMesh": 3097939282
+    },
+    {
+      "Reference": "012AD5:AmericaRising2.esm",
+      "CombinedMesh": 1035543690
+    },
+    {
+      "Reference": "012ED8:AmericaRising2.esm",
+      "CombinedMesh": 987915597
+    },
+    {
+      "Reference": "012AE2:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "012D65:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012D0E:AmericaRising2.esm",
+      "CombinedMesh": 961529262
+    },
+    {
+      "Reference": "012D20:AmericaRising2.esm",
+      "CombinedMesh": 1073581205
+    },
+    {
+      "Reference": "0282F0:AmericaRising2.esm",
+      "CombinedMesh": 3135399245
+    },
+    {
+      "Reference": "012ACC:AmericaRising2.esm",
+      "CombinedMesh": 408765968
+    },
+    {
+      "Reference": "033A78:AmericaRising2.esm",
+      "CombinedMesh": 2936643614
+    },
+    {
+      "Reference": "012EEA:AmericaRising2.esm",
+      "CombinedMesh": 711664786
+    },
+    {
+      "Reference": "019A3E:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012D0B:AmericaRising2.esm",
+      "CombinedMesh": 518983467
+    },
+    {
+      "Reference": "012D25:AmericaRising2.esm",
+      "CombinedMesh": 437906959
+    },
+    {
+      "Reference": "012AC9:AmericaRising2.esm",
+      "CombinedMesh": 148113359
+    },
+    {
+      "Reference": "012AA2:AmericaRising2.esm",
+      "CombinedMesh": 22045025
+    },
+    {
+      "Reference": "012D12:AmericaRising2.esm",
+      "CombinedMesh": 961529262
+    },
+    {
+      "Reference": "012D79:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012AFE:AmericaRising2.esm",
+      "CombinedMesh": 408765968
+    },
+    {
+      "Reference": "012EDD:AmericaRising2.esm",
+      "CombinedMesh": 674204813
+    },
+    {
+      "Reference": "012ABB:AmericaRising2.esm",
+      "CombinedMesh": 622880339
+    },
+    {
+      "Reference": "012D3C:AmericaRising2.esm",
+      "CombinedMesh": 990604721
+    },
+    {
+      "Reference": "012AAA:AmericaRising2.esm",
+      "CombinedMesh": 70444525
+    },
+    {
+      "Reference": "033A5E:AmericaRising2.esm",
+      "CombinedMesh": 2907506689
+    },
+    {
+      "Reference": "012ECC:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "012D2D:AmericaRising2.esm",
+      "CombinedMesh": 286830177
+    },
+    {
+      "Reference": "012D68:AmericaRising2.esm",
+      "CombinedMesh": 289964734
+    },
+    {
+      "Reference": "012D03:AmericaRising2.esm",
+      "CombinedMesh": 635562124
+    },
+    {
+      "Reference": "012A84:AmericaRising2.esm",
+      "CombinedMesh": 748945661
+    },
+    {
+      "Reference": "033A70:AmericaRising2.esm",
+      "CombinedMesh": 3212894657
+    },
+    {
+      "Reference": "012D34:AmericaRising2.esm",
+      "CombinedMesh": 832456823
+    },
+    {
+      "Reference": "012AB3:AmericaRising2.esm",
+      "CombinedMesh": 347841586
+    },
+    {
+      "Reference": "012ED5:AmericaRising2.esm",
+      "CombinedMesh": 987915597
+    },
+    {
+      "Reference": "012EFB:AmericaRising2.esm",
+      "CombinedMesh": 373551014
+    },
+    {
+      "Reference": "012D1A:AmericaRising2.esm",
+      "CombinedMesh": 990604721
+    },
+    {
+      "Reference": "012D31:AmericaRising2.esm",
+      "CombinedMesh": 148113359
+    },
+    {
+      "Reference": "012ED0:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "033A6C:AmericaRising2.esm",
+      "CombinedMesh": 2821688461
+    },
+    {
+      "Reference": "012EFE:AmericaRising2.esm",
+      "CombinedMesh": 1036274142
+    },
+    {
+      "Reference": "012D1F:AmericaRising2.esm",
+      "CombinedMesh": 83061554
+    },
+    {
+      "Reference": "012AC4:AmericaRising2.esm",
+      "CombinedMesh": 148113359
+    },
+    {
+      "Reference": "012EC9:AmericaRising2.esm",
+      "CombinedMesh": 61352693
+    },
+    {
+      "Reference": "0282F8:AmericaRising2.esm",
+      "CombinedMesh": 3135399245
+    },
+    {
+      "Reference": "012D28:AmericaRising2.esm",
+      "CombinedMesh": 26341310
+    },
+    {
+      "Reference": "012D06:AmericaRising2.esm",
+      "CombinedMesh": 635562124
+    },
+    {
+      "Reference": "012D6D:AmericaRising2.esm",
+      "CombinedMesh": 2327872271
+    },
+    {
+      "Reference": "012AEA:AmericaRising2.esm",
+      "CombinedMesh": 896051539
+    },
+    {
+      "Reference": "012A81:AmericaRising2.esm",
+      "CombinedMesh": 748945661
+    },
+    {
+      "Reference": "012EDA:AmericaRising2.esm",
+      "CombinedMesh": 320957226
+    },
+    {
+      "Reference": "012AD7:AmericaRising2.esm",
+      "CombinedMesh": 490717852
+    },
+    {
+      "Reference": "012ABC:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "012D15:AmericaRising2.esm",
+      "CombinedMesh": 363030
+    },
+    {
+      "Reference": "012AF9:AmericaRising2.esm",
+      "CombinedMesh": 900278156
+    },
+    {
+      "Reference": "012D22:AmericaRising2.esm",
+      "CombinedMesh": 528181891
+    },
+    {
+      "Reference": "0282F2:AmericaRising2.esm",
+      "CombinedMesh": 3135399245
+    },
+    {
+      "Reference": "012AE0:AmericaRising2.esm",
+      "CombinedMesh": 230064963
+    },
+    {
+      "Reference": "012D67:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012D27:AmericaRising2.esm",
+      "CombinedMesh": 26341310
+    },
+    {
+      "Reference": "0282F7:AmericaRising2.esm",
+      "CombinedMesh": 3135399245
+    },
+    {
+      "Reference": "012ACB:AmericaRising2.esm",
+      "CombinedMesh": 676520409
+    },
+    {
+      "Reference": "033A7A:AmericaRising2.esm",
+      "CombinedMesh": 2936643614
+    },
+    {
+      "Reference": "012D09:AmericaRising2.esm",
+      "CombinedMesh": 635562124
+    },
+    {
+      "Reference": "012AB9:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "012D3E:AmericaRising2.esm",
+      "CombinedMesh": 37822985
+    },
+    {
+      "Reference": "012D10:AmericaRising2.esm",
+      "CombinedMesh": 961529262
+    },
+    {
+      "Reference": "012A97:AmericaRising2.esm",
+      "CombinedMesh": 57254954
+    },
+    {
+      "Reference": "033A63:AmericaRising2.esm",
+      "CombinedMesh": 2907506689
+    },
+    {
+      "Reference": "012D0A:AmericaRising2.esm",
+      "CombinedMesh": 518983467
+    },
+    {
+      "Reference": "033A79:AmericaRising2.esm",
+      "CombinedMesh": 2859148434
+    },
+    {
+      "Reference": "019A3F:AmericaRising2.esm",
+      "CombinedMesh": 700875889
+    },
+    {
+      "Reference": "012AA3:AmericaRising2.esm",
+      "CombinedMesh": 22045025
+    },
+    {
+      "Reference": "012D24:AmericaRising2.esm",
+      "CombinedMesh": 983500825
+    },
+    {
+      "Reference": "033A60:AmericaRising2.esm",
+      "CombinedMesh": 2907506689
+    },
+    {
+      "Reference": "012EF2:AmericaRising2.esm",
+      "CombinedMesh": 711664786
+    },
+    {
+      "Reference": "012D13:AmericaRising2.esm",
+      "CombinedMesh": 363030
+    },
+    {
+      "Reference": "012D78:AmericaRising2.esm",
+      "CombinedMesh": 180388623
+    },
+    {
+      "Reference": "012D3D:AmericaRising2.esm",
+      "CombinedMesh": 37822985
+    },
+    {
+      "Reference": "012EDC:AmericaRising2.esm",
+      "CombinedMesh": 674204813
+    },
+    {
+      "Reference": "012ABA:AmericaRising2.esm",
+      "CombinedMesh": 622880339
+    },
+    {
+      "Reference": "012AFA:AmericaRising2.esm",
+      "CombinedMesh": 355451290
+    },
+    {
+      "Reference": "019A48:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012D7D:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012D16:AmericaRising2.esm",
+      "CombinedMesh": 363030
+    },
+    {
+      "Reference": "012D38:AmericaRising2.esm",
+      "CombinedMesh": 961529262
+    },
+    {
+      "Reference": "0282E8:AmericaRising2.esm",
+      "CombinedMesh": 2204738602
+    },
+    {
+      "Reference": "012ED9:AmericaRising2.esm",
+      "CombinedMesh": 987915597
+    },
+    {
+      "Reference": "012AD4:AmericaRising2.esm",
+      "CombinedMesh": 490717852
+    },
+    {
+      "Reference": "012AE3:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "0282F1:AmericaRising2.esm",
+      "CombinedMesh": 3135399245
+    },
+    {
+      "Reference": "012D21:AmericaRising2.esm",
+      "CombinedMesh": 1073581205
+    },
+    {
+      "Reference": "012D77:AmericaRising2.esm",
+      "CombinedMesh": 180388623
+    },
+    {
+      "Reference": "012D1C:AmericaRising2.esm",
+      "CombinedMesh": 12846281
+    },
+    {
+      "Reference": "012A9B:AmericaRising2.esm",
+      "CombinedMesh": 299442366
+    },
+    {
+      "Reference": "012AF0:AmericaRising2.esm",
+      "CombinedMesh": 367939397
+    },
+    {
+      "Reference": "012EFD:AmericaRising2.esm",
+      "CombinedMesh": 113946233
+    },
+    {
+      "Reference": "0282E2:AmericaRising2.esm",
+      "CombinedMesh": 2204738602
+    },
+    {
+      "Reference": "012ED3:AmericaRising2.esm",
+      "CombinedMesh": 61352693
+    },
+    {
+      "Reference": "012D32:AmericaRising2.esm",
+      "CombinedMesh": 148113359
+    },
+    {
+      "Reference": "012A82:AmericaRising2.esm",
+      "CombinedMesh": 203613931
+    },
+    {
+      "Reference": "012AE9:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "012D05:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "012D2B:AmericaRising2.esm",
+      "CombinedMesh": 177254352
+    },
+    {
+      "Reference": "012AAC:AmericaRising2.esm",
+      "CombinedMesh": 615777275
+    },
+    {
+      "Reference": "012AC7:AmericaRising2.esm",
+      "CombinedMesh": 987915597
+    },
+    {
+      "Reference": "012ECA:AmericaRising2.esm",
+      "CombinedMesh": 61352693
+    },
+    {
+      "Reference": "012EE1:AmericaRising2.esm",
+      "CombinedMesh": 320957226
+    },
+    {
+      "Reference": "033A73:AmericaRising2.esm",
+      "CombinedMesh": 2936643614
+    },
+    {
+      "Reference": "012D00:AmericaRising2.esm",
+      "CombinedMesh": 518983467
+    },
+    {
+      "Reference": "012D6B:AmericaRising2.esm",
+      "CombinedMesh": 709256473
+    },
+    {
+      "Reference": "012D2E:AmericaRising2.esm",
+      "CombinedMesh": 286830177
+    },
+    {
+      "Reference": "012ECF:AmericaRising2.esm",
+      "CombinedMesh": 57254954
+    },
+    {
+      "Reference": "012AA9:AmericaRising2.esm",
+      "CombinedMesh": 615777275
+    },
+    {
+      "Reference": "012D19:AmericaRising2.esm",
+      "CombinedMesh": 990604721
+    },
+    {
+      "Reference": "033A6A:AmericaRising2.esm",
+      "CombinedMesh": 2821688461
+    },
+    {
+      "Reference": "012EF8:AmericaRising2.esm",
+      "CombinedMesh": 711664786
+    },
+    {
+      "Reference": "012A9E:AmericaRising2.esm",
+      "CombinedMesh": 57254954
+    },
+    {
+      "Reference": "012ED6:AmericaRising2.esm",
+      "CombinedMesh": 987915597
+    },
+    {
+      "Reference": "012ADB:AmericaRising2.esm",
+      "CombinedMesh": 230064963
+    },
+    {
+      "Reference": "0282E7:AmericaRising2.esm",
+      "CombinedMesh": 3097939282
+    },
+    {
+      "Reference": "012D37:AmericaRising2.esm",
+      "CombinedMesh": 828360360
+    },
+    {
+      "Reference": "012AA1:AmericaRising2.esm",
+      "CombinedMesh": 567707511
+    },
+    {
+      "Reference": "012ACA:AmericaRising2.esm",
+      "CombinedMesh": 953917446
+    },
+    {
+      "Reference": "012D26:AmericaRising2.esm",
+      "CombinedMesh": 555157928
+    },
+    {
+      "Reference": "012D63:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012D08:AmericaRising2.esm",
+      "CombinedMesh": 635562124
+    },
+    {
+      "Reference": "019A3D:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012D3F:AmericaRising2.esm",
+      "CombinedMesh": 12846281
+    },
+    {
+      "Reference": "0282EF:AmericaRising2.esm",
+      "CombinedMesh": 3135399245
+    },
+    {
+      "Reference": "012AFD:AmericaRising2.esm",
+      "CombinedMesh": 786475234
+    },
+    {
+      "Reference": "012D11:AmericaRising2.esm",
+      "CombinedMesh": 961529262
+    },
+    {
+      "Reference": "012D3A:AmericaRising2.esm",
+      "CombinedMesh": 363030
+    },
+    {
+      "Reference": "012AD6:AmericaRising2.esm",
+      "CombinedMesh": 1035543690
+    },
+    {
+      "Reference": "012EDB:AmericaRising2.esm",
+      "CombinedMesh": 320957226
+    },
+    {
+      "Reference": "0282EA:AmericaRising2.esm",
+      "CombinedMesh": 3097939282
+    },
+    {
+      "Reference": "012EF5:AmericaRising2.esm",
+      "CombinedMesh": 789159966
+    },
+    {
+      "Reference": "012AF8:AmericaRising2.esm",
+      "CombinedMesh": 241585908
+    },
+    {
+      "Reference": "012D14:AmericaRising2.esm",
+      "CombinedMesh": 363030
+    },
+    {
+      "Reference": "012D7F:AmericaRising2.esm",
+      "CombinedMesh": 835609768
+    },
+    {
+      "Reference": "012ACF:AmericaRising2.esm",
+      "CombinedMesh": 953917446
+    },
+    {
+      "Reference": "012AA4:AmericaRising2.esm",
+      "CombinedMesh": 567707511
+    },
+    {
+      "Reference": "012D23:AmericaRising2.esm",
+      "CombinedMesh": 983500825
+    },
+    {
+      "Reference": "012D0D:AmericaRising2.esm",
+      "CombinedMesh": 518983467
+    },
+    {
+      "Reference": "012D66:AmericaRising2.esm",
+      "CombinedMesh": 709256473
+    },
+    {
+      "Reference": "012AE1:AmericaRising2.esm",
+      "CombinedMesh": 758146389
+    },
+    {
+      "Reference": "012ED1:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "012D30:AmericaRising2.esm",
+      "CombinedMesh": 961529262
+    },
+    {
+      "Reference": "012D1E:AmericaRising2.esm",
+      "CombinedMesh": 83061554
+    },
+    {
+      "Reference": "012EFF:AmericaRising2.esm",
+      "CombinedMesh": 760023041
+    },
+    {
+      "Reference": "012AF2:AmericaRising2.esm",
+      "CombinedMesh": 241585908
+    },
+    {
+      "Reference": "012A99:AmericaRising2.esm",
+      "CombinedMesh": 828360360
+    },
+    {
+      "Reference": "012D29:AmericaRising2.esm",
+      "CombinedMesh": 706103750
+    },
+    {
+      "Reference": "012EC8:AmericaRising2.esm",
+      "CombinedMesh": 842262676
+    },
+    {
+      "Reference": "033A5A:AmericaRising2.esm",
+      "CombinedMesh": 3183757790
+    },
+    {
+      "Reference": "0282F9:AmericaRising2.esm",
+      "CombinedMesh": 2208836341
+    },
+    {
+      "Reference": "012AEB:AmericaRising2.esm",
+      "CombinedMesh": 367939397
+    },
+    {
+      "Reference": "012D07:AmericaRising2.esm",
+      "CombinedMesh": 635562124
+    },
+    {
+      "Reference": "012D6C:AmericaRising2.esm",
+      "CombinedMesh": 289964734
+    },
+    {
+      "Reference": "012D2C:AmericaRising2.esm",
+      "CombinedMesh": 832456823
+    },
+    {
+      "Reference": "012AAB:AmericaRising2.esm",
+      "CombinedMesh": 70444525
+    },
+    {
+      "Reference": "012ECD:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "033A5F:AmericaRising2.esm",
+      "CombinedMesh": 2907506689
+    },
+    {
+      "Reference": "012D69:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012AB2:AmericaRising2.esm",
+      "CombinedMesh": 347841586
+    },
+    {
+      "Reference": "012ED4:AmericaRising2.esm",
+      "CombinedMesh": 987915597
+    },
+    {
+      "Reference": "012D35:AmericaRising2.esm",
+      "CombinedMesh": 177254352
+    },
+    {
+      "Reference": "012D1B:AmericaRising2.esm",
+      "CombinedMesh": 12846281
+    },
+    {
+      "Reference": "012A9C:AmericaRising2.esm",
+      "CombinedMesh": 828360360
+    },
+    {
+      "Reference": "012AF7:AmericaRising2.esm",
+      "CombinedMesh": 786475234
+    },
+    {
+      "Reference": "012E20:AmericaRising2.esm",
+      "CombinedMesh": 842262676
+    },
+    {
+      "Reference": "0144DF:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012DAA:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012DC1:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012DEF:AmericaRising2.esm",
+      "CombinedMesh": 462261159
+    },
+    {
+      "Reference": "012E0E:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "012DB3:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012DD8:AmericaRising2.esm",
+      "CombinedMesh": 148113359
+    },
+    {
+      "Reference": "012DF6:AmericaRising2.esm",
+      "CombinedMesh": 299442366
+    },
+    {
+      "Reference": "012DDD:AmericaRising2.esm",
+      "CombinedMesh": 828360360
+    },
+    {
+      "Reference": "012DB6:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012E3C:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "033A80:AmericaRising2.esm",
+      "CombinedMesh": 2859148434
+    },
+    {
+      "Reference": "012E12:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "012DF3:AmericaRising2.esm",
+      "CombinedMesh": 286830177
+    },
+    {
+      "Reference": "012D98:AmericaRising2.esm",
+      "CombinedMesh": 431247084
+    },
+    {
+      "Reference": "012E4E:AmericaRising2.esm",
+      "CombinedMesh": 57254954
+    },
+    {
+      "Reference": "012DAF:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012DEA:AmericaRising2.esm",
+      "CombinedMesh": 545483776
+    },
+    {
+      "Reference": "012E36:AmericaRising2.esm",
+      "CombinedMesh": 154996531
+    },
+    {
+      "Reference": "012DD7:AmericaRising2.esm",
+      "CombinedMesh": 148113359
+    },
+    {
+      "Reference": "0144A2:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012DBC:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012DF9:AmericaRising2.esm",
+      "CombinedMesh": 148113359
+    },
+    {
+      "Reference": "0144E7:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012D92:AmericaRising2.esm",
+      "CombinedMesh": 3103187341
+    },
+    {
+      "Reference": "012DCE:AmericaRising2.esm",
+      "CombinedMesh": 432612280
+    },
+    {
+      "Reference": "012DA5:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "02B0EA:AmericaRising2.esm",
+      "CombinedMesh": 154996531
+    },
+    {
+      "Reference": "013FDC:AmericaRising2.esm",
+      "CombinedMesh": 842262676
+    },
+    {
+      "Reference": "012DE0:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012D8B:AmericaRising2.esm",
+      "CombinedMesh": 835609768
+    },
+    {
+      "Reference": "012DA0:AmericaRising2.esm",
+      "CombinedMesh": 961529262
+    },
+    {
+      "Reference": "012DCB:AmericaRising2.esm",
+      "CombinedMesh": 432612280
+    },
+    {
+      "Reference": "012E41:AmericaRising2.esm",
+      "CombinedMesh": 61352693
+    },
+    {
+      "Reference": "012E2A:AmericaRising2.esm",
+      "CombinedMesh": 468772595
+    },
+    {
+      "Reference": "012D8E:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012DE5:AmericaRising2.esm",
+      "CombinedMesh": 462261159
+    },
+    {
+      "Reference": "0144E2:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012D97:AmericaRising2.esm",
+      "CombinedMesh": 66586154
+    },
+    {
+      "Reference": "012DFC:AmericaRising2.esm",
+      "CombinedMesh": 177254352
+    },
+    {
+      "Reference": "012DED:AmericaRising2.esm",
+      "CombinedMesh": 676520409
+    },
+    {
+      "Reference": "012D86:AmericaRising2.esm",
+      "CombinedMesh": 2327872271
+    },
+    {
+      "Reference": "012DA8:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012E15:AmericaRising2.esm",
+      "CombinedMesh": 431247084
+    },
+    {
+      "Reference": "012DF4:AmericaRising2.esm",
+      "CombinedMesh": 706103750
+    },
+    {
+      "Reference": "012DDA:AmericaRising2.esm",
+      "CombinedMesh": 832456823
+    },
+    {
+      "Reference": "012DB1:AmericaRising2.esm",
+      "CombinedMesh": 155214439
+    },
+    {
+      "Reference": "012E3B:AmericaRising2.esm",
+      "CombinedMesh": 154996531
+    },
+    {
+      "Reference": "012E10:AmericaRising2.esm",
+      "CombinedMesh": 431247084
+    },
+    {
+      "Reference": "012DF1:AmericaRising2.esm",
+      "CombinedMesh": 706103750
+    },
+    {
+      "Reference": "012DB4:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012DDF:AmericaRising2.esm",
+      "CombinedMesh": 545483776
+    },
+    {
+      "Reference": "012E3E:AmericaRising2.esm",
+      "CombinedMesh": 842262676
+    },
+    {
+      "Reference": "012D83:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012DE8:AmericaRising2.esm",
+      "CombinedMesh": 706103750
+    },
+    {
+      "Reference": "012E27:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "012DAD:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "0144E5:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012DFB:AmericaRising2.esm",
+      "CombinedMesh": 177254352
+    },
+    {
+      "Reference": "012DBE:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012DD5:AmericaRising2.esm",
+      "CombinedMesh": 148113359
+    },
+    {
+      "Reference": "012DE2:AmericaRising2.esm",
+      "CombinedMesh": 805973471
+    },
+    {
+      "Reference": "012DA7:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012DCC:AmericaRising2.esm",
+      "CombinedMesh": 432612280
+    },
+    {
+      "Reference": "012E2D:AmericaRising2.esm",
+      "CombinedMesh": 154996531
+    },
+    {
+      "Reference": "012DE7:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012D8C:AmericaRising2.esm",
+      "CombinedMesh": 835609768
+    },
+    {
+      "Reference": "012DC9:AmericaRising2.esm",
+      "CombinedMesh": 286830177
+    },
+    {
+      "Reference": "012DA2:AmericaRising2.esm",
+      "CombinedMesh": 363030
+    },
+    {
+      "Reference": "012E28:AmericaRising2.esm",
+      "CombinedMesh": 431247084
+    },
+    {
+      "Reference": "012DFE:AmericaRising2.esm",
+      "CombinedMesh": 828360360
+    },
+    {
+      "Reference": "012D95:AmericaRising2.esm",
+      "CombinedMesh": 955703693
+    },
+    {
+      "Reference": "0144E0:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012E1F:AmericaRising2.esm",
+      "CombinedMesh": 61352693
+    },
+    {
+      "Reference": "012E31:AmericaRising2.esm",
+      "CombinedMesh": 842262676
+    },
+    {
+      "Reference": "012DD0:AmericaRising2.esm",
+      "CombinedMesh": 432612280
+    },
+    {
+      "Reference": "012DBB:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "013113:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "012B88:AmericaRising2.esm",
+      "CombinedMesh": 347841586
+    },
+    {
+      "Reference": "0338B3:AmericaRising2.esm",
+      "CombinedMesh": 961529262
+    },
+    {
+      "Reference": "0338D8:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "012BA6:AmericaRising2.esm",
+      "CombinedMesh": 26341310
+    },
+    {
+      "Reference": "01428F:AmericaRising2.esm",
+      "CombinedMesh": 236659616
+    },
+    {
+      "Reference": "012B91:AmericaRising2.esm",
+      "CombinedMesh": 518983467
+    },
+    {
+      "Reference": "0338AA:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "0338C1:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012B94:AmericaRising2.esm",
+      "CombinedMesh": 22045025
+    },
+    {
+      "Reference": "0338C4:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "0338AF:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012B8D:AmericaRising2.esm",
+      "CombinedMesh": 796183882
+    },
+    {
+      "Reference": "013116:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "0338DD:AmericaRising2.esm",
+      "CombinedMesh": 61352693
+    },
+    {
+      "Reference": "0338B6:AmericaRising2.esm",
+      "CombinedMesh": 12846281
+    },
+    {
+      "Reference": "012BA3:AmericaRising2.esm",
+      "CombinedMesh": 953917446
+    },
+    {
+      "Reference": "012B9E:AmericaRising2.esm",
+      "CombinedMesh": 706103750
+    },
+    {
+      "Reference": "0338E0:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "0338CE:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012BB0:AmericaRising2.esm",
+      "CombinedMesh": 676520409
+    },
+    {
+      "Reference": "01312B:AmericaRising2.esm",
+      "CombinedMesh": 622880339
+    },
+    {
+      "Reference": "012B87:AmericaRising2.esm",
+      "CombinedMesh": 622880339
+    },
+    {
+      "Reference": "012BA9:AmericaRising2.esm",
+      "CombinedMesh": 286830177
+    },
+    {
+      "Reference": "0338D7:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "0338BC:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "013119:AmericaRising2.esm",
+      "CombinedMesh": 748945661
+    },
+    {
+      "Reference": "012B82:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "012BAC:AmericaRising2.esm",
+      "CombinedMesh": 26341310
+    },
+    {
+      "Reference": "0338B9:AmericaRising2.esm",
+      "CombinedMesh": 990604721
+    },
+    {
+      "Reference": "0338D2:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012B9B:AmericaRising2.esm",
+      "CombinedMesh": 983500825
+    },
+    {
+      "Reference": "0338E5:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "0338CB:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012BB5:AmericaRising2.esm",
+      "CombinedMesh": 1035543690
+    },
+    {
+      "Reference": "0338DA:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "0338B1:AmericaRising2.esm",
+      "CombinedMesh": 408765968
+    },
+    {
+      "Reference": "012BA4:AmericaRising2.esm",
+      "CombinedMesh": 953917446
+    },
+    {
+      "Reference": "012B8A:AmericaRising2.esm",
+      "CombinedMesh": 518983467
+    },
+    {
+      "Reference": "0338C3:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012B93:AmericaRising2.esm",
+      "CombinedMesh": 518983467
+    },
+    {
+      "Reference": "01428D:AmericaRising2.esm",
+      "CombinedMesh": 207588287
+    },
+    {
+      "Reference": "0338AD:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "0338C6:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "012B96:AmericaRising2.esm",
+      "CombinedMesh": 70444525
+    },
+    {
+      "Reference": "0338B4:AmericaRising2.esm",
+      "CombinedMesh": 961529262
+    },
+    {
+      "Reference": "0338DF:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012BA1:AmericaRising2.esm",
+      "CombinedMesh": 983500825
+    },
+    {
+      "Reference": "013114:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "012B8F:AmericaRising2.esm",
+      "CombinedMesh": 1073581205
+    },
+    {
+      "Reference": "0338CC:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "013129:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "012BB2:AmericaRising2.esm",
+      "CombinedMesh": 953917446
+    },
+    {
+      "Reference": "012B9C:AmericaRising2.esm",
+      "CombinedMesh": 706103750
+    },
+    {
+      "Reference": "0338E2:AmericaRising2.esm",
+      "CombinedMesh": 184863352
+    },
+    {
+      "Reference": "012BAB:AmericaRising2.esm",
+      "CombinedMesh": 83061554
+    },
+    {
+      "Reference": "0338BE:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "0338D5:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "01311E:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "012B85:AmericaRising2.esm",
+      "CombinedMesh": 347841586
+    },
+    {
+      "Reference": "0338D0:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "0338BB:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "012B80:AmericaRising2.esm",
+      "CombinedMesh": 1035543690
+    },
+    {
+      "Reference": "0338C9:AmericaRising2.esm",
+      "CombinedMesh": 729951342
+    },
+    {
+      "Reference": "01312C:AmericaRising2.esm",
+      "CombinedMesh": 622880339
+    },
+    {
+      "Reference": "012B99:AmericaRising2.esm",
+      "CombinedMesh": 1073581205
+    },
+    {
+      "Reference": "012CAF:AmericaRising2.esm",
+      "CombinedMesh": 888982779
+    },
+    {
+      "Reference": "012CC4:AmericaRising2.esm",
+      "CombinedMesh": 437906959
+    },
+    {
+      "Reference": "012F4E:AmericaRising2.esm",
+      "CombinedMesh": 207588287
+    },
+    {
+      "Reference": "012F25:AmericaRising2.esm",
+      "CombinedMesh": 674204813
+    },
+    {
+      "Reference": "012F60:AmericaRising2.esm",
+      "CombinedMesh": 431247084
+    },
+    {
+      "Reference": "012CEA:AmericaRising2.esm",
+      "CombinedMesh": 230064963
+    },
+    {
+      "Reference": "012F57:AmericaRising2.esm",
+      "CombinedMesh": 207588287
+    },
+    {
+      "Reference": "012CB6:AmericaRising2.esm",
+      "CombinedMesh": 528181891
+    },
+    {
+      "Reference": "012C98:AmericaRising2.esm",
+      "CombinedMesh": 90640026
+    },
+    {
+      "Reference": "012CF3:AmericaRising2.esm",
+      "CombinedMesh": 267529052
+    },
+    {
+      "Reference": "012B74:AmericaRising2.esm",
+      "CombinedMesh": 758146389
+    },
+    {
+      "Reference": "012F39:AmericaRising2.esm",
+      "CombinedMesh": 760023041
+    },
+    {
+      "Reference": "028308:AmericaRising2.esm",
+      "CombinedMesh": 3103187341
+    },
+    {
+      "Reference": "012F52:AmericaRising2.esm",
+      "CombinedMesh": 932242119
+    },
+    {
+      "Reference": "012CD8:AmericaRising2.esm",
+      "CombinedMesh": 832456823
+    },
+    {
+      "Reference": "012CB3:AmericaRising2.esm",
+      "CombinedMesh": 490717852
+    },
+    {
+      "Reference": "012CF6:AmericaRising2.esm",
+      "CombinedMesh": 888982779
+    },
+    {
+      "Reference": "012C9D:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "012F17:AmericaRising2.esm",
+      "CombinedMesh": 789159966
+    },
+    {
+      "Reference": "012B71:AmericaRising2.esm",
+      "CombinedMesh": 758146389
+    },
+    {
+      "Reference": "012CC1:AmericaRising2.esm",
+      "CombinedMesh": 408765968
+    },
+    {
+      "Reference": "012CAA:AmericaRising2.esm",
+      "CombinedMesh": 876429860
+    },
+    {
+      "Reference": "012F4B:AmericaRising2.esm",
+      "CombinedMesh": 928082968
+    },
+    {
+      "Reference": "012F65:AmericaRising2.esm",
+      "CombinedMesh": 842262676
+    },
+    {
+      "Reference": "012CD2:AmericaRising2.esm",
+      "CombinedMesh": 177254352
+    },
+    {
+      "Reference": "012CB9:AmericaRising2.esm",
+      "CombinedMesh": 615777275
+    },
+    {
+      "Reference": "012F33:AmericaRising2.esm",
+      "CombinedMesh": 760023041
+    },
+    {
+      "Reference": "028302:AmericaRising2.esm",
+      "CombinedMesh": 3135399245
+    },
+    {
+      "Reference": "012F58:AmericaRising2.esm",
+      "CombinedMesh": 928082968
+    },
+    {
+      "Reference": "012F1D:AmericaRising2.esm",
+      "CombinedMesh": 1065411009
+    },
+    {
+      "Reference": "012B7B:AmericaRising2.esm",
+      "CombinedMesh": 635562124
+    },
+    {
+      "Reference": "012CFC:AmericaRising2.esm",
+      "CombinedMesh": 355451290
+    },
+    {
+      "Reference": "012C97:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "012F2A:AmericaRising2.esm",
+      "CombinedMesh": 674204813
+    },
+    {
+      "Reference": "012F41:AmericaRising2.esm",
+      "CombinedMesh": 101392550
+    },
+    {
+      "Reference": "012CCB:AmericaRising2.esm",
+      "CombinedMesh": 555157928
+    },
+    {
+      "Reference": "012CA0:AmericaRising2.esm",
+      "CombinedMesh": 90640026
+    },
+    {
+      "Reference": "012CE5:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "012F04:AmericaRising2.esm",
+      "CombinedMesh": 674204813
+    },
+    {
+      "Reference": "012F2F:AmericaRising2.esm",
+      "CombinedMesh": 333506037
+    },
+    {
+      "Reference": "012CA5:AmericaRising2.esm",
+      "CombinedMesh": 230064963
+    },
+    {
+      "Reference": "012CCE:AmericaRising2.esm",
+      "CombinedMesh": 148113359
+    },
+    {
+      "Reference": "012CE0:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "012F01:AmericaRising2.esm",
+      "CombinedMesh": 674204813
+    },
+    {
+      "Reference": "012CBC:AmericaRising2.esm",
+      "CombinedMesh": 611683620
+    },
+    {
+      "Reference": "012CD7:AmericaRising2.esm",
+      "CombinedMesh": 177254352
+    },
+    {
+      "Reference": "028307:AmericaRising2.esm",
+      "CombinedMesh": 66586154
+    },
+    {
+      "Reference": "012B7E:AmericaRising2.esm",
+      "CombinedMesh": 343550701
+    },
+    {
+      "Reference": "012CF9:AmericaRising2.esm",
+      "CombinedMesh": 230064963
+    },
+    {
+      "Reference": "012F09:AmericaRising2.esm",
+      "CombinedMesh": 711664786
+    },
+    {
+      "Reference": "012F62:AmericaRising2.esm",
+      "CombinedMesh": 154996531
+    },
+    {
+      "Reference": "012CE8:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "012CC6:AmericaRising2.esm",
+      "CombinedMesh": 567707511
+    },
+    {
+      "Reference": "012CAD:AmericaRising2.esm",
+      "CombinedMesh": 267529052
+    },
+    {
+      "Reference": "012F27:AmericaRising2.esm",
+      "CombinedMesh": 333506037
+    },
+    {
+      "Reference": "012F4C:AmericaRising2.esm",
+      "CombinedMesh": 207588287
+    },
+    {
+      "Reference": "012CF1:AmericaRising2.esm",
+      "CombinedMesh": 267529052
+    },
+    {
+      "Reference": "012C9A:AmericaRising2.esm",
+      "CombinedMesh": 1047128381
+    },
+    {
+      "Reference": "014268:AmericaRising2.esm",
+      "CombinedMesh": 2384143264
+    },
+    {
+      "Reference": "012B76:AmericaRising2.esm",
+      "CombinedMesh": 343550701
+    },
+    {
+      "Reference": "012F55:AmericaRising2.esm",
+      "CombinedMesh": 932242119
+    },
+    {
+      "Reference": "012CB4:AmericaRising2.esm",
+      "CombinedMesh": 611683620
+    },
+    {
+      "Reference": "012C9F:AmericaRising2.esm",
+      "CombinedMesh": 1047128381
+    },
+    {
+      "Reference": "012CF4:AmericaRising2.esm",
+      "CombinedMesh": 888982779
+    },
+    {
+      "Reference": "012B73:AmericaRising2.esm",
+      "CombinedMesh": 481011508
+    },
+    {
+      "Reference": "012F15:AmericaRising2.esm",
+      "CombinedMesh": 789159966
+    },
+    {
+      "Reference": "012F50:AmericaRising2.esm",
+      "CombinedMesh": 236659616
+    },
+    {
+      "Reference": "012F3B:AmericaRising2.esm",
+      "CombinedMesh": 377643385
+    },
+    {
+      "Reference": "012CB1:AmericaRising2.esm",
+      "CombinedMesh": 230064963
+    },
+    {
+      "Reference": "012CDA:AmericaRising2.esm",
+      "CombinedMesh": 148113359
+    },
+    {
+      "Reference": "012F67:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "012CED:AmericaRising2.esm",
+      "CombinedMesh": 267529052
+    },
+    {
+      "Reference": "012CA8:AmericaRising2.esm",
+      "CombinedMesh": 267529052
+    },
+    {
+      "Reference": "012CC3:AmericaRising2.esm",
+      "CombinedMesh": 555157928
+    },
+    {
+      "Reference": "028313:AmericaRising2.esm",
+      "CombinedMesh": 582658379
+    },
+    {
+      "Reference": "033A7F:AmericaRising2.esm",
+      "CombinedMesh": 2859148434
+    },
+    {
+      "Reference": "012F22:AmericaRising2.esm",
+      "CombinedMesh": 1065411009
+    },
+    {
+      "Reference": "012B79:AmericaRising2.esm",
+      "CombinedMesh": 343550701
+    },
+    {
+      "Reference": "033A7D:AmericaRising2.esm",
+      "CombinedMesh": 2859148434
+    },
+    {
+      "Reference": "033A7C:AmericaRising2.esm",
+      "CombinedMesh": 2859148434
+    },
+    {
+      "Reference": "012F1F:AmericaRising2.esm",
+      "CombinedMesh": 1065411009
+    },
+    {
+      "Reference": "033A76:AmericaRising2.esm",
+      "CombinedMesh": 2936643614
+    },
+    {
+      "Reference": "033A75:AmericaRising2.esm",
+      "CombinedMesh": 2936643614
+    },
+    {
+      "Reference": "033A74:AmericaRising2.esm",
+      "CombinedMesh": 2936643614
+    },
+    {
+      "Reference": "012CFE:AmericaRising2.esm",
+      "CombinedMesh": 896051539
+    },
+    {
+      "Reference": "012CBB:AmericaRising2.esm",
+      "CombinedMesh": 528181891
+    },
+    {
+      "Reference": "033A6F:AmericaRising2.esm",
+      "CombinedMesh": 3212894657
+    },
+    {
+      "Reference": "012CD0:AmericaRising2.esm",
+      "CombinedMesh": 832456823
+    },
+    {
+      "Reference": "033A6E:AmericaRising2.esm",
+      "CombinedMesh": 3212894657
+    },
+    {
+      "Reference": "012F5A:AmericaRising2.esm",
+      "CombinedMesh": 236659616
+    },
+    {
+      "Reference": "028300:AmericaRising2.esm",
+      "CombinedMesh": 3135399245
+    },
+    {
+      "Reference": "012F31:AmericaRising2.esm",
+      "CombinedMesh": 760023041
+    },
+    {
+      "Reference": "033A68:AmericaRising2.esm",
+      "CombinedMesh": 2821688461
+    },
+    {
+      "Reference": "033A67:AmericaRising2.esm",
+      "CombinedMesh": 2821688461
+    },
+    {
+      "Reference": "033A66:AmericaRising2.esm",
+      "CombinedMesh": 2821688461
+    },
+    {
+      "Reference": "012CE7:AmericaRising2.esm",
+      "CombinedMesh": 622880339
+    },
+    {
+      "Reference": "033A62:AmericaRising2.esm",
+      "CombinedMesh": 2907506689
+    },
+    {
+      "Reference": "012F6D:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "033A5B:AmericaRising2.esm",
+      "CombinedMesh": 3183757790
+    },
+    {
+      "Reference": "033A59:AmericaRising2.esm",
+      "CombinedMesh": 3183757790
+    },
+    {
+      "Reference": "02B0EB:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "02B0D9:AmericaRising2.esm",
+      "CombinedMesh": 94797893
+    },
+    {
+      "Reference": "012F43:AmericaRising2.esm",
+      "CombinedMesh": 1036274142
+    },
+    {
+      "Reference": "014265:AmericaRising2.esm",
+      "CombinedMesh": 2355071935
+    },
+    {
+      "Reference": "0282FE:AmericaRising2.esm",
+      "CombinedMesh": 2208836341
+    },
+    {
+      "Reference": "0282FD:AmericaRising2.esm",
+      "CombinedMesh": 2208836341
+    },
+    {
+      "Reference": "012CA2:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "0282FC:AmericaRising2.esm",
+      "CombinedMesh": 987915597
+    },
+    {
+      "Reference": "012CC9:AmericaRising2.esm",
+      "CombinedMesh": 437906959
+    },
+    {
+      "Reference": "012CE2:AmericaRising2.esm",
+      "CombinedMesh": 622880339
+    },
+    {
+      "Reference": "0282FB:AmericaRising2.esm",
+      "CombinedMesh": 987915597
+    },
+    {
+      "Reference": "0282F6:AmericaRising2.esm",
+      "CombinedMesh": 3135399245
+    },
+    {
+      "Reference": "0282F5:AmericaRising2.esm",
+      "CombinedMesh": 3135399245
+    },
+    {
+      "Reference": "012F03:AmericaRising2.esm",
+      "CombinedMesh": 320957226
+    },
+    {
+      "Reference": "0282F4:AmericaRising2.esm",
+      "CombinedMesh": 2324738000
+    },
+    {
+      "Reference": "0282F3:AmericaRising2.esm",
+      "CombinedMesh": 2979940471
+    },
+    {
+      "Reference": "0282EE:AmericaRising2.esm",
+      "CombinedMesh": 2208836341
+    },
+    {
+      "Reference": "0282ED:AmericaRising2.esm",
+      "CombinedMesh": 57254954
+    },
+    {
+      "Reference": "012F2D:AmericaRising2.esm",
+      "CombinedMesh": 674204813
+    },
+    {
+      "Reference": "0282EC:AmericaRising2.esm",
+      "CombinedMesh": 950455634
+    },
+    {
+      "Reference": "012F46:AmericaRising2.esm",
+      "CombinedMesh": 1036274142
+    },
+    {
+      "Reference": "0282EB:AmericaRising2.esm",
+      "CombinedMesh": 3097939282
+    },
+    {
+      "Reference": "012CCC:AmericaRising2.esm",
+      "CombinedMesh": 408765968
+    },
+    {
+      "Reference": "0282E6:AmericaRising2.esm",
+      "CombinedMesh": 3097939282
+    },
+    {
+      "Reference": "012CA7:AmericaRising2.esm",
+      "CombinedMesh": 888982779
+    },
+    {
+      "Reference": "0282E5:AmericaRising2.esm",
+      "CombinedMesh": 3097939282
+    },
+    {
+      "Reference": "0282E4:AmericaRising2.esm",
+      "CombinedMesh": 3097939282
+    },
+    {
+      "Reference": "012B7C:AmericaRising2.esm",
+      "CombinedMesh": 635562124
+    },
+    {
+      "Reference": "0282E3:AmericaRising2.esm",
+      "CombinedMesh": 2204738602
+    },
+    {
+      "Reference": "019A47:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012CFB:AmericaRising2.esm",
+      "CombinedMesh": 1009598754
+    },
+    {
+      "Reference": "019A46:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "019A43:AmericaRising2.esm",
+      "CombinedMesh": 700875889
+    },
+    {
+      "Reference": "012CD5:AmericaRising2.esm",
+      "CombinedMesh": 828360360
+    },
+    {
+      "Reference": "019A42:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "012CBE:AmericaRising2.esm",
+      "CombinedMesh": 490717852
+    },
+    {
+      "Reference": "019A41:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "019A40:AmericaRising2.esm",
+      "CombinedMesh": 277662665
+    },
+    {
+      "Reference": "0147C4:AmericaRising2.esm",
+      "CombinedMesh": 432612280
+    },
+    {
+      "Reference": "014267:AmericaRising2.esm",
+      "CombinedMesh": 2384143264
+    },
+    {
+      "Reference": "028305:AmericaRising2.esm",
+      "CombinedMesh": 66586154
+    }
+  ],
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "014021:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "08C14D:Fallout4.esm",
+      "Layer": "013E47:AmericaRising2.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3406.8618, -3400, 8538.501",
+      "Rotation": "-1.5707955, -0, 0"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "014022:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "08C14D:Fallout4.esm",
+      "Layer": "013E47:AmericaRising2.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3411.3142, -3400, 8538.501",
+      "Rotation": "-1.5707955, -0, 0"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "014023:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "08C14D:Fallout4.esm",
+      "Layer": "013E47:AmericaRising2.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3416.0518, -3400, 8538.501",
+      "Rotation": "-1.5707955, -0, 0"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "014024:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "08C14D:Fallout4.esm",
+      "Layer": "013E47:AmericaRising2.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3420.8608, -3400, 8538.501",
+      "Rotation": "-1.5707955, -0, 0"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "014025:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "08C14D:Fallout4.esm",
+      "Layer": "013E47:AmericaRising2.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3425.5034, -3400, 8538.501",
+      "Rotation": "-1.5707955, -0, 0"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015C06:AmericaRising2.esm",
+      "Base": "198DBE:Fallout4.esm",
+      "Layer": "01683B:AmericaRising2.esm",
+      "LeveledItemBaseObject": "0D1923:Fallout4.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3800.5486, -1127.3174, 8971.312",
+      "Rotation": "-1.3232276, -0.261556, 4.665785"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015C07:AmericaRising2.esm",
+      "Base": "198DBE:Fallout4.esm",
+      "Layer": "01683B:AmericaRising2.esm",
+      "LeveledItemBaseObject": "0D1923:Fallout4.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3898.6267, -1357.9913, 8998.546",
+      "Rotation": "-1.3771728, -0.44665265, 1.4430262"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015C08:AmericaRising2.esm",
+      "Base": "198DBE:Fallout4.esm",
+      "Layer": "01683B:AmericaRising2.esm",
+      "LeveledItemBaseObject": "0D1923:Fallout4.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3423.4614, -1350.2069, 8972.429",
+      "Rotation": "1.453706, -1.1388894, 4.818434"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015C09:AmericaRising2.esm",
+      "Base": "198DBE:Fallout4.esm",
+      "Layer": "01683B:AmericaRising2.esm",
+      "LeveledItemBaseObject": "0D1923:Fallout4.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3928.8767, -1901.669, 8990.941",
+      "Rotation": "-1.315248, -0.35841432, 4.6396575"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015C4A:AmericaRising2.esm",
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "08C14D:Fallout4.esm",
+      "Layer": "015A9C:AmericaRising2.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3387.395, -3370.0977, 8449.12",
+      "Rotation": "-0.012675812, 0.006940629, 5.2246723"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015C4E:AmericaRising2.esm",
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "08C14D:Fallout4.esm",
+      "Layer": "015A9C:AmericaRising2.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3411.1497, -3374.225, 8449.12",
+      "Rotation": "-0.0033472804, 0.0028014886, 5.390731"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015C4F:AmericaRising2.esm",
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "0014B5:AmericaRising2.esm",
+      "Layer": "015A9C:AmericaRising2.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3432.7935, -3395.886, 8564.183",
+      "Rotation": "0.67150056, 1.368295, 0"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015C54:AmericaRising2.esm",
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "198DC1:Fallout4.esm",
+      "Layer": "015A9C:AmericaRising2.esm",
+      "LeveledItemBaseObject": "128D62:Fallout4.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3400.1624, -3398.9724, 8603.546",
+      "Rotation": "0, -0, 4.71239"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015C55:AmericaRising2.esm",
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "0FF21D:Fallout4.esm",
+      "Layer": "015A9C:AmericaRising2.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3531.6018, -3394.4233, 8450.088",
+      "Rotation": "-0.0002439569, 0.0014315343, 6.0684714"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015C57:AmericaRising2.esm",
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "0FF21D:Fallout4.esm",
+      "Layer": "015A9C:AmericaRising2.esm",
+      "EnableParent": {
+        "Reference": "000014:Fallout4.esm",
+        "Flags": [
+          "SetEnableStateToOppositeOfParent"
+        ],
+        "Unknown": "0x000000"
+      },
+      "Position": "-3488.3445, -3396.1313, 8456.763",
+      "Rotation": "1.3254333, 0.18096219, 6.2399435"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "FormKey": "0349FF:AmericaRising2.esm",
+  "EditorID": "AR_Container_Loot_EnclaveAmmoBox",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0CFC8F:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.99
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0CFC90:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.85
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "034A00:AmericaRising2.esm",
+        "Count": 4,
+        "ChanceNone": 0.5
+      }
+    }
+  ],
+  "EpicLootChance": "03F1E4:Fallout4.esm"
+}

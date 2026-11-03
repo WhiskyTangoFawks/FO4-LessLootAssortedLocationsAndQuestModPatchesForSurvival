@@ -1,0 +1,13 @@
+{
+  "FormKey": "034897:AmericaRising2.esm",
+  "EditorID": "AR_EnclaveOilRigProductionName_AmmoFlamerMsg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Flamer Fuel x35"
+  },
+  "DisplayTime": 2
+}

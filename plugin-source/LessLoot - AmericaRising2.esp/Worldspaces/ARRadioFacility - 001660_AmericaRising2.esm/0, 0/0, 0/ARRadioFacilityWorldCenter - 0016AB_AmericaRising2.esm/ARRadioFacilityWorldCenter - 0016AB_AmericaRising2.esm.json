@@ -1,0 +1,22 @@
+{
+  "FormKey": "0016AB:AmericaRising2.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "ARRadioFacilityWorldCenter",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "HasWater"
+  ],
+  "Grid": {},
+  "WaterHeight": 3.4028235E+38,
+  "Regions": [
+    "01F5A0:AmericaRising2.esm",
+    "001795:AmericaRising2.esm"
+  ],
+  "Location": "0043C3:AmericaRising2.esm",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

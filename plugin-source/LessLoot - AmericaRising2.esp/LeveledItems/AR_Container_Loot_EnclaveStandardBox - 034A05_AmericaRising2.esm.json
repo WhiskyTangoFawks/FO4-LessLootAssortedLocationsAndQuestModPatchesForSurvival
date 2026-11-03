@@ -1,0 +1,91 @@
+{
+  "FormKey": "034A05:AmericaRising2.esm",
+  "EditorID": "AR_Container_Loot_EnclaveStandardBox",
+  "MaxCount": 5,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0BF429:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.9
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0BF42A:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.99
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0BF42C:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.9
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0BF42D:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.99
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0CFC8F:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.99
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0CFC90:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.85
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0014B6:AmericaRising2.esm",
+        "Count": 1,
+        "ChanceNone": 0.8
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0014BA:AmericaRising2.esm",
+        "Count": 1,
+        "ChanceNone": 0.85
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "01B216:AmericaRising2.esm",
+        "Count": 1,
+        "ChanceNone": 0.8
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "034A00:AmericaRising2.esm",
+        "Count": 2,
+        "ChanceNone": 0.85
+      }
+    }
+  ],
+  "EpicLootChance": "03F1E4:Fallout4.esm"
+}

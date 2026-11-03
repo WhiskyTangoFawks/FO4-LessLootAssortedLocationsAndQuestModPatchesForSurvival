@@ -1,0 +1,43 @@
+{
+  "FormKey": "090E0A:InsideJobs.esp",
+  "MajorRecordFlagsRaw": 134217728,
+  "EditorID": "tb_HookerLocker01",
+  "Fallout4MajorRecordFlags": [
+    "0x8000000"
+  ],
+  "ObjectBounds": {
+    "First": "-17, -20, 0",
+    "Second": "17, 16, 148"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Crystal's Locker"
+  },
+  "Model": {
+    "File": "SetDressing\\Containers\\Locker01.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "060ECC:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "08FCA8:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "11A27B:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "MajorFlags": [
+    "NavMeshGenerationBoundingBox"
+  ]
+}

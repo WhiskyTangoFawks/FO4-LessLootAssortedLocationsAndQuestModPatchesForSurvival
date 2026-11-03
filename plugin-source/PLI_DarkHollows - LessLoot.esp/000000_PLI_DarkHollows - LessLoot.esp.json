@@ -1,0 +1,39 @@
+{
+  "ModKey": "PLI_DarkHollows - LessLoot.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 1
+    },
+    "Author": "",
+    "OverriddenForms": [
+      "000103:PLI_Dark_Hollow_Pond.esp",
+      "000105:PLI_Dark_Hollow_Pond.esp",
+      "000107:PLI_Dark_Hollow_Pond.esp",
+      "000109:PLI_Dark_Hollow_Pond.esp",
+      "00010B:PLI_Dark_Hollow_Pond.esp",
+      "000139:PLI_Dark_Hollow_Pond.esp",
+      "00013B:PLI_Dark_Hollow_Pond.esp",
+      "00013D:PLI_Dark_Hollow_Pond.esp",
+      "00013E:PLI_Dark_Hollow_Pond.esp",
+      "000140:PLI_Dark_Hollow_Pond.esp",
+      "000142:PLI_Dark_Hollow_Pond.esp",
+      "000144:PLI_Dark_Hollow_Pond.esp",
+      "000145:PLI_Dark_Hollow_Pond.esp",
+      "000147:PLI_Dark_Hollow_Pond.esp",
+      "00014B:PLI_Dark_Hollow_Pond.esp",
+      "000155:PLI_Dark_Hollow_Pond.esp",
+      "000157:PLI_Dark_Hollow_Pond.esp",
+      "00019F:PLI_Dark_Hollow_Pond.esp",
+      "0001A4:PLI_Dark_Hollow_Pond.esp",
+      "0001AE:PLI_Dark_Hollow_Pond.esp",
+      "0001B0:PLI_Dark_Hollow_Pond.esp",
+      "0001B2:PLI_Dark_Hollow_Pond.esp",
+      "0001B5:PLI_Dark_Hollow_Pond.esp",
+      "0001B6:PLI_Dark_Hollow_Pond.esp"
+    ]
+  }
+}

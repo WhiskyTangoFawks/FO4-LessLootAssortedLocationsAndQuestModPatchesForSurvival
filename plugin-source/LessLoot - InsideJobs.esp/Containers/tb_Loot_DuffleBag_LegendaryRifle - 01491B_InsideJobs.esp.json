@@ -1,0 +1,45 @@
+{
+  "FormKey": "01491B:InsideJobs.esp",
+  "EditorID": "tb_Loot_DuffleBag_LegendaryRifle",
+  "ObjectBounds": {
+    "First": "-48, -14, -1",
+    "Second": "47, 14, 30"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Duffle Bag"
+  },
+  "Model": {
+    "File": "SetDressing\\DuffleBag\\DuffleBag.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "067383:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "067383:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0A4920:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Flags": [
+    "AllowSoundsWhenAnimation"
+  ],
+  "Keywords": [
+    "184462:Fallout4.esm"
+  ],
+  "OpenSound": "03C602:Fallout4.esm",
+  "CloseSound": "03C603:Fallout4.esm",
+  "TakeAllSound": "03C604:Fallout4.esm"
+}

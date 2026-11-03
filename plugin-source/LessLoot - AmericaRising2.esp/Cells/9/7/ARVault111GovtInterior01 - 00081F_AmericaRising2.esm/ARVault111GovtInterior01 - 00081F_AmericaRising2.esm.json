@@ -1,0 +1,76 @@
+{
+  "FormKey": "00081F:AmericaRising2.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "ARVault111GovtInterior01",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault 111 - Government Facility"
+  },
+  "Flags": [
+    "IsInteriorCell"
+  ],
+  "Lighting": {
+    "AmbientColor": "#00000000",
+    "DirectionalColor": "#00000000",
+    "FogNearColor": "#00000000",
+    "DirectionalFade": 1.0,
+    "FogPower": 1.0,
+    "AmbientColors": {
+      "DirectionalXPlus": "#00FFFFFF",
+      "DirectionalXMinus": "#00FFFFFF",
+      "DirectionalYPlus": "#00FFFFFF",
+      "DirectionalYMinus": "#00FFFFFF",
+      "DirectionalZPlus": "#00FFFFFF",
+      "DirectionalZMinus": "#00FFFFFF",
+      "Specular": "#00000000"
+    },
+    "FogFarColor": "#00000000",
+    "FogMax": 1.0,
+    "Inherits": [
+      "AmbientColor",
+      "DirectionalColor",
+      "FogColor",
+      "FogNear",
+      "FogFar",
+      "ClipDistance",
+      "FogPower",
+      "FogMax",
+      "LightFadeDistances"
+    ],
+    "NearHeightRange": 10000.0,
+    "ForColorHighNear": "#00000000",
+    "ForColorHighFar": "#00000000",
+    "HighDensityScale": 1.0,
+    "FogNearScale": 1.0,
+    "FogFarScale": 1.0,
+    "FogHighNearScale": 1.0,
+    "FogHighFarScale": 1.0,
+    "FarHeightRange": 10000.0
+  },
+  "LightingTemplate": "036DCD:Fallout4.esm",
+  "WaterHeight": 0.0,
+  "Location": "01A272:AmericaRising2.esm",
+  "AcousticSpace": "0A7697:Fallout4.esm",
+  "Music": "02D4C2:Fallout4.esm",
+  "ImageSpace": "036DCB:Fallout4.esm",
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000AF8:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "038C1F:Fallout4.esm",
+      "Position": "-2134.6475, -6134.34, 4543",
+      "Rotation": "0, -0, 4.7831874"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

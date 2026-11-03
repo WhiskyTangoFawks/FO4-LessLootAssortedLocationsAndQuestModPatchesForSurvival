@@ -1,0 +1,144 @@
+{
+  "FormKey": "2D9262:InsideJobs.esp",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "tbWildwoodSpeakeasy",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Wildwood Catacombs"
+  },
+  "Flags": [
+    "IsInteriorCell"
+  ],
+  "Lighting": {
+    "AmbientColor": "#00282417",
+    "DirectionalColor": "#003F4749",
+    "FogNearColor": "#004B6361",
+    "FogFar": 3250.0,
+    "FogPower": 0.7,
+    "AmbientColors": {
+      "DirectionalXPlus": "#00100F0F",
+      "DirectionalXMinus": "#000D0F0E",
+      "DirectionalYPlus": "#000F0F0F",
+      "DirectionalYMinus": "#000F0E0F",
+      "DirectionalZPlus": "#00070706",
+      "DirectionalZMinus": "#00161617",
+      "Specular": "#00000000"
+    },
+    "FogFarColor": "#00635F4B",
+    "FogMax": 0.7,
+    "Inherits": [
+      "AmbientColor",
+      "DirectionalColor",
+      "FogColor",
+      "FogNear",
+      "DirectionalRotation",
+      "DirectionalFade",
+      "ClipDistance",
+      "FogPower",
+      "FogMax",
+      "LightFadeDistances"
+    ],
+    "NearHeightRange": 10000.0,
+    "ForColorHighNear": "#004B6361",
+    "ForColorHighFar": "#00635F4B",
+    "HighDensityScale": 1.0,
+    "FogNearScale": 1.0,
+    "FogFarScale": 1.0,
+    "FogHighNearScale": 1.0,
+    "FogHighFarScale": 1.0,
+    "FarHeightRange": 10000.0
+  },
+  "LightingTemplate": "129964:Fallout4.esm",
+  "WaterHeight": 0.0,
+  "Location": "00D692:InsideJobs.esp",
+  "AcousticSpace": "238A82:Fallout4.esm",
+  "EncounterZone": "03757C:Fallout4.esm",
+  "Music": "02D4C2:Fallout4.esm",
+  "ImageSpace": "17161E:Fallout4.esm",
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "2D93C6:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "9.949112, 920.8378, 335.32108",
+      "Rotation": "6.233382, 0.27045274, 1.3395193"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "2D93C7:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "-6.904709, 924.0852, 334.97147",
+      "Rotation": "6.2760715, 0.013714797, 4.9566913"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "2D93C8:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "-12.005981, 923.9098, 365.60724",
+      "Rotation": "0.0027576203, 0.0018919369, 0.78540516"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "2D93CA:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "08E371:Fallout4.esm",
+      "Position": "-32.71089, 1116.8873, 406.7143",
+      "Rotation": "0, 0, 1.7053978"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "2D93CB:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059AB5:Fallout4.esm",
+      "Position": "-38.364563, 1109.1583, 407.00137",
+      "Rotation": "6.1862583, 6.2418523, 5.8963017"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "2D93CD:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059AB5:Fallout4.esm",
+      "Position": "-48.352264, 1119.4945, 407.00137",
+      "Rotation": "6.2022266, 0.06748141, 0.70837677"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "2D93CE:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "-20.253922, 1126.8849, 406.7139",
+      "Rotation": "0, 0, 0.7853982"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/Less\ Loot\ -\ Assorted\ Locations\ and\ Quest\ Mod\ Patches\ for\ Survival.manifest.json

@@ -1,0 +1,18 @@
+{
+  "FormKey": "0349D4:AmericaRising2.esm",
+  "EditorID": "AR_LLI_Armor_Army_Fatigues_Helmet75",
+  "ChanceNone": 0.85,
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "023432:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ]
+}

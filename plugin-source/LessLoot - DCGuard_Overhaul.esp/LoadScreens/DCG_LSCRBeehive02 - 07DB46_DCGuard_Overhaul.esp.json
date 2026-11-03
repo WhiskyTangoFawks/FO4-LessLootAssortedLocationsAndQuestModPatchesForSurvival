@@ -1,0 +1,52 @@
+{
+  "FormKey": "07DB46:DCGuard_Overhaul.esp",
+  "EditorID": "DCG_LSCRBeehive02",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Dr. McClintock extracts honey from her beehive and brews the mead on site. Both are excellent high calorie food options with extremely long shelf life suitable for wastelanders. They are bottled and sold by Mr. Dr. Pepper out of the Left Field Diner under the \"Center Field Apiary\" label."
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "LessThanOrEqualTo",
+      "Unknown1": "0x722A0B",
+      "ComparisonValue": 2.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetRandomPercent"
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThanOrEqualTo",
+      "Unknown1": "0x722A0B",
+      "ComparisonValue": 5.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetStage",
+        "ParameterOneRecord": "49ED4C:DCGuard_Overhaul.esp",
+        "ParameterOneNumber": 38399308
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Flags": [
+        "OR"
+      ],
+      "Unknown1": "0x722A0B",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetInCell",
+        "ParameterOneRecord": "39632D:DCGuard_Overhaul.esp",
+        "ParameterOneNumber": 37315373
+      }
+    }
+  ],
+  "LoadingScreenNif": "07DB45:DCGuard_Overhaul.esp",
+  "Transform": "1D0FAA:DCGuard_Overhaul.esp",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

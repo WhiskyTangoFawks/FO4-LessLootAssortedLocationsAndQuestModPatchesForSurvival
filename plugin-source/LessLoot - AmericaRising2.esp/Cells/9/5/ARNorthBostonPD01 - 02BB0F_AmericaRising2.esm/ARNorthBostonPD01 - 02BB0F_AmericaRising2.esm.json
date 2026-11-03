@@ -1,0 +1,302 @@
+{
+  "FormKey": "02BB0F:AmericaRising2.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "ARNorthBostonPD01",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "North Boston Police Station"
+  },
+  "Flags": [
+    "IsInteriorCell"
+  ],
+  "Lighting": {
+    "AmbientColor": "#00282417",
+    "DirectionalColor": "#00000000",
+    "FogNearColor": "#00000000",
+    "DirectionalFade": 1.0,
+    "FogPower": 1.0,
+    "AmbientColors": {
+      "DirectionalXPlus": "#0014120B",
+      "DirectionalXMinus": "#00282417",
+      "DirectionalYPlus": "#0014120B",
+      "DirectionalYMinus": "#00282417",
+      "DirectionalZPlus": "#0014120B",
+      "DirectionalZMinus": "#00282417",
+      "Specular": "#00000000"
+    },
+    "FogFarColor": "#00000000",
+    "FogMax": 1.0,
+    "Inherits": [
+      "DirectionalColor",
+      "FogColor",
+      "FogNear",
+      "FogFar",
+      "DirectionalRotation",
+      "DirectionalFade",
+      "ClipDistance",
+      "FogPower",
+      "FogMax",
+      "LightFadeDistances"
+    ],
+    "NearHeightRange": 10000.0,
+    "ForColorHighNear": "#00000000",
+    "ForColorHighFar": "#00000000",
+    "HighDensityScale": 1.0,
+    "FogNearScale": 1.0,
+    "FogFarScale": 1.0,
+    "FogHighNearScale": 1.0,
+    "FogHighFarScale": 1.0,
+    "FarHeightRange": 10000.0
+  },
+  "LightingTemplate": "0EAEF6:Fallout4.esm",
+  "WaterHeight": 0.0,
+  "Location": "02BB0E:AmericaRising2.esm",
+  "AcousticSpace": "1FFC20:Fallout4.esm",
+  "EncounterZone": "02C29E:AmericaRising2.esm",
+  "Music": "02D4C2:Fallout4.esm",
+  "ImageSpace": "17161E:Fallout4.esm",
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02BCFF:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "198DBE:Fallout4.esm",
+      "Layer": "02C2A4:AmericaRising2.esm",
+      "LeveledItemBaseObject": "0D1923:Fallout4.esm",
+      "Position": "1713.0919, -2905.0073, 1370.6201",
+      "Rotation": "-1.5999998, 0.0062011722, 1.5706152"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02BD5F:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0366C0:Fallout4.esm",
+      "Layer": "02C2A4:AmericaRising2.esm",
+      "Position": "1201.1002, -2540.2786, 1324.3226",
+      "Rotation": "-0.4206805, 0.78172493, 4.047127"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02BD60:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0366C0:Fallout4.esm",
+      "Layer": "02C2A4:AmericaRising2.esm",
+      "Position": "1199.5986, -2550.8887, 1322.3724",
+      "Rotation": "0.00069558306, -0.0018853182, 3.9378088"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02BD61:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0366C0:Fallout4.esm",
+      "Layer": "02C2A4:AmericaRising2.esm",
+      "Position": "1208.0442, -2547.9702, 1322.371",
+      "Rotation": "-0.0024982872, 0.0022580351, 5.5813265"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02BE59:AmericaRising2.esm",
+      "Base": "000002:LessLoot - AmericaRising2.esp",
+      "Layer": "02C2A4:AmericaRising2.esm",
+      "Position": "1408, -3240, 1408",
+      "Rotation": "0, -0, 3.141595"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02BE5A:AmericaRising2.esm",
+      "Base": "000002:LessLoot - AmericaRising2.esp",
+      "Layer": "02C2A4:AmericaRising2.esm",
+      "Position": "880, -3224, 1408",
+      "Rotation": "0, -0, 3.141595"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02BF86:AmericaRising2.esm",
+      "Base": "000001:LessLoot - AmericaRising2.esp",
+      "Layer": "02C2A7:AmericaRising2.esm",
+      "Position": "1107.897, -3064.956, 1750.6578",
+      "Rotation": "0, -0, 2.6032972"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "031C47:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "198DC1:Fallout4.esm",
+      "Layer": "02C39B:AmericaRising2.esm",
+      "LeveledItemBaseObject": "01A631:AmericaRising2.esm",
+      "Ownership": {
+        "Owner": "02F1D7:AmericaRising2.esm"
+      },
+      "EnableParent": {
+        "Reference": "02C3A3:AmericaRising2.esm",
+        "Unknown": "0x000000"
+      },
+      "Position": "1612.8455, -3181.881, 1464.5513",
+      "Rotation": "0, -0, 4.7123895"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "031C48:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "198DC1:Fallout4.esm",
+      "Layer": "02C39B:AmericaRising2.esm",
+      "LeveledItemBaseObject": "01A631:AmericaRising2.esm",
+      "Ownership": {
+        "Owner": "02F1D7:AmericaRising2.esm"
+      },
+      "EnableParent": {
+        "Reference": "02C3A3:AmericaRising2.esm",
+        "Unknown": "0x000000"
+      },
+      "Position": "1542.7893, -3181.8813, 1464.5513",
+      "Rotation": "0, -0, 4.7123895"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "031C4A:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "198DC1:Fallout4.esm",
+      "Layer": "02C39B:AmericaRising2.esm",
+      "LeveledItemBaseObject": "01A631:AmericaRising2.esm",
+      "Ownership": {
+        "Owner": "02F1D7:AmericaRising2.esm"
+      },
+      "EnableParent": {
+        "Reference": "02C3A3:AmericaRising2.esm",
+        "Unknown": "0x000000"
+      },
+      "Position": "1801.1005, -3181.881, 1464.5513",
+      "Rotation": "0, -0, 4.7123895"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "031C4B:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "198DC1:Fallout4.esm",
+      "Layer": "02C39B:AmericaRising2.esm",
+      "LeveledItemBaseObject": "01A631:AmericaRising2.esm",
+      "Ownership": {
+        "Owner": "02F1D7:AmericaRising2.esm"
+      },
+      "EnableParent": {
+        "Reference": "02C3A3:AmericaRising2.esm",
+        "Unknown": "0x000000"
+      },
+      "Position": "1731.0443, -3181.8813, 1464.5513",
+      "Rotation": "0, -0, 4.7123895"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "031C4C:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "198DBE:Fallout4.esm",
+      "Layer": "02C39B:AmericaRising2.esm",
+      "LeveledItemBaseObject": "01A3EA:AmericaRising2.esm",
+      "Ownership": {
+        "Owner": "02F1D7:AmericaRising2.esm"
+      },
+      "EnableParent": {
+        "Reference": "02C3A3:AmericaRising2.esm",
+        "Unknown": "0x000000"
+      },
+      "Position": "1755.8551, -3182.3037, 1436.8317",
+      "Rotation": "0, -0, 4.7123895"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "031C4D:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "19908A:Fallout4.esm",
+      "Layer": "02C39B:AmericaRising2.esm",
+      "LeveledItemBaseObject": "01A3E9:AmericaRising2.esm",
+      "Ownership": {
+        "Owner": "02F1D7:AmericaRising2.esm"
+      },
+      "EnableParent": {
+        "Reference": "02C3A3:AmericaRising2.esm",
+        "Unknown": "0x000000"
+      },
+      "Position": "1755.8551, -3182.3037, 1408.636",
+      "Rotation": "0, -0, 4.7123895"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

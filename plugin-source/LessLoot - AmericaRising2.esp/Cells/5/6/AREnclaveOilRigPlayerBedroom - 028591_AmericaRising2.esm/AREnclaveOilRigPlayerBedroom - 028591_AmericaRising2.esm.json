@@ -1,0 +1,70 @@
+{
+  "FormKey": "028591:AmericaRising2.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262272,
+  "EditorID": "AREnclaveOilRigPlayerBedroom",
+  "Fallout4MajorRecordFlags": [
+    "0x80",
+    "Compressed"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Oil Rig - Quarters"
+  },
+  "Flags": [
+    "IsInteriorCell",
+    "CantTravelFromHere"
+  ],
+  "Lighting": {
+    "AmbientColor": "#00000000",
+    "DirectionalColor": "#00000000",
+    "FogNearColor": "#00000000",
+    "FogNear": 1024.0,
+    "DirectionalRotationZ": 270,
+    "FogPower": 0.7,
+    "AmbientColors": {
+      "DirectionalXPlus": "#00090A0B",
+      "DirectionalXMinus": "#000E1012",
+      "DirectionalYPlus": "#00090A0B",
+      "DirectionalYMinus": "#000E1012",
+      "DirectionalZPlus": "#0007090A",
+      "DirectionalZMinus": "#000E1114",
+      "Specular": "#00000000"
+    },
+    "FogFarColor": "#00000000",
+    "FogMax": 1.0,
+    "Inherits": [
+      "AmbientColor",
+      "DirectionalColor",
+      "FogColor",
+      "FogNear",
+      "FogFar",
+      "ClipDistance",
+      "FogPower",
+      "FogMax",
+      "LightFadeDistances"
+    ],
+    "NearHeightRange": 10000.0,
+    "ForColorHighNear": "#00000000",
+    "ForColorHighFar": "#00000000",
+    "HighDensityScale": 1.0,
+    "FogNearScale": 1.0,
+    "FogFarScale": 1.0,
+    "FogHighNearScale": 1.0,
+    "FogHighFarScale": 1.0,
+    "FarHeightRange": 10000.0
+  },
+  "LightingTemplate": "0552AC:Fallout4.esm",
+  "WaterHeight": 0.0,
+  "Location": "0285E8:AmericaRising2.esm",
+  "Ownership": {
+    "Owner": "01C21C:Fallout4.esm"
+  },
+  "AcousticSpace": "238A71:Fallout4.esm",
+  "EncounterZone": "0285E9:AmericaRising2.esm",
+  "ImageSpace": "17161E:Fallout4.esm",
+  "MajorFlags": [
+    "NoPreVis",
+    "0x40000"
+  ]
+}

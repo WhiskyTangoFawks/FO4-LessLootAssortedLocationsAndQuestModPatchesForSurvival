@@ -1,0 +1,51 @@
+{
+  "FormKey": "0B5CA6:DCGuard_Overhaul.esp",
+  "EditorID": "DCG_LSCRSheriffArm01",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "The Sheriff lost her arm when her Brotherhood of Steel unit, against orders, successfully defended a settlement town from an overwhelming Gunner attack. Instead of being commended for their bravery, they were disciplined for wasting lives and resources. Disgusted, she and her squad left to join the Outcasts."
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "LessThanOrEqualTo",
+      "Unknown1": "0x722A0B",
+      "ComparisonValue": 2.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetRandomPercent"
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "LessThanOrEqualTo",
+      "Unknown1": "0x722A0B",
+      "ComparisonValue": 2.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetRandomPercent"
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThanOrEqualTo",
+      "Flags": [
+        "OR"
+      ],
+      "Unknown1": "0x722A0B",
+      "ComparisonValue": 5.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetStage",
+        "ParameterOneRecord": "0A8CDF:DCGuard_Overhaul.esp",
+        "ParameterOneNumber": 34245855
+      }
+    }
+  ],
+  "LoadingScreenNif": "0B5CA5:DCGuard_Overhaul.esp",
+  "Transform": "1D0FAB:DCGuard_Overhaul.esp",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

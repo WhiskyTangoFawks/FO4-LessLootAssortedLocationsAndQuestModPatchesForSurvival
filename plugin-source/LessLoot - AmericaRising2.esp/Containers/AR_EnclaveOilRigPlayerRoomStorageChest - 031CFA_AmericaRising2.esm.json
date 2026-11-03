@@ -1,0 +1,50 @@
+{
+  "FormKey": "031CFA:AmericaRising2.esm",
+  "EditorID": "AR_EnclaveOilRigPlayerRoomStorageChest",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Workshop Container"
+  },
+  "Model": {
+    "File": "Markers\\EditorMarkers\\ContainerMarker.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "06907A:Fallout4.esm",
+        "Count": 10
+      }
+    },
+    {
+      "Item": {
+        "Item": "06907C:Fallout4.esm",
+        "Count": 10
+      }
+    },
+    {
+      "Item": {
+        "Item": "069081:Fallout4.esm",
+        "Count": 10
+      }
+    },
+    {
+      "Item": {
+        "Item": "0731A3:Fallout4.esm",
+        "Count": 10
+      }
+    },
+    {
+      "Item": {
+        "Item": "0731A4:Fallout4.esm",
+        "Count": 10
+      }
+    },
+    {
+      "Item": {
+        "Item": "0AEC5F:Fallout4.esm",
+        "Count": 10
+      }
+    }
+  ]
+}

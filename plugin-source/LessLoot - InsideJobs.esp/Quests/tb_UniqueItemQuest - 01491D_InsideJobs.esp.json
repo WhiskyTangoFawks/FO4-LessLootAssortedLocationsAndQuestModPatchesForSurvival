@@ -1,0 +1,16 @@
+{
+  "FormKey": "01491D:InsideJobs.esp",
+  "EditorID": "tb_UniqueItemQuest",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "tb_UniqueItem01"
+  },
+  "Data": {
+    "Flags": [
+      "StartsEnabled",
+      "RunOnce"
+    ]
+  },
+  "UnusedConditions": [],
+  "Aliases": []
+}

@@ -1,0 +1,66 @@
+{
+  "FormKey": "24071F:DCGuard_Overhaul.esp",
+  "EditorID": "DCG_LSCRWallOMatic01",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "To the relief of the greater Boston area, Mr. Dr. Pepper and Lily piped the only intact copy of the Diner's original jukebox tracks through The Left Field Diner transmitter, which had been repeating the Nuka World jingle commercial for over two centuries. Thus The Left Field Diner radio station was born."
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "LessThanOrEqualTo",
+      "Unknown1": "0x722A0B",
+      "ComparisonValue": 2.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetRandomPercent"
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThanOrEqualTo",
+      "Unknown1": "0x722A0B",
+      "ComparisonValue": 5.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetStage",
+        "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
+        "ParameterOneNumber": 35929627
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Flags": [
+        "OR"
+      ],
+      "Unknown1": "0x722A0B",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetInCell",
+        "ParameterOneRecord": "397556:DCGuard_Overhaul.esp",
+        "ParameterOneNumber": 37320022
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Flags": [
+        "OR"
+      ],
+      "Unknown1": "0x722A0B",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetInCell",
+        "ParameterOneRecord": "39632D:DCGuard_Overhaul.esp",
+        "ParameterOneNumber": 37315373
+      }
+    }
+  ],
+  "LoadingScreenNif": "24071E:DCGuard_Overhaul.esp",
+  "Transform": "2C535B:DCGuard_Overhaul.esp",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

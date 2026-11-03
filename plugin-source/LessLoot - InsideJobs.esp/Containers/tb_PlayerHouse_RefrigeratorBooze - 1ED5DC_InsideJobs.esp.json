@@ -1,0 +1,29 @@
+{
+  "FormKey": "1ED5DC:InsideJobs.esp",
+  "EditorID": "tb_PlayerHouse_RefrigeratorBooze",
+  "ObjectBounds": {
+    "First": "-32, -41, 0",
+    "Second": "32, 28, 130"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Refrigerator"
+  },
+  "Model": {
+    "File": "SetDressing\\PlayerHouse\\PlayerHouse_KitchenRefrigerator01.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "130D95:Fallout4.esm",
+        "Count": 6
+      }
+    }
+  ],
+  "Flags": [
+    "AllowSoundsWhenAnimation"
+  ],
+  "OpenSound": "0B1D32:Fallout4.esm",
+  "CloseSound": "0B1D31:Fallout4.esm"
+}

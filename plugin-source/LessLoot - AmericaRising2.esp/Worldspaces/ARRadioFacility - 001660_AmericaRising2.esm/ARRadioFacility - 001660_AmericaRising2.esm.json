@@ -1,0 +1,30 @@
+{
+  "FormKey": "001660:AmericaRising2.esm",
+  "EditorID": "ARRadioFacility",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "NE-23 Communications Array Grounds"
+  },
+  "Location": "0043C3:AmericaRising2.esm",
+  "Climate": "00015F:Fallout4.esm",
+  "Water": "000018:Fallout4.esm",
+  "LodWater": "000018:Fallout4.esm",
+  "LodWaterHeight": 450.0,
+  "LandDefaults": {
+    "DefaultWaterHeight": -20.0
+  },
+  "MapImage": "AR\\Interface\\Pip-Boy\\RadioFacilityMap_d.DDS",
+  "MapData": {
+    "NorthwestCellCoords": "-4, 4",
+    "SoutheastCellCoords": "4, -4"
+  },
+  "WorldMapOffsetScale": 1.0,
+  "DistantLodMultiplier": 1.0,
+  "Flags": [
+    "SmallWorld"
+  ],
+  "ObjectBoundsMin": "-5, -5",
+  "ObjectBoundsMax": "6, 5",
+  "Music": "127358:Fallout4.esm",
+  "WaterEnvironmentMap": "data\\Textures\\Shared\\Cubemaps\\mipblur_DefaultOutside1.dds"
+}

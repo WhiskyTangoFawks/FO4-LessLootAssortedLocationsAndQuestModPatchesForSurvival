@@ -1,0 +1,109 @@
+{
+  "FormKey": "0016A8:AmericaRising2.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "ARUSArmyDepotExt01",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "HasWater"
+  ],
+  "Grid": {
+    "Point": "0, 1"
+  },
+  "WaterHeight": 3.4028235E+38,
+  "Regions": [
+    "001795:AmericaRising2.esm",
+    "01F5A0:AmericaRising2.esm"
+  ],
+  "Location": "024D8E:AmericaRising2.esm",
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02748C:AmericaRising2.esm",
+      "Base": "18AE56:Fallout4.esm",
+      "Position": "2648.9712, 7291.117, 21.630512",
+      "Rotation": "0, -0, 0.9213996"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "027494:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "199075:Fallout4.esm",
+      "LeveledItemBaseObject": "1790F6:Fallout4.esm",
+      "Position": "2689.2634, 7020.6562, 110.458984",
+      "Rotation": "0, -0, 5.633788"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "027496:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "199075:Fallout4.esm",
+      "LeveledItemBaseObject": "1790F6:Fallout4.esm",
+      "Position": "2768.4612, 6916.346, 151.3634",
+      "Rotation": "0.20226036, 0.15135555, 5.649176"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "027497:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "199075:Fallout4.esm",
+      "LeveledItemBaseObject": "1790F6:Fallout4.esm",
+      "Position": "2768.4612, 6916.346, 110.458984",
+      "Rotation": "0, -0, 5.633788"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0274A0:AmericaRising2.esm",
+      "Base": "000002:LessLoot - AmericaRising2.esp",
+      "Position": "3192.5596, 7091.119, 133.63051",
+      "Rotation": "0, -0, 4.8483906"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0274E8:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "199075:Fallout4.esm",
+      "LeveledItemBaseObject": "1790F6:Fallout4.esm",
+      "Position": "3821.9238, 7664.8774, 37.59834",
+      "Rotation": "1.4177059, -0.79159063, 2.528287"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

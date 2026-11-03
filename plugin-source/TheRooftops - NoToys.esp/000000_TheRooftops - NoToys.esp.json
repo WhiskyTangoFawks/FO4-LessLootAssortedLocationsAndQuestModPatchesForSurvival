@@ -1,0 +1,30 @@
+{
+  "ModKey": "TheRooftops - NoToys.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 1
+    },
+    "Author": "",
+    "OverriddenForms": [
+      "00BE13:TheRooftops.esm",
+      "00BE37:TheRooftops.esm",
+      "00C5D9:TheRooftops.esm",
+      "00C5F1:TheRooftops.esm",
+      "00CD96:TheRooftops.esm",
+      "00CDE0:TheRooftops.esm",
+      "00CE50:TheRooftops.esm",
+      "00CEA1:TheRooftops.esm",
+      "00D6BD:TheRooftops.esm",
+      "00DE62:TheRooftops.esm",
+      "00E641:TheRooftops.esm",
+      "011610:TheRooftops.esm",
+      "011DBB:TheRooftops.esm",
+      "012D52:TheRooftops.esm",
+      "012D55:TheRooftops.esm"
+    ]
+  }
+}

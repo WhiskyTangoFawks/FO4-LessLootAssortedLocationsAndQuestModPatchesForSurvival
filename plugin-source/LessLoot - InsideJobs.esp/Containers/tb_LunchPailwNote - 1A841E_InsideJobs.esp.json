@@ -1,0 +1,44 @@
+{
+  "FormKey": "1A841E:InsideJobs.esp",
+  "EditorID": "tb_LunchPailwNote",
+  "ObjectBounds": {
+    "First": "-13, -7, 0",
+    "Second": "13, 8, 26"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Lunch Pail"
+  },
+  "Model": {
+    "File": "SetDressing\\LunchBox\\LunchBox.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "05859B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "06D4A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1A841B:InsideJobs.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "OpenSound": "240A00:Fallout4.esm",
+  "CloseSound": "240A01:Fallout4.esm"
+}

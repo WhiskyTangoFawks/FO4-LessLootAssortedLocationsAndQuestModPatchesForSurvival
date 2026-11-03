@@ -1,0 +1,56 @@
+{
+  "FormKey": "000001:LessLoot - AmericaRising2.esp",
+  "EditorID": "Loot_Prewar_Medkit_AR2",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "lockExtraLootSCRIPT",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "pLLI_Loot_Lock_Advanced",
+            "Object": "230755:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "pLLI_Loot_Lock_Expert",
+            "Object": "230754:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "pLLI_Loot_Lock_Master",
+            "Object": "230756:Fallout4.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-17, -10, 0",
+    "Second": "18, 12, 14"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "First Aid"
+  },
+  "Model": {
+    "File": "SetDressing\\FirstAidKit\\FirstAidKitWhite.nif",
+    "Data": "0x040000000300000000000000010000000000000071AF839364647300BF80ACE6A8C385F064647300BF80ACE669F679B464647300BF80ACE6"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "000003:LessLoot - AmericaRising2.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "Flags": [
+    "AllowSoundsWhenAnimation",
+    "Respawns"
+  ],
+  "Keywords": [
+    "184462:Fallout4.esm"
+  ],
+  "TakeAllSound": "089E3B:Fallout4.esm"
+}

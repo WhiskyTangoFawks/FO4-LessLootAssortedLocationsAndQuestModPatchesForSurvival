@@ -1,0 +1,49 @@
+{
+  "FormKey": "090E14:InsideJobs.esp",
+  "MajorRecordFlagsRaw": 134217728,
+  "EditorID": "tb_HookerLocker05",
+  "Fallout4MajorRecordFlags": [
+    "0x8000000"
+  ],
+  "ObjectBounds": {
+    "First": "-17, -20, 0",
+    "Second": "17, 16, 148"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Chantelle's Locker"
+  },
+  "Model": {
+    "File": "SetDressing\\Containers\\Locker01.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "023431:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "059B34:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1738AA:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1C67B0:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "MajorFlags": [
+    "NavMeshGenerationBoundingBox"
+  ]
+}

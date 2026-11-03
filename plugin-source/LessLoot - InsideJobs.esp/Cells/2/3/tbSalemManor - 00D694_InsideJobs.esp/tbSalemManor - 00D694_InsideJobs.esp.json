@@ -1,0 +1,697 @@
+{
+  "FormKey": "00D694:InsideJobs.esp",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "tbSalemManor",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Colonial Manor"
+  },
+  "Flags": [
+    "IsInteriorCell"
+  ],
+  "Lighting": {
+    "AmbientColor": "#00282417",
+    "DirectionalColor": "#003F4749",
+    "FogNearColor": "#004B6361",
+    "FogFar": 3250.0,
+    "FogPower": 0.7,
+    "AmbientColors": {
+      "DirectionalXPlus": "#000D0E0F",
+      "DirectionalXMinus": "#00121314",
+      "DirectionalYPlus": "#000F1011",
+      "DirectionalYMinus": "#00121314",
+      "DirectionalZPlus": "#000A0A0A",
+      "DirectionalZMinus": "#00131415",
+      "Specular": "#00000000"
+    },
+    "FogFarColor": "#00635F4B",
+    "FogMax": 0.7,
+    "Inherits": [
+      "AmbientColor",
+      "DirectionalColor",
+      "FogColor",
+      "FogNear",
+      "DirectionalRotation",
+      "DirectionalFade",
+      "ClipDistance",
+      "FogPower",
+      "FogMax",
+      "LightFadeDistances"
+    ],
+    "NearHeightRange": 10000.0,
+    "ForColorHighNear": "#004B6361",
+    "ForColorHighFar": "#00635F4B",
+    "HighDensityScale": 1.0,
+    "FogNearScale": 1.0,
+    "FogFarScale": 1.0,
+    "FogHighNearScale": 1.0,
+    "FogHighFarScale": 1.0,
+    "FarHeightRange": 10000.0
+  },
+  "LightingTemplate": "21C01B:Fallout4.esm",
+  "WaterHeight": 0.0,
+  "Location": "00D692:InsideJobs.esp",
+  "AcousticSpace": "08BBBA:Fallout4.esm",
+  "EncounterZone": "094198:Fallout4.esm",
+  "Music": "08792C:Fallout4.esm",
+  "ImageSpace": "17161E:Fallout4.esm",
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117DA:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1467A4:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-307.4075, 1450.6914, 1408",
+      "Rotation": "0, 0, 0.7853982"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117E2:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "060EC7:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-369.98053, 1703.2067, 1388.0817"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117E3:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799E:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-350.04294, 1468.5549, 1463.6719"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117E4:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799C:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-390.5254, 1765.6254, 1376.6562",
+      "Rotation": "0, 0, 1.5707964"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117E5:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "07830B:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-407.0945, 1772.1208, 1376.6562",
+      "Rotation": "0, 0, 5.497787"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117E8:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "060ECD:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-319.15924, 1949.1246, 1403.9236",
+      "Rotation": "0, 0, 0.7853982"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117E9:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "060E82:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-367.42807, 1948.2148, 1403.9236"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117EA:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AC8C6:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-242.5902, 1933.3416, 1403.9236"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117EB:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059B27:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-422.59277, 1724.1246, 1423.3036",
+      "Rotation": "0, 0, 4.712391"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117FA:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799E:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-259.5075, 1572.1864, 1126.1945",
+      "Rotation": "4.2305455, 6.126746, 5.907498"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117FB:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799E:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-250.74101, 1566.3948, 1124.8993",
+      "Rotation": "4.6800985, 6.2348905, 6.1796174"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117FC:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799E:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-249.82483, 1562.7885, 1123.4487",
+      "Rotation": "4.7188606, 6.259239, 6.023599"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117FD:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799C:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-287.0576, 1573.2562, 1111.1372",
+      "Rotation": "6.0614467, 0.044467498, 5.4792185"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117FE:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799C:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-292.99054, 1581.7228, 1103.9772",
+      "Rotation": "0.00095120445, 0.2602251, 6.0019655"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0117FF:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799C:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-263.80646, 1583.4238, 1118.3848",
+      "Rotation": "5.6189585, 0.3483363, 0.0440748"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011800:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799C:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-298.9575, 1568.5387, 1104.6498",
+      "Rotation": "6.0461993, 0.19256043, 6.185311"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011801:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799E:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-255.19371, 1585.1635, 1114.0107",
+      "Rotation": "0.001410226, 0.25922504, 0.3287066"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011802:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799E:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-259.00037, 1589.9922, 1116.3229",
+      "Rotation": "0.004017748, 0.25934196, 0.23445007"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011803:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799E:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-269.39908, 1569.9789, 1113.6133",
+      "Rotation": "3.1419907, 6.0233946, 6.0293236"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011804:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799C:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-268.5497, 1593.149, 1094.6449",
+      "Rotation": "0.8183151, 0.000842994, 6.2825623"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011805:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799E:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-374.83713, 1570.856, 1153"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011806:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799C:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-343.773, 1575.7396, 1153",
+      "Rotation": "0, 0, 0.7853982"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011807:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799C:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-134.68726, 1772.1945, 1125.1459",
+      "Rotation": "0, 0, 1.5707964"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011808:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799C:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-132.96223, 1725.545, 1125.1459",
+      "Rotation": "0, 0, 3.9269907"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011809:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0FE257:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-129.32677, 1774.6846, 1097.005",
+      "Rotation": "0, 0, 1.5707964"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011820:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "060ECE:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "196.65256, 1699.4456, 1430.0283",
+      "Rotation": "0, 0, 0.58539915"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011821:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "199A88:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "167.47449, 1697.8741, 1428.4036",
+      "Rotation": "0, 0, 3.9269927"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011822:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059AFB:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "101.60246, 1892.2432, 1344"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011826:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059B14:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-394.23044, 1624.1638, 1355.7078",
+      "Rotation": "0, 0, 5.083186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011827:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059B2A:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-367.93698, 1619.5289, 1351.8594",
+      "Rotation": "1.5707964, 0.7853982, 4.712391"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01182A:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AC8CD:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-418.9324, 1639.1958, 1427.0181"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01183C:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799E:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-121.56784, 1686.6272, 1408",
+      "Rotation": "0, 0, 0.30000114"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01183D:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "15799C:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-121.23092, 1765.0829, 1408",
+      "Rotation": "0, 0, 5.483186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01183E:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1A6397:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-389.13968, 1475.5446, 1131.3531"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01183F:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "03B55B:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-384.68738, 1457.2744, 1157.967"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011840:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "01F90A:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-399.04984, 1466.4834, 1158.5488"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011841:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "01F909:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-386.09622, 1461.2935, 1130.992"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011842:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "01F908:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-391.47766, 1480.9219, 1163.1576",
+      "Rotation": "1.5707964, 0, 0.7853982"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011843:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "03D3A9:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-388.5493, 1450.3091, 1130.6719",
+      "Rotation": "0, 0, 3.0831852"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011846:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "03D3AA:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-395.2412, 1450.7919, 1135.8312",
+      "Rotation": "6.265732, 0.54105204, 4.712391"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011848:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "192697:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-347.97867, 1323.4694, 1166"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011849:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "020199:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-413.5845, 1415.3896, 1155.3682"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01184A:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "19269B:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-379.59982, 1344.5409, 1165.9999"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01184B:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "192699:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-379.7745, 1344.4403, 1166.5829"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01184C:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059ABC:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-213.35461, 1331.6659, 1166",
+      "Rotation": "0, 0, 5.483186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01184D:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "060E8D:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-214.35332, 1333.7628, 1168.9355",
+      "Rotation": "0, 0, 1.0000004"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01184E:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "060E96:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-387.56454, 1328.9955, 1166",
+      "Rotation": "0, 0, 4.783185"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011852:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0BA3F7:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-43.17414, 1878.2815, 1088",
+      "Rotation": "0, 0, 5.583186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011853:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0BA2F8:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-41.610184, 1879.3759, 1116.7666",
+      "Rotation": "0, 0, 5.583186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011855:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0FC396:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-50.962036, 1854.4824, 1209.8085",
+      "Rotation": "5.6374135, 0, 0"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011856:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BE890:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-44.745342, 1853.8391, 1197.885"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "011863:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0E3782:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-395.51123, 1468.2988, 1220.5742",
+      "Rotation": "3.1415927, 1.5703076, 3.1415927"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "012050:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0DEDE1:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-282.313, 1774.1516, 1137.199"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "012051:InsideJobs.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059B0A:Fallout4.esm",
+      "Layer": "0117D5:InsideJobs.esp",
+      "Position": "-266.186, 1772.854, 1137.199"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

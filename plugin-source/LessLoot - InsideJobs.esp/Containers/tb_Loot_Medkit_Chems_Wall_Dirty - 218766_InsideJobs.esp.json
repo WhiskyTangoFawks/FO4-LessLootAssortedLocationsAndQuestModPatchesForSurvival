@@ -1,0 +1,31 @@
+{
+  "FormKey": "218766:InsideJobs.esp",
+  "EditorID": "tb_Loot_Medkit_Chems_Wall_Dirty",
+  "ObjectBounds": {
+    "First": "-17, 0, -29",
+    "Second": "18, 16, 3"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "First Aid"
+  },
+  "Model": {
+    "File": "SetDressing\\FirstAidHanging\\FirstAidKitHanging_Pharm_Dirty.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "218767:InsideJobs.esp",
+        "Count": 3
+      }
+    }
+  ],
+  "Flags": [
+    "AllowSoundsWhenAnimation"
+  ],
+  "Keywords": [
+    "184462:Fallout4.esm"
+  ],
+  "TakeAllSound": "089E3B:Fallout4.esm"
+}

@@ -1,0 +1,39 @@
+{
+  "FormKey": "1ED5D2:InsideJobs.esp",
+  "EditorID": "tb_FederalistDresserShort01_Prewar01",
+  "ObjectBounds": {
+    "First": "-33, -50, 0",
+    "Second": "33, 50, 64"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Dresser"
+  },
+  "Model": {
+    "File": "SetDressing\\FederalistFurniture\\FederalistDresserShort01.nif",
+    "Data": "0x0400000000000000000000000000000000000000",
+    "MaterialSwap": "1ED5D3:InsideJobs.esp"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "06D4BB:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1081B9:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "OpenSound": "123DE6:Fallout4.esm",
+  "CloseSound": "123DE7:Fallout4.esm"
+}

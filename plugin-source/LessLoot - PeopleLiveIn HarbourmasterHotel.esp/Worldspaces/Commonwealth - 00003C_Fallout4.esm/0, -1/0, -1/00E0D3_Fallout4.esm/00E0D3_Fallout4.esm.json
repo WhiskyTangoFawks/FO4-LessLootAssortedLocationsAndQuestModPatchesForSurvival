@@ -1,0 +1,4083 @@
+{
+  "FormKey": "00E0D3:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "HasWater"
+  ],
+  "PreVisFilesTimestamp": 7972,
+  "InPreVisFileOf": "00E0D4:Fallout4.esm",
+  "PreCombinedFilesTimestamp": 7972,
+  "Grid": {
+    "Point": "7, -6"
+  },
+  "MaxHeightData": {
+    "Offset": 512.0,
+    "HeightMap": [
+      [1,2,3,4,1,9,10,9,9,9,9,6,5,5,2,2,2,2,2,1,14,14,15,15,14,23,23,23,23,13,23,23],
+      [0,1,1,1,3,8,10,9,9,9,7,9,9,9,7,2,2,2,2,1,1,14,15,15,23,23,23,23,23,23,23,23],
+      [0,0,1,1,3,3,9,9,9,7,9,9,11,9,9,2,2,2,1,1,1,1,15,15,23,23,23,23,17,23,23,17],
+      [0,0,0,1,1,2,3,7,7,6,9,11,11,11,9,2,2,1,3,1,1,1,1,1,23,23,23,15,23,23,17,17],
+      [0,0,2,2,2,1,3,2,4,9,10,11,11,11,2,2,1,2,2,1,1,1,1,1,18,23,23,23,23,17,17,17],
+      [0,0,2,2,2,1,1,2,2,2,9,11,11,1,2,2,1,2,2,6,2,3,3,1,1,15,23,23,23,17,17,17],
+      [0,0,0,1,1,1,1,1,0,3,2,7,1,4,8,2,1,1,2,2,2,2,2,2,2,2,21,23,23,23,17,17],
+      [0,0,0,1,1,1,1,0,0,1,2,2,2,2,9,2,1,1,1,2,2,2,2,2,1,2,2,21,21,23,23,17],
+      [0,0,0,1,1,1,1,0,0,1,1,3,3,1,3,3,1,1,1,1,1,2,2,1,1,1,1,1,21,21,23,23],
+      [0,0,0,0,0,0,1,1,1,2,0,1,1,1,1,1,1,1,2,2,1,1,1,1,3,3,3,1,10,21,20,21],
+      [0,0,0,0,0,0,0,1,1,2,0,0,0,1,1,1,1,3,6,6,1,2,2,3,3,3,3,3,10,10,2,4],
+      [1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,8,7,1,2,3,3,3,3,3,3,7,7,2,2],
+      [2,2,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,2,1,2,1,1,3,3,4,4,4,3,3,3,2,2],
+      [2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,2,2,1,1,3,3,4,4,4,3,3,3,3,2],
+      [2,1,1,0,0,0,0,0,0,0,0,1,1,1,3,5,1,1,2,4,2,2,1,2,3,3,3,3,4,3,3,2],
+      [1,0,0,0,0,0,0,0,0,0,1,1,1,1,5,6,4,1,2,2,2,2,1,1,1,3,3,4,4,4,2,1],
+      [0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,1,2,2,2,2,1,2,3,1,3,3,3,3,1,1],
+      [0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,1,1,2,2,1,1,8,7,1,1,1,1,1,1,2],
+      [0,0,0,0,0,0,0,0,1,1,0,0,10,10,0,1,1,0,1,1,2,2,1,1,1,1,1,1,1,2,2,5],
+      [0,0,0,0,0,0,0,0,1,0,0,10,10,10,10,2,0,0,1,1,1,2,2,2,1,3,2,1,2,2,2,5],
+      [0,0,0,0,0,0,1,0,0,0,10,10,10,10,10,10,2,1,1,2,2,1,2,2,2,3,2,2,5,1,1,5],
+      [0,0,0,0,0,1,1,0,0,10,10,11,11,10,10,10,10,10,2,2,1,1,1,2,3,1,2,2,8,1,1,2],
+      [0,0,0,0,0,1,2,1,10,10,11,12,12,11,10,10,10,10,10,2,2,1,1,1,2,2,1,1,2,2,1,1],
+      [0,0,0,0,1,0,0,1,10,11,12,13,13,12,11,11,10,10,10,1,2,2,1,1,2,2,1,1,2,2,3,1],
+      [0,0,0,1,2,1,0,10,10,11,12,13,13,13,12,11,11,10,10,0,1,2,2,1,1,2,1,1,1,1,2,3],
+      [0,0,2,1,2,1,0,10,11,11,11,12,12,13,12,11,11,10,0,0,0,0,2,2,1,2,1,1,1,1,1,3],
+      [0,2,2,2,2,2,3,10,10,10,10,11,12,12,12,11,10,7,0,0,0,0,0,2,2,2,1,1,1,1,1,2],
+      [3,3,2,3,3,2,3,3,10,10,10,10,11,11,11,10,7,0,0,0,0,0,0,0,2,2,1,1,1,1,1,1],
+      [2,3,3,3,2,2,2,3,3,10,10,10,10,10,10,8,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1],
+      [2,3,3,2,2,2,2,2,3,3,10,10,10,10,7,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1],
+      [3,3,2,2,2,2,2,2,2,3,3,10,10,10,4,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1],
+      [2,2,2,2,2,2,3,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1]
+    ]
+  },
+  "WaterHeight": 3.4028235E+38,
+  "Regions": [
+    "23F1FD:Fallout4.esm",
+    "049BE0:Fallout4.esm",
+    "1D2AF4:Fallout4.esm",
+    "18DFD9:Fallout4.esm",
+    "1CFDBE:Fallout4.esm"
+  ],
+  "PhysicsReferences": [
+    "1F2361:Fallout4.esm",
+    "1C22B2:Fallout4.esm",
+    "1F8FFB:Fallout4.esm",
+    "1F1CFA:Fallout4.esm",
+    "1F2363:Fallout4.esm",
+    "04A78F:Fallout4.esm",
+    "1F8FF9:Fallout4.esm",
+    "1FAB55:Fallout4.esm",
+    "04A713:Fallout4.esm",
+    "04A705:Fallout4.esm",
+    "1F1D52:Fallout4.esm",
+    "20334B:Fallout4.esm",
+    "1FAB51:Fallout4.esm",
+    "1FFCE2:Fallout4.esm",
+    "04A711:Fallout4.esm",
+    "1FAB60:Fallout4.esm",
+    "04A68E:Fallout4.esm",
+    "2055FB:Fallout4.esm",
+    "04A791:Fallout4.esm",
+    "1FAB56:Fallout4.esm",
+    "1F1D3C:Fallout4.esm",
+    "1F1CFB:Fallout4.esm",
+    "1F2362:Fallout4.esm",
+    "1FAB63:Fallout4.esm",
+    "1F2364:Fallout4.esm",
+    "04A712:Fallout4.esm",
+    "04A704:Fallout4.esm",
+    "2055A5:Fallout4.esm",
+    "2055F9:Fallout4.esm",
+    "2055FA:Fallout4.esm",
+    "1F8FFA:Fallout4.esm",
+    "04A690:Fallout4.esm",
+    "1C22A9:Fallout4.esm",
+    "1F1D3F:Fallout4.esm",
+    "1F1D3E:Fallout4.esm"
+  ],
+  "CombinedMeshes": [
+    28861806,
+    175091488,
+    176306026,
+    225671039,
+    277430751,
+    316928405,
+    324769019,
+    425316049,
+    451342079,
+    482666451,
+    491256428,
+    524771173,
+    563641934,
+    568854872,
+    625813620,
+    662107564,
+    667422388,
+    730310264,
+    731522148,
+    736777074,
+    850632099,
+    851700405,
+    883756055,
+    942779081,
+    973764369,
+    990832551,
+    1001525887,
+    1043282813,
+    1250047850,
+    1390670229,
+    1398510843,
+    1499057873,
+    1556408275,
+    1598512997,
+    1642596696,
+    1699555444,
+    1735849388,
+    1805263972,
+    1924373923,
+    1925442229,
+    2016520905,
+    2039074727,
+    2064574375,
+    2075267711,
+    2117024637,
+    2176345454,
+    2464412053,
+    2472252667,
+    2598825727,
+    2610039135,
+    2672254821,
+    2711125582,
+    2716338520,
+    2809591212,
+    2998115747,
+    3090262729,
+    3121248017,
+    3138316199,
+    3397531498,
+    3646541521,
+    3883333036,
+    4071857571,
+    4164004553,
+    4212058023,
+    4222751359
+  ],
+  "CombinedMeshReferences": [
+    {
+      "Reference": "1B9ECA:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "186212:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "186198:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1861F3:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1861B6:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1FEFE5:Fallout4.esm",
+      "CombinedMesh": 3646541521
+    },
+    {
+      "Reference": "1861DD:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BE27:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "186257:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "18623C:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "186181:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04A794:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "186260:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "18620B:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BDF1:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "18624E:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "17BDDF:Fallout4.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "1FEFFC:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1861AF:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1861C4:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1861EF:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BE15:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "186184:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "1FAD69:Fallout4.esm",
+      "CombinedMesh": 2464412053
+    },
+    {
+      "Reference": "17BDF4:Fallout4.esm",
+      "CombinedMesh": 1925442229
+    },
+    {
+      "Reference": "203358:Fallout4.esm",
+      "CombinedMesh": 3646541521
+    },
+    {
+      "Reference": "186220:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "18624B:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1861C1:Fallout4.esm",
+      "CombinedMesh": 1556408275
+    },
+    {
+      "Reference": "1F2385:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "17BDED:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1FAD70:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1861F6:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "18619D:Fallout4.esm",
+      "CombinedMesh": 1556408275
+    },
+    {
+      "Reference": "1861D8:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1861B3:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "17BE49:Fallout4.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "1FAD5E:Fallout4.esm",
+      "CombinedMesh": 2610039135
+    },
+    {
+      "Reference": "186252:Fallout4.esm",
+      "CombinedMesh": 3121248017
+    },
+    {
+      "Reference": "1FAD63:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "17BDFE:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "18626F:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "17BE1F:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "18618E:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "17BE31:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1861CB:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1861A0:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "17BDD0:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "18622A:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "17BDBB:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "186241:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1FF152:Fallout4.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "18621D:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BD8C:Fallout4.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "205575:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "20330E:Fallout4.esm",
+      "CombinedMesh": 1805263972
+    },
+    {
+      "Reference": "203365:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1861D2:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1861B9:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1FEFEA:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "186192:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "17BE03:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1861F9:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "20334E:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "17BDE2:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "186218:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "18625D:Fallout4.esm",
+      "CombinedMesh": 1556408275
+    },
+    {
+      "Reference": "186236:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BDCC:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1861BC:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1FEFEF:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1861D7:Fallout4.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "17BE2D:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "203357:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "17BD90:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1FAD66:Fallout4.esm",
+      "CombinedMesh": 2176345454
+    },
+    {
+      "Reference": "18618B:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1861E0:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BE1A:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1861A5:Fallout4.esm",
+      "CombinedMesh": 667422388
+    },
+    {
+      "Reference": "182FB1:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "17BDBE:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "18622F:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BE25:Fallout4.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "1861DF:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1FEFE7:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1861B4:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1FAD59:Fallout4.esm",
+      "CombinedMesh": 2711125582
+    },
+    {
+      "Reference": "186210:Fallout4.esm",
+      "CombinedMesh": 1556408275
+    },
+    {
+      "Reference": "17BDEA:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "18619A:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "186227:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "18624C:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BDB6:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1861C6:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1861AD:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "1F2382:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1861E8:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "186183:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BDF3:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "186209:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "186262:Fallout4.esm",
+      "CombinedMesh": 1699555444
+    },
+    {
+      "Reference": "186249:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "186222:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1861A8:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "1F2387:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1861C3:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "186186:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BE17:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "04A793:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "20335A:Fallout4.esm",
+      "CombinedMesh": 3646541521
+    },
+    {
+      "Reference": "1FAD6B:Fallout4.esm",
+      "CombinedMesh": 2610039135
+    },
+    {
+      "Reference": "1861B1:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "17BE20:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1861DA:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "186250:Fallout4.esm",
+      "CombinedMesh": 1598512997
+    },
+    {
+      "Reference": "1FAD5C:Fallout4.esm",
+      "CombinedMesh": 2711125582
+    },
+    {
+      "Reference": "186215:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1B9ECD:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "18619F:Fallout4.esm",
+      "CombinedMesh": 1556408275
+    },
+    {
+      "Reference": "1861F4:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1861A2:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1FEFF1:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1861C9:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "186243:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "17BDB9:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "186228:Fallout4.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "17BDD2:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "203350:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "17BDFC:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "186206:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "18618C:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BE1D:Fallout4.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "1861E7:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "18625A:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "17BDCB:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "186231:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "1FEFE8:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1861BB:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BE2A:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "1861D0:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "186195:Fallout4.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "1861FE:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BE04:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "203349:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BD8E:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "18621F:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BDE5:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BDCE:Fallout4.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "186234:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "18625F:Fallout4.esm",
+      "CombinedMesh": 1556408275
+    },
+    {
+      "Reference": "17BE2F:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1861D5:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "1FEFED:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1861BE:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1861FB:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BE01:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "186190:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "18621A:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "186271:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "17BD8B:Fallout4.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "1861CC:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "04A7D9:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "18622D:Fallout4.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "046844:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "17BDF9:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1FAD64:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "186268:Fallout4.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "1861E2:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "186189:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "17BD23:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "1F1D22:Fallout4.esm",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "2055F4:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "1C22A6:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1F2352:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "04A703:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "17BD3A:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BD51:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "186502:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04A71A:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "1F234B:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "17BD14:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BD54:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BD3F:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1F2360:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04A75A:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "1F234E:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "205609:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "21063D:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BD11:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD4D:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD26:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1C22A3:Fallout4.esm",
+      "CombinedMesh": 4071857571
+    },
+    {
+      "Reference": "20559A:Fallout4.esm",
+      "CombinedMesh": 3138316199
+    },
+    {
+      "Reference": "1F1D27:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "1F2357:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04A706:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F236A:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1C229E:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1F1D1A:Fallout4.esm",
+      "CombinedMesh": 2075267711
+    },
+    {
+      "Reference": "17BD70:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "0468E3:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "17BD1B:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "04A715:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F2344:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0468D4:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "17BD2C:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "205634:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "1F235D:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "205590:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "1F1D2D:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "0468D1:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "17BD29:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "2055BB:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "17BD42:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "205631:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "1F2358:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04A709:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F1D28:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "2055FE:Fallout4.esm",
+      "CombinedMesh": 3138316199
+    },
+    {
+      "Reference": "1F236F:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1F1D1F:Fallout4.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "17BD5B:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "20339C:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1FFD01:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "17BD1E:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "04A830:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "04A710:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1F2341:Fallout4.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "20559D:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "1F1D20:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "04A701:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F2350:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BD4A:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BD21:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1F2349:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "04A718:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "186500:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "21063A:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1F1D39:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "0468AB:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "17BD53:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1F1D17:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "04A75D:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "20560B:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "1F234C:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "17BD13:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD56:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "04A758:Fallout4.esm",
+      "CombinedMesh": 3397531498
+    },
+    {
+      "Reference": "2055F3:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "17BD0A:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "046899:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "1C22A1:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "18617A:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "1F2355:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "17BD24:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD4F:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BD19:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "0468E1:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "17BD72:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1F2346:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "04A717:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F2368:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "17BD37:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "20339B:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "17BD5C:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "04A82E:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "04A70E:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F235F:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1F1D2F:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "205592:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "17BD6B:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD2E:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "0468D6:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "04A74B:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "04A70B:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F235A:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04A760:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "17BD6E:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1F1D2A:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BD40:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "2055B9:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "17BD2B:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "205633:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "17BD1C:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1FFD03:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1F2343:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "1F236D:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "04A757:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "1FF20D:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1F1D1D:Fallout4.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "04A688:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1864FB:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1BB383:Fallout4.esm",
+      "CombinedMesh": 3138316199
+    },
+    {
+      "Reference": "1FFCDC:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FF01D:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "17BCF4:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1FF004:Fallout4.esm",
+      "CombinedMesh": 2075267711
+    },
+    {
+      "Reference": "0D022B:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "1F1CF5:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "046909:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "1FAB80:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "04A6FF:Fallout4.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "0D01CF:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "1F1CF0:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0D022E:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "04A68D:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1864FE:Fallout4.esm",
+      "CombinedMesh": 2117024637
+    },
+    {
+      "Reference": "1BB386:Fallout4.esm",
+      "CombinedMesh": 3138316199
+    },
+    {
+      "Reference": "1FFCD9:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FF018:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0D01D6:Fallout4.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "04A6F5:Fallout4.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "17BCFB:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "180E79:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "0839CF:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "04692D:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "0497E0:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "1F1C91:Fallout4.esm",
+      "CombinedMesh": 225671039
+    },
+    {
+      "Reference": "1FF00B:Fallout4.esm",
+      "CombinedMesh": 1556408275
+    },
+    {
+      "Reference": "1864F4:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FF079:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "04A6A9:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "1FFCD3:Fallout4.esm",
+      "CombinedMesh": 4164004553
+    },
+    {
+      "Reference": "17E803:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1FF017:Fallout4.esm",
+      "CombinedMesh": 4164004553
+    },
+    {
+      "Reference": "1FF07C:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "04A6AC:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1FFCD6:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "04A6F0:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1FF04B:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1FFCE1:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1BB3D5:Fallout4.esm",
+      "CombinedMesh": 4212058023
+    },
+    {
+      "Reference": "1FFCCF:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FFCDE:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0D01D1:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "04A68A:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "04A6E1:Fallout4.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "1FF06D:Fallout4.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "04A6BD:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1FF006:Fallout4.esm",
+      "CombinedMesh": 4222751359
+    },
+    {
+      "Reference": "04A693:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1FAB87:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04A6F8:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1F1CF2:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04A6FD:Fallout4.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "1FAB82:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1FFCDB:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FF01A:Fallout4.esm",
+      "CombinedMesh": 4164004553
+    },
+    {
+      "Reference": "1FF071:Fallout4.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "04A6E4:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1864FC:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "04A68F:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1BB384:Fallout4.esm",
+      "CombinedMesh": 3138316199
+    },
+    {
+      "Reference": "1F1CF8:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04692F:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "1FF009:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "04A69C:Fallout4.esm",
+      "CombinedMesh": 3397531498
+    },
+    {
+      "Reference": "1FAB88:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0839CD:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "17BCF9:Fallout4.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "1FF07B:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1FFCD1:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0D01F0:Fallout4.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "1864F6:Fallout4.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "193828:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "1FF015:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FFCD4:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0839D1:Fallout4.esm",
+      "CombinedMesh": 2472252667
+    },
+    {
+      "Reference": "1864F3:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FFCCD:Fallout4.esm",
+      "CombinedMesh": 3090262729
+    },
+    {
+      "Reference": "1BB3D7:Fallout4.esm",
+      "CombinedMesh": 4212058023
+    },
+    {
+      "Reference": "1FF00C:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "0D01EC:Fallout4.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "17BCFC:Fallout4.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "2073D5:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "248C7D:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "1FAB57:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FAB3C:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "238784:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1FAB79:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "046531:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "1FAB4E:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "17BC11:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1FF08F:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "17BC14:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "04652D:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "17F18A:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FAB39:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0D0158:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "046534:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "1FAB41:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1FAB58:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FAB76:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1FAB5D:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1BD2FB:Fallout4.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "180EDC:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "1FAB44:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "09F192:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BBE6:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1FAB3E:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "17BC13:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1FAB62:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FAB4C:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "17E7D2:Fallout4.esm",
+      "CombinedMesh": 4071857571
+    },
+    {
+      "Reference": "17F188:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "04652F:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "1FAB49:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "238783:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "17BC0F:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1FAB3B:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FAB6D:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1FAB43:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "180E87:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "1FAB5A:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FAB5F:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FAB46:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1FAB5C:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1BD2FA:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "1FAB45:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1FAB40:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "06A370:Fallout4.esm",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "1FAB59:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FAB77:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0D029C:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "1FAB4A:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "09F18D:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "04652C:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "17F18B:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1FAB38:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FAB3D:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "2073D4:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "248C7C:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "1FAB78:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "17BBE5:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "046530:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "1FAB4F:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "17BC10:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1FAB70:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1FAB35:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1FAB5E:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FAB69:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1FAB47:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1FAB6C:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1FAB42:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1BD2E4:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "17E7EE:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1FAB5B:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04652E:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "17E7D3:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1FAB48:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "17BC0E:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "238782:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1FAB3A:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "09F193:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BBE7:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1FAB7A:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FAB3F:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FAB54:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "04652B:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "17BC12:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1FAB4D:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "17E802:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1BB388:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "1FFCD7:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FF016:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FF07D:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "0839CB:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1FFCE0:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "04A69A:Fallout4.esm",
+      "CombinedMesh": 3397531498
+    },
+    {
+      "Reference": "1FF04A:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1BB3D4:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "1FFCCE:Fallout4.esm",
+      "CombinedMesh": 4164004553
+    },
+    {
+      "Reference": "1FFCE5:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "17BCFA:Fallout4.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "0839CE:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1FF04F:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FF00A:Fallout4.esm",
+      "CombinedMesh": 1556408275
+    },
+    {
+      "Reference": "0497E1:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "04692C:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "1864F5:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FFCD2:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FF078:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1FF013:Fallout4.esm",
+      "CombinedMesh": 4164004553
+    },
+    {
+      "Reference": "1FAB81:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "04A6FE:Fallout4.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "046908:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "1F1CF1:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1BB387:Fallout4.esm",
+      "CombinedMesh": 4212058023
+    },
+    {
+      "Reference": "1864FF:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0D01F9:Fallout4.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "1FF072:Fallout4.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "0D01D7:Fallout4.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "1FF019:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FFCD8:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1864FA:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "04A689:Fallout4.esm",
+      "CombinedMesh": 1390670229
+    },
+    {
+      "Reference": "04A6CC:Fallout4.esm",
+      "CombinedMesh": 4071857571
+    },
+    {
+      "Reference": "1FFCDD:Fallout4.esm",
+      "CombinedMesh": 4164004553
+    },
+    {
+      "Reference": "04A6FB:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1FAB84:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1F1CF4:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FF005:Fallout4.esm",
+      "CombinedMesh": 4222751359
+    },
+    {
+      "Reference": "1FFCD5:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FF07F:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1FF014:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1864F2:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "0839D0:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "04A6DD:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1BB3D6:Fallout4.esm",
+      "CombinedMesh": 4212058023
+    },
+    {
+      "Reference": "1FF008:Fallout4.esm",
+      "CombinedMesh": 2672254821
+    },
+    {
+      "Reference": "1BB3D3:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "0839CC:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "17BCF8:Fallout4.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "22D860:Fallout4.esm",
+      "CombinedMesh": 2716338520
+    },
+    {
+      "Reference": "1FF04D:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1825DA:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1FFCD0:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FF07A:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F1CF3:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04A6D2:Fallout4.esm",
+      "CombinedMesh": 3397531498
+    },
+    {
+      "Reference": "04A6FC:Fallout4.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "1FAB83:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1BB385:Fallout4.esm",
+      "CombinedMesh": 4212058023
+    },
+    {
+      "Reference": "1864FD:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0D01D0:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "22D858:Fallout4.esm",
+      "CombinedMesh": 2716338520
+    },
+    {
+      "Reference": "1864F8:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1F1CF6:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04A6BC:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1FF06C:Fallout4.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "1FF007:Fallout4.esm",
+      "CombinedMesh": 2672254821
+    },
+    {
+      "Reference": "1FAB86:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "04A692:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "04A6F9:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "17BCF7:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BD28:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BD43:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "2055BA:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "1F1D29:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "04A708:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F2359:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1F1D1E:Fallout4.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "1FF20E:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "1F236E:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "04A831:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "1F2340:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "17BD1F:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD74:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1C229F:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F1D1B:Fallout4.esm",
+      "CombinedMesh": 4222751359
+    },
+    {
+      "Reference": "1F236B:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1F2345:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "04A714:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "17BD71:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BD1A:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "0468E2:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "17BD46:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BD2D:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "0468D5:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "1C22A8:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1F9064:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F1D2C:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "04A70D:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F235C:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "04A82D:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "04A75B:Fallout4.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "17BD55:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BD3E:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1BEDDC:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1F234F:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "205608:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "17BD4C:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD27:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "186179:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "1F2356:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "04689A:Fallout4.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "1C22A2:Fallout4.esm",
+      "CombinedMesh": 4071857571
+    },
+    {
+      "Reference": "1F1D26:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD22:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD49:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "04A702:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1F2353:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "2055F5:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "1F1D23:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "1C22A7:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "04A75E:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "17BD3B:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BD50:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1F1D3A:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "210639:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1F234A:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "04A71B:Fallout4.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "1F1D2B:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1F9063:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1F235B:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "04A70A:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "20561C:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "205632:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "17BD41:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BD2A:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1F2342:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "1FFD02:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "17BD1D:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BD58:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "1F1D1C:Fallout4.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "1F236C:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1F2347:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "17BD18:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BD73:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1F1D19:Fallout4.esm",
+      "CombinedMesh": 4222751359
+    },
+    {
+      "Reference": "1F2369:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1F1D2E:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "2055F8:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "17BD6A:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "04A82F:Fallout4.esm",
+      "CombinedMesh": 1398510843
+    },
+    {
+      "Reference": "1F235E:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1F2370:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "0468D7:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "17BD2F:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD44:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BD12:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD79:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "20560A:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "1F234D:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "17BD3C:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD57:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "0468AF:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "1F233F:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1F2354:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "18617B:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1C22A0:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "17BD25:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BD4E:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "238786:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "238785:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1F2351:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "04A700:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "22D85F:Fallout4.esm",
+      "CombinedMesh": 2716338520
+    },
+    {
+      "Reference": "22D853:Fallout4.esm",
+      "CombinedMesh": 2598825727
+    },
+    {
+      "Reference": "22D852:Fallout4.esm",
+      "CombinedMesh": 2598825727
+    },
+    {
+      "Reference": "20559C:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "1F1D21:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "2055F7:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "22D851:Fallout4.esm",
+      "CombinedMesh": 2716338520
+    },
+    {
+      "Reference": "17BD4B:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "0468D8:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "17BD20:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "22D850:Fallout4.esm",
+      "CombinedMesh": 2598825727
+    },
+    {
+      "Reference": "186273:Fallout4.esm",
+      "CombinedMesh": 667422388
+    },
+    {
+      "Reference": "21063C:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "20559B:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "2073D9:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "21063B:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "0468EF:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "1F1D38:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "205577:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "1F2348:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "205570:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "186501:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1FEFFF:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1FF205:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FF201:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "1FF1C5:Fallout4.esm",
+      "CombinedMesh": 4164004553
+    },
+    {
+      "Reference": "17BD52:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1FF150:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "17BD39:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "20334F:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "205571:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "17BD88:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "186219:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "1FF0A1:Fallout4.esm",
+      "CombinedMesh": 1642596696
+    },
+    {
+      "Reference": "186193:Fallout4.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "1FF0A0:Fallout4.esm",
+      "CombinedMesh": 1642596696
+    },
+    {
+      "Reference": "1861F8:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BE02:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1FEFEE:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "1861BD:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BE2C:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1861D6:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "1FF09F:Fallout4.esm",
+      "CombinedMesh": 175091488
+    },
+    {
+      "Reference": "18625C:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "17BDCD:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "186237:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "23FAD3:Fallout4.esm",
+      "CombinedMesh": 1556408275
+    },
+    {
+      "Reference": "18618A:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BE1B:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1861E1:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BD91:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "203356:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "17BDFA:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "186200:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FF09E:Fallout4.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "1FF083:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "18622E:Fallout4.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "17BDD4:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "1861A4:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "1FF082:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1861CF:Fallout4.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "1FF081:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "17BE1E:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1861E4:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FF080:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "18618F:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "17BDFF:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "186205:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FF07E:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1FF050:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "18622B:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "17BDD1:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "186240:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "17BDBA:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1861CA:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "17BE30:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1861A1:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1FF04C:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "18621C:Fallout4.esm",
+      "CombinedMesh": 2075267711
+    },
+    {
+      "Reference": "20556B:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "20334A:Fallout4.esm",
+      "CombinedMesh": 3646541521
+    },
+    {
+      "Reference": "17BD8D:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1861FD:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FEFFE:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "186196:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1FEFFB:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "17BE29:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1861D3:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1FEFEB:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1861B8:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1B9ECC:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "186232:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "17BE84:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "203364:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD07:Fallout4.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "203332:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1861F5:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "203359:Fallout4.esm",
+      "CombinedMesh": 3646541521
+    },
+    {
+      "Reference": "186272:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "04A790:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "18617E:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "186185:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1861C0:Fallout4.esm",
+      "CombinedMesh": 667422388
+    },
+    {
+      "Reference": "1F1D5D:Fallout4.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "1F493F:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1F2384:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "186221:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1F493E:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "18624A:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1F493D:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1861F7:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1BB3E0:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "18619C:Fallout4.esm",
+      "CombinedMesh": 2075267711
+    },
+    {
+      "Reference": "1BB3DF:Fallout4.esm",
+      "CombinedMesh": 2064574375
+    },
+    {
+      "Reference": "1FAD71:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "1B9ECE:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "1FEFF9:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "0839D3:Fallout4.esm",
+      "CombinedMesh": 2998115747
+    },
+    {
+      "Reference": "046930:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "186238:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BD30:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "186253:Fallout4.esm",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "1861EC:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1861D9:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04684B:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "1861B2:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "186199:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "046843:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "186274:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "186267:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "04684E:Fallout4.esm",
+      "CombinedMesh": 277430751
+    },
+    {
+      "Reference": "186266:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "186213:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "18626A:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "18626B:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "186259:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "21303C:Fallout4.esm",
+      "CombinedMesh": 175091488
+    },
+    {
+      "Reference": "18623D:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1FEFE4:Fallout4.esm",
+      "CombinedMesh": 3646541521
+    },
+    {
+      "Reference": "1861B7:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "17BE26:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "186264:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "17BD0E:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "20335C:Fallout4.esm",
+      "CombinedMesh": 3646541521
+    },
+    {
+      "Reference": "17BDF0:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "18620A:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "04A795:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "186180:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1861A9:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "1861EB:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1861AE:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1FEFFD:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1861C5:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1FEFFA:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "18624F:Fallout4.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "17BE86:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "186224:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "17BD0D:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1861EA:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1861BF:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "04A7C1:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "1FEFEC:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "186235:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BDCF:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "203363:Fallout4.esm",
+      "CombinedMesh": 3646541521
+    },
+    {
+      "Reference": "186204:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BDE1:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "18621B:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "17BE88:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "186270:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "205576:Fallout4.esm",
+      "CombinedMesh": 990832551
+    },
+    {
+      "Reference": "1861FA:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "186233:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "186191:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "18620E:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "18622C:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "046845:Fallout4.esm",
+      "CombinedMesh": 730310264
+    },
+    {
+      "Reference": "186247:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04A7B3:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1861CD:Fallout4.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "1861A6:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "04A7D8:Fallout4.esm",
+      "CombinedMesh": 1250047850
+    },
+    {
+      "Reference": "1861E3:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BE19:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "186239:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "186203:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "186202:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1FEFE9:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "04A7C4:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "186201:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BDB8:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "186242:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "186217:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "186229:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "1FEFF0:Fallout4.esm",
+      "CombinedMesh": 2117024637
+    },
+    {
+      "Reference": "1861A3:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "18626C:Fallout4.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "1861C8:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "18618D:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "20556F:Fallout4.esm",
+      "CombinedMesh": 451342079
+    },
+    {
+      "Reference": "186216:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "186176:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "203351:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BD34:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "18620F:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "17BDFD:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1861BA:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BE40:Fallout4.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "1861D1:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "186261:Fallout4.esm",
+      "CombinedMesh": 2039074727
+    },
+    {
+      "Reference": "18625B:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "18623B:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "186230:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BDCA:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "17BD8F:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "203348:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "17BDE4:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "18621E:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "18625E:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "186194:Fallout4.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "1FF151:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "1861FF:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1F2386:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "04A7D7:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "1F2381:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1861C2:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "17BD66:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "186248:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "186258:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "186223:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "20335B:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "186265:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "18620D:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BD02:Fallout4.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "1861CE:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "18626D:Fallout4.esm",
+      "CombinedMesh": 1556408275
+    },
+    {
+      "Reference": "04A792:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "17BE16:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "186251:Fallout4.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "0839D2:Fallout4.esm",
+      "CombinedMesh": 2998115747
+    },
+    {
+      "Reference": "18623A:Fallout4.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "1861A7:Fallout4.esm",
+      "CombinedMesh": 667422388
+    },
+    {
+      "Reference": "1861B0:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1FEFE3:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "17BD36:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "04A6CF:Fallout4.esm",
+      "CombinedMesh": 4071857571
+    },
+    {
+      "Reference": "18617F:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "18619E:Fallout4.esm",
+      "CombinedMesh": 2075267711
+    },
+    {
+      "Reference": "18617D:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04A78B:Fallout4.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "18617C:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "186178:Fallout4.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "17BDEE:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "186214:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "18623F:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BE87:Fallout4.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "186254:Fallout4.esm",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "17BE85:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1861DE:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BD35:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "1861B5:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "17BD68:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD67:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "1861F0:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BD38:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "18619B:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "17BDEB:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "186211:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "17BD33:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD32:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "17BD31:Fallout4.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "1861C7:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1F2383:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "17BD17:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "17BD16:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BD15:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "17BDB7:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "18624D:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BD0C:Fallout4.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "17BD09:Fallout4.esm",
+      "CombinedMesh": 1924373923
+    },
+    {
+      "Reference": "186263:Fallout4.esm",
+      "CombinedMesh": 2039074727
+    },
+    {
+      "Reference": "17BD06:Fallout4.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "1861E9:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "17BD01:Fallout4.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "186182:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1BD2F8:Fallout4.esm",
+      "CombinedMesh": 990832551
+    }
+  ],
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000897:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F90A:Fallout4.esm",
+      "Position": "28839.002, -21330.23, 616.7744",
+      "Rotation": "0.9886906, 5.030847, 5.304958"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C28:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330FF:Fallout4.esm",
+      "Position": "28977.846, -21469.555, 2197.5864",
+      "Rotation": "0.17573546, 0.11296469, 0.019622738"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C2A:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "033100:Fallout4.esm",
+      "Position": "29068.506, -21388.541, 2232.9546",
+      "Rotation": "0, 0, 1.2499995"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C2C:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330FF:Fallout4.esm",
+      "Position": "29064.385, -21377.967, 2209.933",
+      "Rotation": "0, 0, 0.95000017"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C2D:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "046941:Fallout4.esm",
+      "Position": "28940.898, -21287.426, 2194.408",
+      "Rotation": "0, 0, 0.20000076"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C34:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "28782.516, -21148.375, 2130.5122",
+      "Rotation": "4.712375, 5.7698298, 3.143146"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C36:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "28780.566, -21115.945, 2208.0369"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C3B:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "28788.152, -21129.666, 2133.4922",
+      "Rotation": "1.5779138, 4.7655916, 4.705931"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C3D:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "29145.826, -21264.22, 2136.3525",
+      "Rotation": "1.5702012, 4.770264, 0.0024294984"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C3F:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "29149.926, -21256.678, 2136.3518",
+      "Rotation": "1.5707998, 6.1243515, 1.5711262"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C41:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "28929.33, -21543.568, 2146.5212",
+      "Rotation": "1.5685798, 4.9805903, 4.7173805"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C45:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F90A:Fallout4.esm",
+      "Position": "28844.146, -21644.39, 2131.9973",
+      "Rotation": "4.7128778, 1.0124131, 1.5720897"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C48:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F90A:Fallout4.esm",
+      "Position": "29229.3, -21178.15, 2132.0037",
+      "Rotation": "1.5703791, 5.258557, 4.713642"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C4A:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F90A:Fallout4.esm",
+      "Position": "28801.797, -21071.912, 2132.011",
+      "Rotation": "1.5716306, 0.5800829, 6.280623"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C52:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F909:Fallout4.esm",
+      "Position": "28760.062, -21135.25, 2132.4856",
+      "Rotation": "1.5705938, 5.3649116, 3.429682"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C57:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "04835A:Fallout4.esm",
+      "RagdollData": [
+        {
+          "Unused": "0x000000",
+          "Rotation": "0.52033836, -0.43587142, 1.9944015"
+        }
+      ],
+      "Position": "28771.703, -21096.752, 2135.3684",
+      "Rotation": "0, 4.9331784, 0"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C5A:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0DF222:Fallout4.esm",
+      "Position": "28829.057, -21316.373, 2131.4873",
+      "Rotation": "1.5700319, 5.4145365, 6.2829847"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C5C:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0DEDE0:Fallout4.esm",
+      "Position": "28932.338, -21522.39, 2147.1294",
+      "Rotation": "4.7123575, 4.968853, 3.1425002"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000C61:PLI_HarbormasterHotel.esp",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "11EA9B:Fallout4.esm",
+      "Position": "29236.832, -21054.027, 2130.5117",
+      "Rotation": "1.5704072, 4.7815475, 4.7142406"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

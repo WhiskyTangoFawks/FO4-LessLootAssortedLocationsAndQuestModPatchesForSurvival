@@ -1,0 +1,78 @@
+{
+  "FormKey": "0016AA:AmericaRising2.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "ARRadioFacilityRaiderDen",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "HasWater"
+  ],
+  "Grid": {
+    "Point": "0, -2"
+  },
+  "WaterHeight": -2048.0,
+  "Regions": [
+    "01F5A0:AmericaRising2.esm",
+    "001795:AmericaRising2.esm"
+  ],
+  "Location": "0043C3:AmericaRising2.esm",
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "003874:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0928D5:Fallout4.esm",
+      "ReferenceGroup": "002E0F:AmericaRising2.esm",
+      "LeveledItemBaseObject": "048361:Fallout4.esm",
+      "Position": "2337.5396, -6046.638, -25.093761",
+      "Rotation": "0, -0, 3.1921709"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "003875:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0928D5:Fallout4.esm",
+      "ReferenceGroup": "002E0F:AmericaRising2.esm",
+      "LeveledItemBaseObject": "048361:Fallout4.esm",
+      "Position": "2329.1746, -6055.3027, -25.093761",
+      "Rotation": "0, -0, 3.1921709"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "003876:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0928D5:Fallout4.esm",
+      "ReferenceGroup": "002E0F:AmericaRising2.esm",
+      "LeveledItemBaseObject": "048361:Fallout4.esm",
+      "Position": "2336.9072, -6066.259, -25.093761",
+      "Rotation": "0, -0, 3.1921709"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "003877:AmericaRising2.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0928D5:Fallout4.esm",
+      "ReferenceGroup": "002E0F:AmericaRising2.esm",
+      "LeveledItemBaseObject": "048361:Fallout4.esm",
+      "Position": "2332.8105, -6046.972, 3.4999847",
+      "Rotation": "0, -0, 0.05057815"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}
