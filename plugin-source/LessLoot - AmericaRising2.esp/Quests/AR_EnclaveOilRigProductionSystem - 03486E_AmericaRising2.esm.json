@@ -751,10 +751,7 @@
     ],
     "Versioning": [
       "Break0"
-    ],
-    "Script": {
-      "Name": ""
-    }
+    ]
   },
   "Name": {
     "TargetLanguage": "English",
