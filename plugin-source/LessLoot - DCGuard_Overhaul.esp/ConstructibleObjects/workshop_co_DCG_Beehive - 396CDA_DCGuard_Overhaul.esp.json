@@ -1,5 +1,6 @@
 {
   "FormKey": "396CDA:DCGuard_Overhaul.esp",
+  "VersionControl": 10051,
   "EditorID": "workshop_co_DCG_Beehive",
   "PickUpSound": "0196B2:Fallout4.esm",
   "PutDownSound": "0196BC:Fallout4.esm",
@@ -30,7 +31,7 @@
         "MutagenObjectType": "FunctionConditionData",
         "Function": "GetQuestCompleted",
         "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
-        "ParameterOneNumber": 35929627
+        "ParameterOneNumber": 119815707
       }
     }
   ],

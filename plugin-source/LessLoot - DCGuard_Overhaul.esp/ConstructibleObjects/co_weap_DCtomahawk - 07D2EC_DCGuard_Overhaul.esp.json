@@ -1,5 +1,6 @@
 {
   "FormKey": "07D2EC:DCGuard_Overhaul.esp",
+  "VersionControl": 9110,
   "EditorID": "co_weap_DCtomahawk",
   "Components": [
     {
@@ -24,7 +25,7 @@
         "MutagenObjectType": "FunctionConditionData",
         "Function": "GetQuestCompleted",
         "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
-        "ParameterOneNumber": 35929627
+        "ParameterOneNumber": 119815707
       }
     }
   ],

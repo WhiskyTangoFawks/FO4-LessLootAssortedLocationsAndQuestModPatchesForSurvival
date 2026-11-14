@@ -1,14 +1,15 @@
 {
   "FormKey": "255DC3:DCGuard_Overhaul.esp",
+  "VersionControl": 10009,
   "EditorID": "workshop_co_food_DCG_Mead",
   "Components": [
     {
-      "Component": "0366C0:Fallout4.esm",
-      "Count": 3
-    },
-    {
       "Component": "0C26DE:DCGuard_Overhaul.esp",
       "Count": 1
+    },
+    {
+      "Component": "0366C0:Fallout4.esm",
+      "Count": 3
     }
   ],
   "Description": {
@@ -24,7 +25,7 @@
         "MutagenObjectType": "FunctionConditionData",
         "Function": "GetQuestCompleted",
         "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
-        "ParameterOneNumber": 35929627
+        "ParameterOneNumber": 119815707
       }
     }
   ],

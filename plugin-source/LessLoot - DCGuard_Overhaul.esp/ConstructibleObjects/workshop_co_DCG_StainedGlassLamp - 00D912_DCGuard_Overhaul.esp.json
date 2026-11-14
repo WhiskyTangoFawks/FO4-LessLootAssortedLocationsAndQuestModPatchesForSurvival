@@ -1,5 +1,6 @@
 {
   "FormKey": "00D912:DCGuard_Overhaul.esp",
+  "VersionControl": 9955,
   "EditorID": "workshop_co_DCG_StainedGlassLamp",
   "Components": [
     {
@@ -36,7 +37,7 @@
         "MutagenObjectType": "FunctionConditionData",
         "Function": "GetQuestCompleted",
         "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
-        "ParameterOneNumber": 35929627
+        "ParameterOneNumber": 119815707
       }
     }
   ],

@@ -1,5 +1,6 @@
 {
   "FormKey": "049CC1:DCGuard_Overhaul.esp",
+  "VersionControl": 10046,
   "EditorID": "workshop_co_DCG_CupNukaVictory",
   "PickUpSound": "0AE46B:Fallout4.esm",
   "PutDownSound": "0AE46C:Fallout4.esm",
@@ -26,7 +27,7 @@
         "MutagenObjectType": "FunctionConditionData",
         "Function": "GetQuestCompleted",
         "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
-        "ParameterOneNumber": 35929627
+        "ParameterOneNumber": 119815707
       }
     }
   ],

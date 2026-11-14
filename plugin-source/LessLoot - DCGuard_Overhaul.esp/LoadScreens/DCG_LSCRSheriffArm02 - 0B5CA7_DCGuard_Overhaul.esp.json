@@ -1,5 +1,6 @@
 {
   "FormKey": "0B5CA7:DCGuard_Overhaul.esp",
+  "VersionControl": 10091,
   "EditorID": "DCG_LSCRSheriffArm02",
   "Description": {
     "TargetLanguage": "English",
@@ -28,7 +29,7 @@
         "MutagenObjectType": "FunctionConditionData",
         "Function": "GetStage",
         "ParameterOneRecord": "0A8CDF:DCGuard_Overhaul.esp",
-        "ParameterOneNumber": 34245855
+        "ParameterOneNumber": 118131935
       }
     }
   ],

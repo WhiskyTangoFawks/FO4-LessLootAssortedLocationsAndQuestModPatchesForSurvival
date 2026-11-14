@@ -1,5 +1,6 @@
 {
   "FormKey": "09B29E:DCGuard_Overhaul.esp",
+  "VersionControl": 10059,
   "EditorID": "workshop_co_DCG_FlagNukaQuantum",
   "PickUpSound": "02B016:Fallout4.esm",
   "PutDownSound": "02B017:Fallout4.esm",
@@ -22,7 +23,7 @@
         "MutagenObjectType": "FunctionConditionData",
         "Function": "GetQuestCompleted",
         "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
-        "ParameterOneNumber": 35929627
+        "ParameterOneNumber": 119815707
       }
     }
   ],

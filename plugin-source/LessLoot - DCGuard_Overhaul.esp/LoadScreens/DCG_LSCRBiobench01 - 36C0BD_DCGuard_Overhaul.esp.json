@@ -1,5 +1,6 @@
 {
   "FormKey": "36C0BD:DCGuard_Overhaul.esp",
+  "VersionControl": 10490,
   "EditorID": "DCG_LSCRBiobench01",
   "Description": {
     "TargetLanguage": "English",
@@ -28,7 +29,7 @@
         "MutagenObjectType": "FunctionConditionData",
         "Function": "GetStage",
         "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
-        "ParameterOneNumber": 35929627
+        "ParameterOneNumber": 119815707
       }
     },
     {
@@ -42,7 +43,7 @@
         "MutagenObjectType": "FunctionConditionData",
         "Function": "GetInCell",
         "ParameterOneRecord": "39632D:DCGuard_Overhaul.esp",
-        "ParameterOneNumber": 37315373
+        "ParameterOneNumber": 121201453
       }
     }
   ],

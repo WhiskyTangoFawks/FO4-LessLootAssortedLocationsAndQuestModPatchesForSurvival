@@ -2,13 +2,13 @@
   "FormKey": "397556:DCGuard_Overhaul.esp",
   "IsCompressed": true,
   "MajorRecordFlagsRaw": 262144,
-  "EditorID": "aaDCCTF",
+  "EditorID": "AADCCTF",
   "Fallout4MajorRecordFlags": [
     "Compressed"
   ],
   "Name": {
     "TargetLanguage": "English",
-    "Value": "The Bleachers - Center Field"
+    "Value": "The Center Field Bleachers"
   },
   "Flags": [
     "IsInteriorCell",
@@ -34,7 +34,6 @@
     "Inherits": [
       "AmbientColor",
       "DirectionalColor",
-      "FogColor",
       "FogNear",
       "FogFar",
       "DirectionalRotation",
@@ -54,11 +53,11 @@
     "FogHighFarScale": 1.0,
     "FarHeightRange": 10000.0
   },
-  "LightingTemplate": "247AD4:DCGuard_Overhaul.esp",
+  "LightingTemplate": "0C5858:Fallout4.esm",
   "WaterHeight": 0.0,
   "Location": "4C9A7F:DCGuard_Overhaul.esp",
   "Ownership": {
-    "Owner": "2F6518:DCGuard_Overhaul.esp"
+    "Owner": "01FDB8:Fallout4.esm"
   },
   "AcousticSpace": "0DAECB:Fallout4.esm",
   "Music": "323300:DCGuard_Overhaul.esp",
@@ -68,6 +67,7 @@
       "MutagenObjectType": "PlacedObject",
       "FormKey": "00944F:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 10021,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -91,12 +91,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9299.13, -22817.361, 1929.319",
-      "Rotation": "0, 0, 4.704186"
+      "Rotation": "0, -0, 4.7041855"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009450:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -121,12 +122,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9296.905, -22828.201, 1945.751",
-      "Rotation": "0, 0, 5.070185"
+      "Rotation": "0, -0, 5.070184"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009451:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -151,12 +153,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9305.676, -22844.674, 1945.5609",
-      "Rotation": "0, 0, 5.262185"
+      "Rotation": "0, -0, 5.2621856"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009457:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -182,12 +185,13 @@
       },
       "Scale": 0.78,
       "Position": "-9292.617, -22830.67, 1984.8378",
-      "Rotation": "0, 0, 0.97200006"
+      "Rotation": "0, -0, 0.97200054"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009458:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -213,12 +217,13 @@
       },
       "Scale": 0.78,
       "Position": "-9311.984, -22832.648, 1958.512",
-      "Rotation": "0, 0, 1.9580028"
+      "Rotation": "0, -0, 1.958003"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009459:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -244,12 +249,13 @@
       },
       "Scale": 1.12,
       "Position": "-9337.275, -22781.69, 1929.3656",
-      "Rotation": "0, 0, 1.4850029"
+      "Rotation": "0, -0, 1.4850032"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "00945A:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -274,12 +280,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9296.905, -22828.201, 1958.4337",
-      "Rotation": "0, 0, 0.5579992"
+      "Rotation": "0, -0, 0.5579987"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "00945B:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -304,12 +311,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9304.845, -22829.455, 1958.4337",
-      "Rotation": "0, 0, 5.8621855"
+      "Rotation": "0, -0, 5.862186"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "00945C:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -335,12 +343,13 @@
       },
       "Scale": 0.78,
       "Position": "-9311.394, -22830.031, 1945.6527",
-      "Rotation": "0, 0, 1.9580028"
+      "Rotation": "0, -0, 1.958003"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "00945D:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -366,12 +375,13 @@
       },
       "Scale": 0.78,
       "Position": "-9305.245, -22830.305, 1945.6527",
-      "Rotation": "0, 0, 0.33000335"
+      "Rotation": "0, -0, 0.33000326"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "00945E:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -397,12 +407,13 @@
       },
       "Scale": 0.78,
       "Position": "-9293.323, -22828.852, 1971.7341",
-      "Rotation": "0, 0, 0.33000335"
+      "Rotation": "0, -0, 0.33000326"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "00945F:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -428,12 +439,13 @@
       },
       "Scale": 0.78,
       "Position": "-9297.147, -22829.482, 1973.4335",
-      "Rotation": "0, 0, 5.054189"
+      "Rotation": "0, -0, 5.0541883"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009460:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -459,12 +471,13 @@
       },
       "Scale": 0.78,
       "Position": "-9304.404, -22828.674, 1971.8848",
-      "Rotation": "0, 0, 5.054189"
+      "Rotation": "0, -0, 5.0541883"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009461:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -490,12 +503,13 @@
       },
       "Scale": 0.78,
       "Position": "-9304.404, -22828.674, 1971.8848",
-      "Rotation": "0, 0, 5.054189"
+      "Rotation": "0, -0, 5.0541883"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009463:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -521,12 +535,13 @@
       },
       "Scale": 0.78,
       "Position": "-9304.404, -22828.674, 1976.2241",
-      "Rotation": "0, 0, 5.054189"
+      "Rotation": "0, -0, 5.0541883"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009464:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -551,12 +566,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9523.182, -22421.648, 1929.8584",
-      "Rotation": "1.5707964, 5.277982, 4.712389"
+      "Rotation": "1.5707965, -1.0052032, 4.712389"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009470:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -580,14 +596,15 @@
       "Ownership": {
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
-      "Scale": 0.72,
+      "Scale": 0.71999997,
       "Position": "-9311.402, -22842.383, 1989.9414",
-      "Rotation": "0, 0, 4.9081855"
+      "Rotation": "0, -0, 4.908186"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009472:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -611,14 +628,15 @@
       "Ownership": {
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
-      "Scale": 0.72,
+      "Scale": 0.71999997,
       "Position": "-9311.524, -22836.895, 1989.9414",
-      "Rotation": "0, 0, 4.4871855"
+      "Rotation": "0, -0, 4.487186"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009477:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -643,12 +661,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9309.934, -22846.79, 1958.4584",
-      "Rotation": "0, 0, 4.835187"
+      "Rotation": "0, -0, 4.835186"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009481:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -673,12 +692,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9304.627, -22841.012, 1958.4584",
-      "Rotation": "0, 0, 5.0101857"
+      "Rotation": "0, -0, 5.010186"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009482:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -703,12 +723,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9304.339, -22837.338, 1945.5609",
-      "Rotation": "0, 0, 4.811187"
+      "Rotation": "0, -0, 4.811187"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "009484:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9937,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -734,12 +755,13 @@
       },
       "Scale": 0.51,
       "Position": "-9312.073, -22839.188, 1945.5847",
-      "Rotation": "0, 0, 1.9580028"
+      "Rotation": "0, -0, 1.958003"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "04DD6A:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9802,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -761,51 +783,15 @@
       "Ownership": {
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
-      "Scale": 0.54,
+      "Scale": 0.53999996,
       "Position": "-9492.929, -21809.604, 1920.5991",
-      "Rotation": "0, 0, 5.0411863"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0C652B:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2304,
-      "Fallout4MajorRecordFlags": [
-        "0x100",
-        "InitiallyDisabled"
-      ],
-      "Base": "0C652A:DCGuard_Overhaul.esp",
-      "Radius": -222.91139,
-      "Lighting": {
-        "Fade1PlusMinus": 5.0,
-        "ShadowDepthBias": 1.0
-      },
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Position": "-11355.419, -21554.986, 1916.8528",
-      "Rotation": "0, 0, 0.51719165"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0C652F:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0B0D64:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.62,
-      "Position": "-11348.268, -21571.252, 1915.1323",
-      "Rotation": "5.689754, 6.2504115, 4.6226354"
+      "Rotation": "0, -0, 5.0411863"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0C6B77:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 10051,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -835,17 +821,19 @@
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0C6B7A:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "0FFB67:DCGuard_Overhaul.esp",
       "Position": "-9701.091, -22405.73, 1928.0316",
-      "Rotation": "0, 0, 6.2041864"
+      "Rotation": "-3.1672478E-08, 4.0008754E-07, 6.2041864"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0C6B7B:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9971,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -869,13 +857,14 @@
       "Ownership": {
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
-      "Position": "-9480, -22823, 1948",
-      "Rotation": "0, 0, 5.910184"
+      "Position": "-9479.555, -22823.01, 1948.3248",
+      "Rotation": "0, -0, 5.9101844"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0C6B7D:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9971,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -900,12 +889,13 @@
         "Owner": "09B3D3:DCGuard_Overhaul.esp"
       },
       "Position": "-9822.916, -21499.342, 2003.0945",
-      "Rotation": "0, 0, 5.131184"
+      "Rotation": "0, -0, 5.131185"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0C6B7E:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9971,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -930,12 +920,13 @@
         "Owner": "09B3D3:DCGuard_Overhaul.esp"
       },
       "Position": "-9810.642, -21413.678, 1927.9459",
-      "Rotation": "0, 0, 5.131184"
+      "Rotation": "0, -0, 5.131185"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0C6B7F:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9971,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -960,12 +951,13 @@
         "Owner": "09B3D3:DCGuard_Overhaul.esp"
       },
       "Position": "-9829.274, -21430.752, 1928.3025",
-      "Rotation": "0, 0, 5.944185"
+      "Rotation": "0, -0, 5.9441853"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0C6B80:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9971,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -990,12 +982,13 @@
         "Owner": "09B3D3:DCGuard_Overhaul.esp"
       },
       "Position": "-9834.981, -21408.484, 1928.3025",
-      "Rotation": "0, 0, 5.944185"
+      "Rotation": "0, -0, 5.9441853"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0CF491:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9971,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1019,12 +1012,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9615.626, -22576.373, 1931.2101",
-      "Rotation": "0, 0, 5.8361855"
+      "Rotation": "0, -0, 5.836186"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0CF495:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9971,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1048,12 +1042,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9608.933, -22413.701, 1965.5411",
-      "Rotation": "0, 0, 5.8361855"
+      "Rotation": "0, -0, 5.836186"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0CF497:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9971,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1077,12 +1072,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9524.826, -22428.31, 1928.8148",
-      "Rotation": "0, 0, 5.8361855"
+      "Rotation": "0, -0, 5.836186"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0CF498:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 10021,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1106,28 +1102,13 @@
         "Owner": "2E73BC:DCGuard_Overhaul.esp"
       },
       "Position": "-9570.441, -22428.578, 1928.1348",
-      "Rotation": "0, 0, 4.9231863"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0E8AEE:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0B0D66:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.62,
-      "Position": "-11353.826, -21541.037, 1909.937",
-      "Rotation": "6.1882935, 6.278595, 1.4464085"
+      "Rotation": "0, -0, 4.9231863"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0E8AF0:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
@@ -1138,12 +1119,13 @@
       },
       "Scale": 1.43,
       "Position": "-11363.243, -21508.504, 2034.0046",
-      "Rotation": "0, 0, 1.4710071"
+      "Rotation": "0, -0, 1.4710065"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0E8AF3:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
@@ -1154,12 +1136,13 @@
       },
       "Scale": 1.62,
       "Position": "-11367.063, -21509.637, 2047.5306",
-      "Rotation": "6.279087, 6.2004514, 6.236847"
+      "Rotation": "-0.0040985346, -0.08273332, 6.236846"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0E8AF4:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
@@ -1170,36 +1153,13 @@
       },
       "Scale": 1.62,
       "Position": "-11362.42, -21507.588, 2035.8584",
-      "Rotation": "0.0061889375, 6.2662554, 3.0371854"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0E8AF5:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0AC789:DCGuard_Overhaul.esp",
-      "Scale": 1.62,
-      "Position": "-11353.826, -21541.037, 1882.0582",
-      "Rotation": "6.1882935, 6.278595, 1.4464085"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0E8AF6:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0AC789:DCGuard_Overhaul.esp",
-      "Scale": 1.62,
-      "Position": "-11350.567, -21547.326, 1889.6873",
-      "Rotation": "6.190191, 0, 4.6361895"
+      "Rotation": "0.0061892574, -0.016930558, 3.0371857"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0E8AF8:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9817,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1220,303 +1180,13 @@
       },
       "Base": "0366C1:Fallout4.esm",
       "Position": "-11380.156, -21476.295, 1882.7234",
-      "Rotation": "0, 0, 0.7811832"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFB1:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0B0D65:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9643.048, -21841.111, 1959.3708",
-      "Rotation": "0.7623424, 4.8020344, 5.518834"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFB2:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0B0D65:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9633.447, -21839.945, 1958.4204",
-      "Rotation": "0.4085554, 4.8669763, 5.8686066"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFB3:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0B0D65:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9623.873, -21840.445, 1958.4204",
-      "Rotation": "0.34939396, 4.8910565, 5.926409"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFB7:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0B0D66:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9628.373, -21838.988, 1982.9563",
-      "Rotation": "6.273513, 0.06932622, 3.0028512"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFBB:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0B0D66:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9633.899, -21842.219, 1990.4666",
-      "Rotation": "6.270207, 0.08604124, 6.1577396"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFBC:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0B0D66:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9628.316, -21840.031, 1998.8162",
-      "Rotation": "0.0029565878, 0.09877866, 3.0062616"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFBD:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0ECFAF:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.23,
-      "Position": "-9580.483, -21835.662, 1982.3031",
-      "Rotation": "0, 0, 3.0201876"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFBE:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0B0D64:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9570.651, -21837.992, 2003.5303",
-      "Rotation": "1.4976059, 0.18605559, 4.692597"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFBF:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0B0D64:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9588.232, -21836.715, 2000.6866",
-      "Rotation": "6.03867, 1.181923, 2.8712847"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFC0:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0B0D64:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9571.49, -21831.1, 2004.4807",
-      "Rotation": "1.5053918, 0.13691235, 4.7034492"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFC1:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0B0D64:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9572.356, -21838.885, 2004.2964",
-      "Rotation": "4.777851, 6.1398797, 1.5614344"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFC2:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0AC789:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9728.579, -21484.719, 1896.616",
-      "Rotation": "6.1940827, 6.1789823, 3.8512435"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFC3:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0AC789:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9732.98, -21482.598, 1888.8406",
-      "Rotation": "6.2073455, 6.219767, 0.7103368"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFC4:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0AC789:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9727.631, -21485.31, 1880.491",
-      "Rotation": "6.227443, 6.2163377, 3.8619773"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFC6:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0AC789:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Scale": 1.6,
-      "Position": "-9733.704, -21483.334, 1872.9807",
-      "Rotation": "6.2377825, 6.229893, 0.70621085"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFC7:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2304,
-      "Fallout4MajorRecordFlags": [
-        "0x100",
-        "InitiallyDisabled"
-      ],
-      "Base": "0B9714:DCGuard_Overhaul.esp",
-      "Radius": -185.72397,
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Position": "-9573.79, -21830.324, 2003.411",
-      "Rotation": "0, 0, 4.594187"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFC8:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2304,
-      "Fallout4MajorRecordFlags": [
-        "0x100",
-        "InitiallyDisabled"
-      ],
-      "Base": "0C6529:DCGuard_Overhaul.esp",
-      "Radius": -185.72397,
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Position": "-9629.9, -21839.863, 2001.1056",
-      "Rotation": "0, 0, 2.1611872"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0ECFC9:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2304,
-      "Fallout4MajorRecordFlags": [
-        "0x100",
-        "InitiallyDisabled"
-      ],
-      "Base": "0C652A:DCGuard_Overhaul.esp",
-      "Radius": -185.72397,
-      "EnableParent": {
-        "Reference": "2113E5:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Position": "-9636.507, -21829.895, 1964.4993",
-      "Rotation": "0, 0, 4.210186"
+      "Rotation": "0, -0, 0.7811831"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F6342:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9926,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1542,12 +1212,13 @@
       },
       "Scale": 0.7,
       "Position": "-11235.636, -21514.795, 1933.7811",
-      "Rotation": "0, 0, 3.9710011"
+      "Rotation": "0, -0, 3.9710019"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F6343:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 10021,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1571,14 +1242,15 @@
         "Reference": "17F7D0:DCGuard_Overhaul.esp",
         "Unknown": "0x000000"
       },
-      "Scale": 0.23,
+      "Scale": 0.22999999,
       "Position": "-11220.891, -21514.262, 1934.673",
-      "Rotation": "0, 0, 3.5301867"
+      "Rotation": "0, -0, 3.530186"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F6345:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 10021,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1602,14 +1274,15 @@
         "Reference": "17F7D0:DCGuard_Overhaul.esp",
         "Unknown": "0x000000"
       },
-      "Scale": 0.23,
+      "Scale": 0.22999999,
       "Position": "-11227.122, -21506.053, 1934.673",
-      "Rotation": "0, 0, 6.0021853"
+      "Rotation": "0, -0, 6.0021863"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9DEE:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1635,12 +1308,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9680.775, -21850.271, 1872.5656",
-      "Rotation": "0, 0, 3.5090053"
+      "Rotation": "0, -0, 3.5090048"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9DEF:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1666,12 +1340,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9673.22, -21849.754, 1872.5656",
-      "Rotation": "0, 0, 2.0160036"
+      "Rotation": "0, -0, 2.0160043"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9DF1:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1697,12 +1372,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9688.792, -21851.184, 1872.5656",
-      "Rotation": "0, 0, 5.458191"
+      "Rotation": "0, -0, 5.458191"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9DF2:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1728,12 +1404,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9696.562, -21852.137, 1872.5656",
-      "Rotation": "0, 0, 5.8551903"
+      "Rotation": "0, -0, 5.85519"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9E06:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1759,12 +1436,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9666.423, -21841.502, 1872.5656",
-      "Rotation": "0, 0, 3.9151888"
+      "Rotation": "0, -0, 3.915189"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9E07:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1790,12 +1468,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9673.813, -21842.512, 1872.5656",
-      "Rotation": "0, 0, 1.642189"
+      "Rotation": "0, -0, 1.6421895"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9E09:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1821,12 +1500,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9689.626, -21844.154, 1872.5656",
-      "Rotation": "0, 0, 4.7283764"
+      "Rotation": "0, -0, 4.7283754"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9E0A:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1852,12 +1532,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9697.193, -21844.549, 1872.5656",
-      "Rotation": "0, 0, 1.6391888"
+      "Rotation": "0, -0, 1.6391884"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9E0C:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1883,12 +1564,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9705.786, -21837.463, 1872.5656",
-      "Rotation": "0, 0, 1.0241907"
+      "Rotation": "0, -0, 1.0241908"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9E0D:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1914,12 +1596,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9698.3955, -21836.447, 1872.5656",
-      "Rotation": "0, 0, 0.8661912"
+      "Rotation": "0, -0, 0.86619097"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9E0F:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1945,12 +1628,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9682.576, -21834.777, 1872.5656",
-      "Rotation": "0, 0, 5.8683763"
+      "Rotation": "0, -0, 5.8683763"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9E10:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -1976,12 +1660,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9675.017, -21834.373, 1872.5656",
-      "Rotation": "0, 0, 2.9403772"
+      "Rotation": "0, -0, 2.940378"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9E12:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2007,12 +1692,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9706.322, -21829.283, 1872.5656",
-      "Rotation": "0, 0, 5.8683763"
+      "Rotation": "0, -0, 5.8683763"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9E13:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2038,12 +1724,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9698.933, -21828.273, 1872.5656",
-      "Rotation": "0, 0, 6.152376"
+      "Rotation": "0, -0, 6.1523767"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9E15:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2069,12 +1756,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9683.111, -21826.596, 1872.5656",
-      "Rotation": "0, 0, 5.8683763"
+      "Rotation": "0, -0, 5.8683763"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "0F9E16:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9819,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2100,27 +1788,13 @@
         "Owner": "1DD381:DCGuard_Overhaul.esp"
       },
       "Position": "-9675.554, -21826.197, 1872.5656",
-      "Rotation": "0, 0, 5.8683763"
-    },
-    {
-      "MutagenObjectType": "PlacedObject",
-      "FormKey": "0FA805:DCGuard_Overhaul.esp",
-      "MajorRecordFlagsRaw": 2048,
-      "Fallout4MajorRecordFlags": [
-        "InitiallyDisabled"
-      ],
-      "Base": "0FA804:DCGuard_Overhaul.esp",
-      "Layer": "92C5B6:DCGuard_Overhaul.esp",
-      "EnableParent": {
-        "Reference": "0AD1DE:DCGuard_Overhaul.esp",
-        "Unknown": "0x000000"
-      },
-      "Position": "-10973.522, -21292.625, 1950.45"
+      "Rotation": "0, -0, 5.8683763"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "13AE4D:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9926,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2145,12 +1819,13 @@
         "Unknown": "0x000000"
       },
       "Position": "-11364.191, -20965.24, 1927.9905",
-      "Rotation": "0, 0, 2.3520005"
+      "Rotation": "0, -0, 2.352"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "13AE4E:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9926,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2175,12 +1850,13 @@
         "Unknown": "0x000000"
       },
       "Position": "-11208.032, -21211.758, 1950.4812",
-      "Rotation": "0, 0, 3.558187"
+      "Rotation": "0, -0, 3.5581868"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "13AE4F:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9926,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2205,12 +1881,13 @@
         "Unknown": "0x000000"
       },
       "Position": "-10988.081, -20936.16, 1928",
-      "Rotation": "0, 0, 0.28600013"
+      "Rotation": "0, -0, 0.2860006"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "13AE50:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9926,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2235,12 +1912,13 @@
         "Unknown": "0x000000"
       },
       "Position": "-11253.746, -20952.883, 1928",
-      "Rotation": "0, 0, 1.5841864"
+      "Rotation": "0, -0, 1.5841873"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "13AE51:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9934,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2265,12 +1943,13 @@
         "Unknown": "0x000000"
       },
       "Position": "-11648.332, -21653.016, 1942",
-      "Rotation": "0, 0, 5.128184"
+      "Rotation": "0, -0, 5.128185"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "13AE52:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9926,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2295,12 +1974,13 @@
         "Unknown": "0x000000"
       },
       "Position": "-10895.002, -21576.676, 1927.9602",
-      "Rotation": "0, 0, 6.245186"
+      "Rotation": "0, -0, 6.245187"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "13AE53:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9926,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2325,12 +2005,13 @@
         "Unknown": "0x000000"
       },
       "Position": "-11004.639, -21174.896, 1950.4993",
-      "Rotation": "0, 0, 6.007001"
+      "Rotation": "0, -0, 6.0070004"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "13AE54:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9902,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2350,7 +2031,6 @@
         ]
       },
       "Base": "136962:DCGuard_Overhaul.esp",
-      "Layer": "92C5B7:DCGuard_Overhaul.esp",
       "EnableParent": {
         "Reference": "17F7CF:DCGuard_Overhaul.esp",
         "Unknown": "0x000000"
@@ -2361,39 +2041,43 @@
       "MutagenObjectType": "PlacedObject",
       "FormKey": "13F2D6:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "13F2D7:DCGuard_Overhaul.esp",
       "Position": "-11295.618, -21509.158, 1949.3748",
-      "Rotation": "0, 0, 5.660188"
+      "Rotation": "0, -0, 5.660189"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D545A:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 9919,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "060CB4:Fallout4.esm",
       "Position": "-10003.589, -21161.979, 1871.9905",
-      "Rotation": "0, 0, 6.2671876"
+      "Rotation": "0, -0, 6.2671876"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D545B:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 9919,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "060CB4:Fallout4.esm",
       "Position": "-10047.935, -21163.385, 1871.9905",
-      "Rotation": "0, 0, 6.187187"
+      "Rotation": "0, -0, 6.1871877"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D545D:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9919,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2414,12 +2098,13 @@
       },
       "Base": "075FE4:Fallout4.esm",
       "Position": "-10167.501, -21165.934, 1931.3688",
-      "Rotation": "0, 0, 5.7591853"
+      "Rotation": "0, -0, 5.759185"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D545E:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9919,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2440,12 +2125,13 @@
       },
       "Base": "075FE4:Fallout4.esm",
       "Position": "-10160.476, -21174.803, 1931.3688",
-      "Rotation": "0, 0, 6.104184"
+      "Rotation": "0, -0, 6.104185"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D545F:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9919,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2466,12 +2152,13 @@
       },
       "Base": "075FE4:Fallout4.esm",
       "Position": "-10172.886, -21200.422, 1931.9441",
-      "Rotation": "0, 0, 3.0521882"
+      "Rotation": "0, -0, 3.0521874"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D5460:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9919,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2492,34 +2179,37 @@
       },
       "Base": "075FE4:Fallout4.esm",
       "Position": "-10147.4375, -21201.65, 1931.9441",
-      "Rotation": "0, 0, 0.9771889"
+      "Rotation": "0, -0, 0.9771883"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D5462:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 9919,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "04D1F2:Fallout4.esm",
       "Position": "-10080.353, -21155.05, 1936.1165",
-      "Rotation": "0, 0, 5.6575356"
+      "Rotation": "0, -0, 5.6575356"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D5463:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 9919,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "04D1F2:Fallout4.esm",
       "Position": "-10080.639, -21154.777, 1940.7012",
-      "Rotation": "0, 0, 0.31253436"
+      "Rotation": "0, -0, 0.31253386"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D5467:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9919,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2540,12 +2230,13 @@
       },
       "Base": "0366C0:Fallout4.esm",
       "Position": "-10158.346, -21398.896, 1929.1078",
-      "Rotation": "0, 0, 0.18799989"
+      "Rotation": "0, -0, 0.188"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D5469:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9919,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2566,12 +2257,13 @@
       },
       "Base": "0366C0:Fallout4.esm",
       "Position": "-10143.711, -21424.395, 1929.1078",
-      "Rotation": "0, 0, 3.8061862"
+      "Rotation": "0, -0, 3.8061852"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D546A:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9919,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2592,23 +2284,25 @@
       },
       "Base": "0366C0:Fallout4.esm",
       "Position": "-10159.403, -21428.287, 1929.1078",
-      "Rotation": "0, 0, 1.3889993"
+      "Rotation": "0, -0, 1.3889999"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D991C:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "1D4950:DCGuard_Overhaul.esp",
       "Position": "-9926.597, -21144.115, 1931.5",
-      "Rotation": "0, 0, 4.813185"
+      "Rotation": "0, -0, 4.813185"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "1D9920:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 536872960,
+      "VersionControl": 9923,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled",
         "0x20000000"
@@ -2629,96 +2323,104 @@
       },
       "Base": "060E77:Fallout4.esm",
       "Position": "-9843.234, -21520.51, 1954.075",
-      "Rotation": "5.4762497, 0.51818126, 3.6031885"
+      "Rotation": "-0.806935, 0.51818186, 3.603189"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "51ADED:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "06AFD9:Fallout4.esm",
       "Position": "-10237.61, -21268.928, 1929.4932",
-      "Rotation": "0, 0, 4.6091895"
+      "Rotation": "0, -0, 4.6091895"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "51ADEE:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "249918:Fallout4.esm",
       "Position": "-10214.936, -21296.389, 1929.8519",
-      "Rotation": "1.5707998, 4.7415867, 3.1415892"
+      "Rotation": "1.5708004, -1.5415983, 3.1415887"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "51ADEF:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "249730:Fallout4.esm",
       "Position": "-10224.48, -21296.658, 1930.2029",
-      "Rotation": "0.80620426, 4.752837, 3.9057746"
+      "Rotation": "0.80620444, -1.5303487, 3.9057753"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "51ADF0:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "06B04F:Fallout4.esm",
       "Position": "-10136.736, -21405.803, 1929.1881",
-      "Rotation": "0, 0, 4.590001"
+      "Rotation": "0, -0, 4.590001"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "56C221:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "249924:Fallout4.esm",
       "Position": "-9798.841, -21558.5, 1929.6371",
-      "Rotation": "4.890062, 1.321422, 0.17228669"
+      "Rotation": "-1.3931233, 1.3214223, 0.17228708"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "56C222:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "249927:Fallout4.esm",
       "Scale": 0.89,
-      "Position": "-9311.683, -22029.96, 1984.5282",
-      "Rotation": "0.020265019, 6.190074, 1.4664501"
+      "Position": "-9320.486, -22031.76, 1980.0154",
+      "Rotation": "0.030932527, -0.09013839, 1.3499994"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "56C225:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "249930:Fallout4.esm",
       "Position": "-9666.542, -21462.846, 1929.6167",
-      "Rotation": "4.712389, 0.6581881, 0"
+      "Rotation": "-1.5707965, 0.65818876, 0"
     },
     {
       "MutagenObjectType": "PlacedObject",
       "FormKey": "56C226:DCGuard_Overhaul.esp",
       "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 10022,
       "Fallout4MajorRecordFlags": [
         "InitiallyDisabled"
       ],
       "Base": "249933:Fallout4.esm",
       "Position": "-9807.94, -21560.576, 1928.8564",
-      "Rotation": "4.712389, 1.4251888, 0"
+      "Rotation": "-1.570797, 1.425189, 6.2831845"
     }
   ],
   "MajorFlags": [

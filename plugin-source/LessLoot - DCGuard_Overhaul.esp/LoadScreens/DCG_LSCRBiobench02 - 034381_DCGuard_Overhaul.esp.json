@@ -1,5 +1,6 @@
 {
   "FormKey": "034381:DCGuard_Overhaul.esp",
+  "VersionControl": 10091,
   "EditorID": "DCG_LSCRBiobench02",
   "Description": {
     "TargetLanguage": "English",
@@ -24,7 +25,7 @@
         "MutagenObjectType": "FunctionConditionData",
         "Function": "GetQuestCompleted",
         "ParameterOneRecord": "243E1B:DCGuard_Overhaul.esp",
-        "ParameterOneNumber": 35929627
+        "ParameterOneNumber": 119815707
       }
     }
   ],
